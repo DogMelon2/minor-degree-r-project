@@ -1,0 +1,1081 @@
+"country_name","product","flow","year","2021_value","2022_value","match","number_of_records","is_consumption_pattern","raw_row_number"
+"Australia","Crude oil","Consumption Pattern",2021,1354.909,"1301.929",FALSE,2,TRUE,722
+"Australia","Crude oil","Consumption Pattern",2021,1301.929,"1301.929",TRUE,2,TRUE,758
+"Australia","Crude oil","Industrial Production",2021,18029.678,"1469.537",FALSE,2,FALSE,2
+"Australia","Crude oil","Industrial Production",2021,16725.052,"1469.537",FALSE,2,FALSE,38
+"Australia","Gasoline and diesel","Net Deliveries",2021,25935.536,"2332.608",FALSE,2,FALSE,362
+"Australia","Gasoline and diesel","Net Deliveries",2021,26337.065,"2332.608",FALSE,2,FALSE,398
+"Australia","Liquified Petroleum Gas","Net Deliveries",2021,836,"58",FALSE,2,FALSE,74
+"Australia","Liquified Petroleum Gas","Net Deliveries",2021,810,"58",FALSE,2,FALSE,110
+"Australia","Middle distillates","Consumption Pattern",2021,1936.134,"1981.457",FALSE,2,TRUE,938
+"Australia","Middle distillates","Consumption Pattern",2021,1981.457,"1981.457",TRUE,2,TRUE,974
+"Australia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,146
+"Australia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,182
+"Australia","Other oil products","Net Deliveries",2021,1851.196,"144.931",FALSE,2,FALSE,506
+"Australia","Other oil products","Net Deliveries",2021,1774.44,"144.931",FALSE,2,FALSE,542
+"Australia","Residual fuel oil","Consumption Pattern",2021,135.096,"98.618",FALSE,2,TRUE,1010
+"Australia","Residual fuel oil","Consumption Pattern",2021,98.618,"98.618",TRUE,2,TRUE,1046
+"Australia","Residual fuel oil","Net Deliveries",2021,195.404,"26.456",FALSE,2,FALSE,434
+"Australia","Residual fuel oil","Net Deliveries",2021,219.085,"26.456",FALSE,2,FALSE,470
+"Australia","Total gas oil production","Consumption Pattern",2021,783.598,"842.388",FALSE,2,TRUE,866
+"Australia","Total gas oil production","Consumption Pattern",2021,842.388,"842.388",TRUE,2,TRUE,902
+"Australia","Total gas oil production","Net Deliveries",2021,11540.348,"1075.634",FALSE,2,FALSE,218
+"Australia","Total gas oil production","Net Deliveries",2021,11898.631,"1075.634",FALSE,2,FALSE,254
+"Australia","Total kerosene production","Net Deliveries",2021,2928.885,"524.231",FALSE,2,FALSE,290
+"Australia","Total kerosene production","Net Deliveries",2021,4950.512,"524.231",FALSE,2,FALSE,326
+"Australia","Total oil production","Consumption Pattern",2021,4973.127,"4971.319",FALSE,2,TRUE,650
+"Australia","Total oil production","Consumption Pattern",2021,4971.319,"4971.319",TRUE,2,TRUE,686
+"Australia","Total oil products production","Consumption Pattern",2021,3618.218,"3669.39",FALSE,2,TRUE,794
+"Australia","Total oil products production","Consumption Pattern",2021,3669.39,"3669.39",TRUE,2,TRUE,830
+"Australia","Total oil products production","Net Deliveries",2021,43287.369,"4161.86",FALSE,2,FALSE,578
+"Australia","Total oil products production","Net Deliveries",2021,45989.733,"4161.86",FALSE,2,FALSE,614
+"Austria","Crude oil","Consumption Pattern",2021,1090.5,"1157.987",FALSE,2,TRUE,723
+"Austria","Crude oil","Consumption Pattern",2021,1157.987,"1157.987",TRUE,2,TRUE,759
+"Austria","Crude oil","Industrial Production",2021,561.852,"41.264",FALSE,2,FALSE,3
+"Austria","Crude oil","Industrial Production",2021,515.782,"41.264",FALSE,2,FALSE,39
+"Austria","Gasoline and diesel","Net Deliveries",2021,7447.889,"585.436",FALSE,2,FALSE,363
+"Austria","Gasoline and diesel","Net Deliveries",2021,7017.216,"585.436",FALSE,2,FALSE,399
+"Austria","Liquified Petroleum Gas","Net Deliveries",2021,81.893,"7.008",FALSE,2,FALSE,75
+"Austria","Liquified Petroleum Gas","Net Deliveries",2021,85.57,"7.008",FALSE,2,FALSE,111
+"Austria","Middle distillates","Consumption Pattern",2021,1186.67,"1084.896",FALSE,2,TRUE,939
+"Austria","Middle distillates","Consumption Pattern",2021,1084.896,"1084.896",TRUE,2,TRUE,975
+"Austria","Naphtha","Net Deliveries",2021,1081.534,"78.529",FALSE,2,FALSE,147
+"Austria","Naphtha","Net Deliveries",2021,832.786,"78.529",FALSE,2,FALSE,183
+"Austria","Other oil products","Net Deliveries",2021,589.49,"25.239",FALSE,2,FALSE,507
+"Austria","Other oil products","Net Deliveries",2021,506.077,"25.239",FALSE,2,FALSE,543
+"Austria","Residual fuel oil","Consumption Pattern",2021,99.854,"140.234",FALSE,2,TRUE,1011
+"Austria","Residual fuel oil","Consumption Pattern",2021,140.234,"140.234",TRUE,2,TRUE,1047
+"Austria","Residual fuel oil","Net Deliveries",2021,65.507,"4.706",FALSE,2,FALSE,435
+"Austria","Residual fuel oil","Net Deliveries",2021,54.118,"4.706",FALSE,2,FALSE,471
+"Austria","Total gas oil production","Consumption Pattern",2021,288.886,"349.824",FALSE,2,TRUE,867
+"Austria","Total gas oil production","Consumption Pattern",2021,349.824,"349.824",TRUE,2,TRUE,903
+"Austria","Total gas oil production","Net Deliveries",2021,1442.387,"121.234",FALSE,2,FALSE,219
+"Austria","Total gas oil production","Net Deliveries",2021,1501.374,"121.234",FALSE,2,FALSE,255
+"Austria","Total kerosene production","Net Deliveries",2021,404.516,"57.957",FALSE,2,FALSE,291
+"Austria","Total kerosene production","Net Deliveries",2021,610.129,"57.957",FALSE,2,FALSE,327
+"Austria","Total oil production","Consumption Pattern",2021,2771.875,"2828.824",FALSE,2,TRUE,651
+"Austria","Total oil production","Consumption Pattern",2021,2828.824,"2828.824",TRUE,2,TRUE,687
+"Austria","Total oil products production","Consumption Pattern",2021,1681.375,"1670.837",FALSE,2,TRUE,795
+"Austria","Total oil products production","Consumption Pattern",2021,1670.837,"1670.837",TRUE,2,TRUE,831
+"Austria","Total oil products production","Net Deliveries",2021,11113.216,"880.109",FALSE,2,FALSE,579
+"Austria","Total oil products production","Net Deliveries",2021,10607.27,"880.109",FALSE,2,FALSE,615
+"Belgium","Crude oil","Consumption Pattern",2021,950.8,"881.2",FALSE,2,TRUE,724
+"Belgium","Crude oil","Consumption Pattern",2021,881.2,"881.2",TRUE,2,TRUE,760
+"Belgium","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,4
+"Belgium","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,40
+"Belgium","Gasoline and diesel","Net Deliveries",2021,9352,"871.8",FALSE,2,FALSE,364
+"Belgium","Gasoline and diesel","Net Deliveries",2021,8976,"871.8",FALSE,2,FALSE,400
+"Belgium","Liquified Petroleum Gas","Net Deliveries",2021,2211.3,"204.7",FALSE,2,FALSE,76
+"Belgium","Liquified Petroleum Gas","Net Deliveries",2021,2378.1,"204.7",FALSE,2,FALSE,112
+"Belgium","Middle distillates","Consumption Pattern",2021,3136.7,"3218.4",FALSE,2,TRUE,940
+"Belgium","Middle distillates","Consumption Pattern",2021,3218.4,"3218.4",TRUE,2,TRUE,976
+"Belgium","Naphtha","Net Deliveries",2021,4938.3,"304.2",FALSE,2,FALSE,148
+"Belgium","Naphtha","Net Deliveries",2021,3992.5,"304.2",FALSE,2,FALSE,184
+"Belgium","Other oil products","Net Deliveries",2021,692.1,"-29.1",FALSE,2,FALSE,508
+"Belgium","Other oil products","Net Deliveries",2021,208.7,"-29.1",FALSE,2,FALSE,544
+"Belgium","Residual fuel oil","Consumption Pattern",2021,555.1,"503.9",FALSE,2,TRUE,1012
+"Belgium","Residual fuel oil","Consumption Pattern",2021,503.9,"503.9",TRUE,2,TRUE,1048
+"Belgium","Residual fuel oil","Net Deliveries",2021,48,"2.1",FALSE,2,FALSE,436
+"Belgium","Residual fuel oil","Net Deliveries",2021,30.5,"2.1",FALSE,2,FALSE,472
+"Belgium","Total gas oil production","Consumption Pattern",2021,487.6,"504.7",FALSE,2,TRUE,868
+"Belgium","Total gas oil production","Consumption Pattern",2021,504.7,"504.7",TRUE,2,TRUE,904
+"Belgium","Total gas oil production","Net Deliveries",2021,1997.2,"180",FALSE,2,FALSE,220
+"Belgium","Total gas oil production","Net Deliveries",2021,2138.9,"180",FALSE,2,FALSE,256
+"Belgium","Total kerosene production","Net Deliveries",2021,1489.4,"141.8",FALSE,2,FALSE,292
+"Belgium","Total kerosene production","Net Deliveries",2021,1710.1,"141.8",FALSE,2,FALSE,328
+"Belgium","Total oil production","Consumption Pattern",2021,5782.5,"6011.1",FALSE,2,TRUE,652
+"Belgium","Total oil production","Consumption Pattern",2021,6011.1,"6011.1",TRUE,2,TRUE,688
+"Belgium","Total oil products production","Consumption Pattern",2021,4831.7,"5129.9",FALSE,2,TRUE,796
+"Belgium","Total oil products production","Consumption Pattern",2021,5129.9,"5129.9",TRUE,2,TRUE,832
+"Belgium","Total oil products production","Net Deliveries",2021,20728.3,"1675.5",FALSE,2,FALSE,580
+"Belgium","Total oil products production","Net Deliveries",2021,19434.8,"1675.5",FALSE,2,FALSE,616
+"Canada","Crude oil","Consumption Pattern",2021,10494.175,"10266.605",FALSE,2,TRUE,725
+"Canada","Crude oil","Consumption Pattern",2021,10266.605,"10266.605",TRUE,2,TRUE,761
+"Canada","Crude oil","Industrial Production",2021,266630.18,"23736.898",FALSE,2,FALSE,5
+"Canada","Crude oil","Industrial Production",2021,274365.886,"23736.898",FALSE,2,FALSE,41
+"Canada","Gasoline and diesel","Net Deliveries",2021,27628.413,"2413.517",FALSE,2,FALSE,365
+"Canada","Gasoline and diesel","Net Deliveries",2021,28738.092,"2413.517",FALSE,2,FALSE,401
+"Canada","Liquified Petroleum Gas","Net Deliveries",2021,6518.472,"745.87",FALSE,2,FALSE,77
+"Canada","Liquified Petroleum Gas","Net Deliveries",2021,7217.096,"745.87",FALSE,2,FALSE,113
+"Canada","Middle distillates","Consumption Pattern",2021,2497.532,"2457.379",FALSE,2,TRUE,941
+"Canada","Middle distillates","Consumption Pattern",2021,2457.379,"2457.379",TRUE,2,TRUE,977
+"Canada","Naphtha","Net Deliveries",2021,688.231,"94.944",FALSE,2,FALSE,149
+"Canada","Naphtha","Net Deliveries",2021,863.561,"94.944",FALSE,2,FALSE,185
+"Canada","Other oil products","Net Deliveries",2021,20420.618,"1720.08",FALSE,2,FALSE,509
+"Canada","Other oil products","Net Deliveries",2021,19803.959,"1720.08",FALSE,2,FALSE,545
+"Canada","Residual fuel oil","Consumption Pattern",2021,301.166,"353.408",FALSE,2,TRUE,1013
+"Canada","Residual fuel oil","Consumption Pattern",2021,353.408,"353.408",TRUE,2,TRUE,1049
+"Canada","Residual fuel oil","Net Deliveries",2021,2459.029,"320.625",FALSE,2,FALSE,437
+"Canada","Residual fuel oil","Net Deliveries",2021,2804.956,"320.625",FALSE,2,FALSE,473
+"Canada","Total gas oil production","Consumption Pattern",2021,1867.25,"1789.443",FALSE,2,TRUE,869
+"Canada","Total gas oil production","Consumption Pattern",2021,1789.443,"1789.443",TRUE,2,TRUE,905
+"Canada","Total gas oil production","Net Deliveries",2021,30268.63,"2734.391",FALSE,2,FALSE,221
+"Canada","Total gas oil production","Net Deliveries",2021,31044.769,"2734.391",FALSE,2,FALSE,257
+"Canada","Total kerosene production","Net Deliveries",2021,3993.818,"645.202",FALSE,2,FALSE,293
+"Canada","Total kerosene production","Net Deliveries",2021,6209.252,"645.202",FALSE,2,FALSE,329
+"Canada","Total oil production","Consumption Pattern",2021,16735.657,"16600.13",FALSE,2,TRUE,653
+"Canada","Total oil production","Consumption Pattern",2021,16600.13,"16600.13",TRUE,2,TRUE,689
+"Canada","Total oil products production","Consumption Pattern",2021,6241.482,"6333.525",FALSE,2,TRUE,797
+"Canada","Total oil products production","Consumption Pattern",2021,6333.525,"6333.525",TRUE,2,TRUE,833
+"Canada","Total oil products production","Net Deliveries",2021,91977.211,"8674.629",FALSE,2,FALSE,581
+"Canada","Total oil products production","Net Deliveries",2021,96681.685,"8674.629",FALSE,2,FALSE,617
+"Chile","Crude oil","Consumption Pattern",2021,447.852,"397.067",FALSE,2,TRUE,726
+"Chile","Crude oil","Consumption Pattern",2021,397.067,"397.067",TRUE,2,TRUE,762
+"Chile","Crude oil","Industrial Production",2021,340.997,"29.395",FALSE,2,FALSE,6
+"Chile","Crude oil","Industrial Production",2021,378.02,"29.395",FALSE,2,FALSE,42
+"Chile","Gasoline and diesel","Net Deliveries",2021,9178.457,"800.082",FALSE,2,FALSE,366
+"Chile","Gasoline and diesel","Net Deliveries",2021,9459.054,"800.082",FALSE,2,FALSE,402
+"Chile","Liquified Petroleum Gas","Net Deliveries",2021,1382.13,"93.559",FALSE,2,FALSE,78
+"Chile","Liquified Petroleum Gas","Net Deliveries",2021,1373.065,"93.559",FALSE,2,FALSE,114
+"Chile","Middle distillates","Consumption Pattern",2021,299.552,"404.645",FALSE,2,TRUE,942
+"Chile","Middle distillates","Consumption Pattern",2021,404.645,"404.645",TRUE,2,TRUE,978
+"Chile","Naphtha","Net Deliveries",2021,43.371,"2.384",FALSE,2,FALSE,150
+"Chile","Naphtha","Net Deliveries",2021,58.649,"2.384",FALSE,2,FALSE,186
+"Chile","Other oil products","Net Deliveries",2021,585.197,"180.343",FALSE,2,FALSE,510
+"Chile","Other oil products","Net Deliveries",2021,801.325,"180.343",FALSE,2,FALSE,546
+"Chile","Residual fuel oil","Consumption Pattern",2021,118.115,"61.409",FALSE,2,TRUE,1014
+"Chile","Residual fuel oil","Consumption Pattern",2021,61.409,"61.409",TRUE,2,TRUE,1050
+"Chile","Residual fuel oil","Net Deliveries",2021,571.322,"29.161",FALSE,2,FALSE,438
+"Chile","Residual fuel oil","Net Deliveries",2021,378.812,"29.161",FALSE,2,FALSE,474
+"Chile","Total gas oil production","Consumption Pattern",2021,171.943,"166.29",FALSE,2,TRUE,870
+"Chile","Total gas oil production","Consumption Pattern",2021,166.29,"166.29",TRUE,2,TRUE,906
+"Chile","Total gas oil production","Net Deliveries",2021,3737.065,"351.152",FALSE,2,FALSE,222
+"Chile","Total gas oil production","Net Deliveries",2021,4088.833,"351.152",FALSE,2,FALSE,258
+"Chile","Total kerosene production","Net Deliveries",2021,824.11,"59.375",FALSE,2,FALSE,294
+"Chile","Total kerosene production","Net Deliveries",2021,900.131,"59.375",FALSE,2,FALSE,330
+"Chile","Total oil production","Consumption Pattern",2021,1379.215,"1337.793",FALSE,2,TRUE,654
+"Chile","Total oil production","Consumption Pattern",2021,1337.793,"1337.793",TRUE,2,TRUE,690
+"Chile","Total oil products production","Consumption Pattern",2021,931.363,"940.726",FALSE,2,TRUE,798
+"Chile","Total oil products production","Consumption Pattern",2021,940.726,"940.726",TRUE,2,TRUE,834
+"Chile","Total oil products production","Net Deliveries",2021,16321.652,"1516.056",FALSE,2,FALSE,582
+"Chile","Total oil products production","Net Deliveries",2021,17059.869,"1516.056",FALSE,2,FALSE,618
+"Czech Republic","Crude oil","Consumption Pattern",2021,1209,"1244",FALSE,2,TRUE,727
+"Czech Republic","Crude oil","Consumption Pattern",2021,1244,"1244",TRUE,2,TRUE,763
+"Czech Republic","Crude oil","Industrial Production",2021,87,"8",FALSE,2,FALSE,7
+"Czech Republic","Crude oil","Industrial Production",2021,78,"8",FALSE,2,FALSE,43
+"Czech Republic","Gasoline and diesel","Net Deliveries",2021,5137,"406",FALSE,2,FALSE,367
+"Czech Republic","Gasoline and diesel","Net Deliveries",2021,5181,"406",FALSE,2,FALSE,403
+"Czech Republic","Liquified Petroleum Gas","Net Deliveries",2021,432,"31",FALSE,2,FALSE,79
+"Czech Republic","Liquified Petroleum Gas","Net Deliveries",2021,422,"31",FALSE,2,FALSE,115
+"Czech Republic","Middle distillates","Consumption Pattern",2021,995,"981",FALSE,2,TRUE,943
+"Czech Republic","Middle distillates","Consumption Pattern",2021,981,"981",TRUE,2,TRUE,979
+"Czech Republic","Naphtha","Net Deliveries",2021,1026,"80",FALSE,2,FALSE,151
+"Czech Republic","Naphtha","Net Deliveries",2021,1002,"80",FALSE,2,FALSE,187
+"Czech Republic","Other oil products","Net Deliveries",2021,1231,"79",FALSE,2,FALSE,511
+"Czech Republic","Other oil products","Net Deliveries",2021,1330,"79",FALSE,2,FALSE,547
+"Czech Republic","Residual fuel oil","Consumption Pattern",2021,29,"35",FALSE,2,TRUE,1015
+"Czech Republic","Residual fuel oil","Consumption Pattern",2021,35,"35",TRUE,2,TRUE,1051
+"Czech Republic","Residual fuel oil","Net Deliveries",2021,64,"5",FALSE,2,FALSE,439
+"Czech Republic","Residual fuel oil","Net Deliveries",2021,58,"5",FALSE,2,FALSE,475
+"Czech Republic","Total gas oil production","Consumption Pattern",2021,402,"420",FALSE,2,TRUE,871
+"Czech Republic","Total gas oil production","Consumption Pattern",2021,420,"420",TRUE,2,TRUE,907
+"Czech Republic","Total gas oil production","Net Deliveries",2021,1518,"127",FALSE,2,FALSE,223
+"Czech Republic","Total gas oil production","Net Deliveries",2021,1595,"127",FALSE,2,FALSE,259
+"Czech Republic","Total kerosene production","Net Deliveries",2021,168,"17",FALSE,2,FALSE,295
+"Czech Republic","Total kerosene production","Net Deliveries",2021,276,"17",FALSE,2,FALSE,331
+"Czech Republic","Total oil production","Consumption Pattern",2021,2764,"2843",FALSE,2,TRUE,655
+"Czech Republic","Total oil production","Consumption Pattern",2021,2843,"2843",TRUE,2,TRUE,691
+"Czech Republic","Total oil products production","Consumption Pattern",2021,1555,"1599",FALSE,2,TRUE,799
+"Czech Republic","Total oil products production","Consumption Pattern",2021,1599,"1599",TRUE,2,TRUE,835
+"Czech Republic","Total oil products production","Net Deliveries",2021,9576,"745",FALSE,2,FALSE,583
+"Czech Republic","Total oil products production","Net Deliveries",2021,9864,"745",FALSE,2,FALSE,619
+"Denmark","Crude oil","Consumption Pattern",2021,645,"564",FALSE,2,TRUE,728
+"Denmark","Crude oil","Consumption Pattern",2021,564,"564",TRUE,2,TRUE,764
+"Denmark","Crude oil","Industrial Production",2021,3239,"248",FALSE,2,FALSE,8
+"Denmark","Crude oil","Industrial Production",2021,3186,"248",FALSE,2,FALSE,44
+"Denmark","Gasoline and diesel","Net Deliveries",2021,3676,"323",FALSE,2,FALSE,368
+"Denmark","Gasoline and diesel","Net Deliveries",2021,3706,"323",FALSE,2,FALSE,404
+"Denmark","Liquified Petroleum Gas","Net Deliveries",2021,62,"6",FALSE,2,FALSE,80
+"Denmark","Liquified Petroleum Gas","Net Deliveries",2021,64,"6",FALSE,2,FALSE,116
+"Denmark","Middle distillates","Consumption Pattern",2021,1599,"1453",FALSE,2,TRUE,944
+"Denmark","Middle distillates","Consumption Pattern",2021,1453,"1453",TRUE,2,TRUE,980
+"Denmark","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,152
+"Denmark","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,188
+"Denmark","Other oil products","Net Deliveries",2021,404,"27",FALSE,2,FALSE,512
+"Denmark","Other oil products","Net Deliveries",2021,402,"27",FALSE,2,FALSE,548
+"Denmark","Residual fuel oil","Consumption Pattern",2021,315,"725",FALSE,2,TRUE,1016
+"Denmark","Residual fuel oil","Consumption Pattern",2021,725,"725",TRUE,2,TRUE,1052
+"Denmark","Residual fuel oil","Net Deliveries",2021,50,"9",FALSE,2,FALSE,440
+"Denmark","Residual fuel oil","Net Deliveries",2021,65,"9",FALSE,2,FALSE,476
+"Denmark","Total gas oil production","Consumption Pattern",2021,356,"367",FALSE,2,TRUE,872
+"Denmark","Total gas oil production","Consumption Pattern",2021,367,"367",TRUE,2,TRUE,908
+"Denmark","Total gas oil production","Net Deliveries",2021,1280,"107",FALSE,2,FALSE,224
+"Denmark","Total gas oil production","Net Deliveries",2021,1276,"107",FALSE,2,FALSE,260
+"Denmark","Total kerosene production","Net Deliveries",2021,462,"64",FALSE,2,FALSE,296
+"Denmark","Total kerosene production","Net Deliveries",2021,765,"64",FALSE,2,FALSE,332
+"Denmark","Total oil production","Consumption Pattern",2021,2986,"3151",FALSE,2,TRUE,656
+"Denmark","Total oil production","Consumption Pattern",2021,3151,"3151",TRUE,2,TRUE,692
+"Denmark","Total oil products production","Consumption Pattern",2021,2341,"2587",FALSE,2,TRUE,800
+"Denmark","Total oil products production","Consumption Pattern",2021,2587,"2587",TRUE,2,TRUE,836
+"Denmark","Total oil products production","Net Deliveries",2021,5934,"536",FALSE,2,FALSE,584
+"Denmark","Total oil products production","Net Deliveries",2021,6278,"536",FALSE,2,FALSE,620
+"Estonia","Crude oil","Consumption Pattern",2021,25,"110",FALSE,2,TRUE,729
+"Estonia","Crude oil","Consumption Pattern",2021,110,"110",TRUE,2,TRUE,765
+"Estonia","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,9
+"Estonia","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,45
+"Estonia","Gasoline and diesel","Net Deliveries",2021,763,"67",FALSE,2,FALSE,369
+"Estonia","Gasoline and diesel","Net Deliveries",2021,779,"67",FALSE,2,FALSE,405
+"Estonia","Liquified Petroleum Gas","Net Deliveries",2021,15,"1",FALSE,2,FALSE,81
+"Estonia","Liquified Petroleum Gas","Net Deliveries",2021,13,"1",FALSE,2,FALSE,117
+"Estonia","Middle distillates","Consumption Pattern",2021,143,"186",FALSE,2,TRUE,945
+"Estonia","Middle distillates","Consumption Pattern",2021,186,"186",TRUE,2,TRUE,981
+"Estonia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,153
+"Estonia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,189
+"Estonia","Other oil products","Net Deliveries",2021,0,"0",TRUE,2,FALSE,513
+"Estonia","Other oil products","Net Deliveries",2021,0,"0",TRUE,2,FALSE,549
+"Estonia","Residual fuel oil","Consumption Pattern",2021,78,"68",FALSE,2,TRUE,1017
+"Estonia","Residual fuel oil","Consumption Pattern",2021,68,"68",TRUE,2,TRUE,1053
+"Estonia","Residual fuel oil","Net Deliveries",2021,22,"6",FALSE,2,FALSE,441
+"Estonia","Residual fuel oil","Net Deliveries",2021,30,"6",FALSE,2,FALSE,477
+"Estonia","Total gas oil production","Consumption Pattern",2021,85,"88",FALSE,2,TRUE,873
+"Estonia","Total gas oil production","Consumption Pattern",2021,88,"88",TRUE,2,TRUE,909
+"Estonia","Total gas oil production","Net Deliveries",2021,207,"16",FALSE,2,FALSE,225
+"Estonia","Total gas oil production","Net Deliveries",2021,201,"16",FALSE,2,FALSE,261
+"Estonia","Total kerosene production","Net Deliveries",2021,49,"6",FALSE,2,FALSE,297
+"Estonia","Total kerosene production","Net Deliveries",2021,56,"6",FALSE,2,FALSE,333
+"Estonia","Total oil production","Consumption Pattern",2021,332,"453",FALSE,2,TRUE,657
+"Estonia","Total oil production","Consumption Pattern",2021,453,"453",TRUE,2,TRUE,693
+"Estonia","Total oil products production","Consumption Pattern",2021,307,"343",FALSE,2,TRUE,801
+"Estonia","Total oil products production","Consumption Pattern",2021,343,"343",TRUE,2,TRUE,837
+"Estonia","Total oil products production","Net Deliveries",2021,1056,"96",FALSE,2,FALSE,585
+"Estonia","Total oil products production","Net Deliveries",2021,1079,"96",FALSE,2,FALSE,621
+"Finland","Crude oil","Consumption Pattern",2021,1653,"1586",FALSE,2,TRUE,730
+"Finland","Crude oil","Consumption Pattern",2021,1586,"1586",TRUE,2,TRUE,766
+"Finland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,10
+"Finland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,46
+"Finland","Gasoline and diesel","Net Deliveries",2021,4203,"398",FALSE,2,FALSE,370
+"Finland","Gasoline and diesel","Net Deliveries",2021,4236,"398",FALSE,2,FALSE,406
+"Finland","Liquified Petroleum Gas","Net Deliveries",2021,944,"73",FALSE,2,FALSE,82
+"Finland","Liquified Petroleum Gas","Net Deliveries",2021,1093,"73",FALSE,2,FALSE,118
+"Finland","Middle distillates","Consumption Pattern",2021,2238,"2447",FALSE,2,TRUE,946
+"Finland","Middle distillates","Consumption Pattern",2021,2447,"2447",TRUE,2,TRUE,982
+"Finland","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,154
+"Finland","Naphtha","Net Deliveries",2021,33,"0",FALSE,2,FALSE,190
+"Finland","Other oil products","Net Deliveries",2021,195,"7",FALSE,2,FALSE,514
+"Finland","Other oil products","Net Deliveries",2021,159,"7",FALSE,2,FALSE,550
+"Finland","Residual fuel oil","Consumption Pattern",2021,386,"335",FALSE,2,TRUE,1018
+"Finland","Residual fuel oil","Consumption Pattern",2021,335,"335",TRUE,2,TRUE,1054
+"Finland","Residual fuel oil","Net Deliveries",2021,438,"34",FALSE,2,FALSE,442
+"Finland","Residual fuel oil","Net Deliveries",2021,436,"34",FALSE,2,FALSE,478
+"Finland","Total gas oil production","Consumption Pattern",2021,283,"303",FALSE,2,TRUE,874
+"Finland","Total gas oil production","Consumption Pattern",2021,303,"303",TRUE,2,TRUE,910
+"Finland","Total gas oil production","Net Deliveries",2021,1342,"103",FALSE,2,FALSE,226
+"Finland","Total gas oil production","Net Deliveries",2021,1260,"103",FALSE,2,FALSE,262
+"Finland","Total kerosene production","Net Deliveries",2021,318,"56",FALSE,2,FALSE,298
+"Finland","Total kerosene production","Net Deliveries",2021,593,"56",FALSE,2,FALSE,334
+"Finland","Total oil production","Consumption Pattern",2021,4772,"4963",FALSE,2,TRUE,658
+"Finland","Total oil production","Consumption Pattern",2021,4963,"4963",TRUE,2,TRUE,694
+"Finland","Total oil products production","Consumption Pattern",2021,3119,"3377",FALSE,2,TRUE,802
+"Finland","Total oil products production","Consumption Pattern",2021,3377,"3377",TRUE,2,TRUE,838
+"Finland","Total oil products production","Net Deliveries",2021,7440,"671",FALSE,2,FALSE,586
+"Finland","Total oil products production","Net Deliveries",2021,7810,"671",FALSE,2,FALSE,622
+"France","Crude oil","Consumption Pattern",2021,6813,"7029",FALSE,2,TRUE,731
+"France","Crude oil","Consumption Pattern",2021,7029,"7029",TRUE,2,TRUE,767
+"France","Crude oil","Industrial Production",2021,874,"66",FALSE,2,FALSE,11
+"France","Crude oil","Industrial Production",2021,887,"66",FALSE,2,FALSE,47
+"France","Gasoline and diesel","Net Deliveries",2021,41894,"3389",FALSE,2,FALSE,371
+"France","Gasoline and diesel","Net Deliveries",2021,40998,"3389",FALSE,2,FALSE,407
+"France","Liquified Petroleum Gas","Net Deliveries",2021,3548,"207",FALSE,2,FALSE,83
+"France","Liquified Petroleum Gas","Net Deliveries",2021,2989,"207",FALSE,2,FALSE,119
+"France","Middle distillates","Consumption Pattern",2021,10771,"10542",FALSE,2,TRUE,947
+"France","Middle distillates","Consumption Pattern",2021,10542,"10542",TRUE,2,TRUE,983
+"France","Naphtha","Net Deliveries",2021,5793,"295",FALSE,2,FALSE,155
+"France","Naphtha","Net Deliveries",2021,4078,"295",FALSE,2,FALSE,191
+"France","Other oil products","Net Deliveries",2021,5362,"287",FALSE,2,FALSE,515
+"France","Other oil products","Net Deliveries",2021,4967,"287",FALSE,2,FALSE,551
+"France","Residual fuel oil","Consumption Pattern",2021,415,"526",FALSE,2,TRUE,1019
+"France","Residual fuel oil","Consumption Pattern",2021,526,"526",TRUE,2,TRUE,1055
+"France","Residual fuel oil","Net Deliveries",2021,813,"80",FALSE,2,FALSE,443
+"France","Residual fuel oil","Net Deliveries",2021,963,"80",FALSE,2,FALSE,479
+"France","Total gas oil production","Consumption Pattern",2021,1761,"1582",FALSE,2,TRUE,875
+"France","Total gas oil production","Consumption Pattern",2021,1582,"1582",TRUE,2,TRUE,911
+"France","Total gas oil production","Net Deliveries",2021,8317,"826",FALSE,2,FALSE,227
+"France","Total gas oil production","Net Deliveries",2021,9451,"826",FALSE,2,FALSE,263
+"France","Total kerosene production","Net Deliveries",2021,4267,"553",FALSE,2,FALSE,299
+"France","Total kerosene production","Net Deliveries",2021,5700,"553",FALSE,2,FALSE,335
+"France","Total oil production","Consumption Pattern",2021,20173,"20175",FALSE,2,TRUE,659
+"France","Total oil production","Consumption Pattern",2021,20175,"20175",TRUE,2,TRUE,695
+"France","Total oil products production","Consumption Pattern",2021,13360,"13146",FALSE,2,TRUE,803
+"France","Total oil products production","Consumption Pattern",2021,13146,"13146",TRUE,2,TRUE,839
+"France","Total oil products production","Net Deliveries",2021,69994,"5637",FALSE,2,FALSE,587
+"France","Total oil products production","Net Deliveries",2021,69146,"5637",FALSE,2,FALSE,623
+"Germany","Crude oil","Consumption Pattern",2021,20250.774,"20181.074",FALSE,2,TRUE,732
+"Germany","Crude oil","Consumption Pattern",2021,20181.074,"20181.074",TRUE,2,TRUE,768
+"Germany","Crude oil","Industrial Production",2021,3085.15,"242.485",FALSE,2,FALSE,12
+"Germany","Crude oil","Industrial Production",2021,2917.057,"242.485",FALSE,2,FALSE,48
+"Germany","Gasoline and diesel","Net Deliveries",2021,47235.773,"4176.574",FALSE,2,FALSE,372
+"Germany","Gasoline and diesel","Net Deliveries",2021,47776.64,"4176.574",FALSE,2,FALSE,408
+"Germany","Liquified Petroleum Gas","Net Deliveries",2021,3555.466,"243.614",FALSE,2,FALSE,84
+"Germany","Liquified Petroleum Gas","Net Deliveries",2021,3135.731,"243.614",FALSE,2,FALSE,120
+"Germany","Middle distillates","Consumption Pattern",2021,9581.031,"9713.968",FALSE,2,TRUE,948
+"Germany","Middle distillates","Consumption Pattern",2021,9713.968,"9713.968",TRUE,2,TRUE,984
+"Germany","Naphtha","Net Deliveries",2021,13405.757,"800.016",FALSE,2,FALSE,156
+"Germany","Naphtha","Net Deliveries",2021,11955.695,"800.016",FALSE,2,FALSE,192
+"Germany","Other oil products","Net Deliveries",2021,4089.004,"240.391",FALSE,2,FALSE,516
+"Germany","Other oil products","Net Deliveries",2021,4311.862,"240.391",FALSE,2,FALSE,552
+"Germany","Residual fuel oil","Consumption Pattern",2021,1302.791,"1360.773",FALSE,2,TRUE,1020
+"Germany","Residual fuel oil","Consumption Pattern",2021,1360.773,"1360.773",TRUE,2,TRUE,1056
+"Germany","Residual fuel oil","Net Deliveries",2021,2243.857,"113.125",FALSE,2,FALSE,444
+"Germany","Residual fuel oil","Net Deliveries",2021,1885.552,"113.125",FALSE,2,FALSE,480
+"Germany","Total gas oil production","Consumption Pattern",2021,3115.408,"3266.918",FALSE,2,TRUE,876
+"Germany","Total gas oil production","Consumption Pattern",2021,3266.918,"3266.918",TRUE,2,TRUE,912
+"Germany","Total gas oil production","Net Deliveries",2021,15606.152,"1229.233",FALSE,2,FALSE,228
+"Germany","Total gas oil production","Net Deliveries",2021,15618.214,"1229.233",FALSE,2,FALSE,264
+"Germany","Total kerosene production","Net Deliveries",2021,6154.784,"817.41",FALSE,2,FALSE,300
+"Germany","Total kerosene production","Net Deliveries",2021,9093.137,"817.41",FALSE,2,FALSE,336
+"Germany","Total oil production","Consumption Pattern",2021,35720.37,"35873.935",FALSE,2,TRUE,660
+"Germany","Total oil production","Consumption Pattern",2021,35873.935,"35873.935",TRUE,2,TRUE,696
+"Germany","Total oil products production","Consumption Pattern",2021,15469.596,"15692.861",FALSE,2,TRUE,804
+"Germany","Total oil products production","Consumption Pattern",2021,15692.861,"15692.861",TRUE,2,TRUE,840
+"Germany","Total oil products production","Net Deliveries",2021,92290.793,"7620.363",FALSE,2,FALSE,588
+"Germany","Total oil products production","Net Deliveries",2021,93776.831,"7620.363",FALSE,2,FALSE,624
+"Greece","Crude oil","Consumption Pattern",2021,1661.395,"1665.244",FALSE,2,TRUE,733
+"Greece","Crude oil","Consumption Pattern",2021,1665.244,"1665.244",TRUE,2,TRUE,769
+"Greece","Crude oil","Industrial Production",2021,58.754,"0",FALSE,2,FALSE,13
+"Greece","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,49
+"Greece","Gasoline and diesel","Net Deliveries",2021,4157.004,"516.798",FALSE,2,FALSE,373
+"Greece","Gasoline and diesel","Net Deliveries",2021,4525.043,"516.798",FALSE,2,FALSE,409
+"Greece","Liquified Petroleum Gas","Net Deliveries",2021,498.758,"48.746",FALSE,2,FALSE,85
+"Greece","Liquified Petroleum Gas","Net Deliveries",2021,549.112,"48.746",FALSE,2,FALSE,121
+"Greece","Middle distillates","Consumption Pattern",2021,1072.756,"1169.736",FALSE,2,TRUE,949
+"Greece","Middle distillates","Consumption Pattern",2021,1169.736,"1169.736",TRUE,2,TRUE,985
+"Greece","Naphtha","Net Deliveries",2021,29.531,"4.48",FALSE,2,FALSE,157
+"Greece","Naphtha","Net Deliveries",2021,10.663,"4.48",FALSE,2,FALSE,193
+"Greece","Other oil products","Net Deliveries",2021,836.143,"67.444",FALSE,2,FALSE,517
+"Greece","Other oil products","Net Deliveries",2021,923.45,"67.444",FALSE,2,FALSE,553
+"Greece","Residual fuel oil","Consumption Pattern",2021,624.778,"659.766",FALSE,2,TRUE,1021
+"Greece","Residual fuel oil","Consumption Pattern",2021,659.766,"659.766",TRUE,2,TRUE,1057
+"Greece","Residual fuel oil","Net Deliveries",2021,1270.124,"94.515",FALSE,2,FALSE,445
+"Greece","Residual fuel oil","Net Deliveries",2021,1305.461,"94.515",FALSE,2,FALSE,481
+"Greece","Total gas oil production","Consumption Pattern",2021,322.83,"458.174",FALSE,2,TRUE,877
+"Greece","Total gas oil production","Consumption Pattern",2021,458.174,"458.174",TRUE,2,TRUE,913
+"Greece","Total gas oil production","Net Deliveries",2021,2037.322,"186.654",FALSE,2,FALSE,229
+"Greece","Total gas oil production","Net Deliveries",2021,2074.16,"186.654",FALSE,2,FALSE,265
+"Greece","Total kerosene production","Net Deliveries",2021,910.143,"51.408",FALSE,2,FALSE,301
+"Greece","Total kerosene production","Net Deliveries",2021,1474.606,"51.408",FALSE,2,FALSE,337
+"Greece","Total oil production","Consumption Pattern",2021,4256.708,"4538.612",FALSE,2,TRUE,661
+"Greece","Total oil production","Consumption Pattern",2021,4538.612,"4538.612",TRUE,2,TRUE,697
+"Greece","Total oil products production","Consumption Pattern",2021,2595.313,"2873.368",FALSE,2,TRUE,805
+"Greece","Total oil products production","Consumption Pattern",2021,2873.368,"2873.368",TRUE,2,TRUE,841
+"Greece","Total oil products production","Net Deliveries",2021,9739.025,"970.045",FALSE,2,FALSE,589
+"Greece","Total oil products production","Net Deliveries",2021,10862.495,"970.045",FALSE,2,FALSE,625
+"Hungary","Crude oil","Consumption Pattern",2021,1563,"1960",FALSE,2,TRUE,734
+"Hungary","Crude oil","Consumption Pattern",2021,1960,"1960",TRUE,2,TRUE,770
+"Hungary","Crude oil","Industrial Production",2021,1095,"94",FALSE,2,FALSE,14
+"Hungary","Crude oil","Industrial Production",2021,1080,"94",FALSE,2,FALSE,50
+"Hungary","Gasoline and diesel","Net Deliveries",2021,3796,"279",FALSE,2,FALSE,374
+"Hungary","Gasoline and diesel","Net Deliveries",2021,3977,"279",FALSE,2,FALSE,410
+"Hungary","Liquified Petroleum Gas","Net Deliveries",2021,572,"32",FALSE,2,FALSE,86
+"Hungary","Liquified Petroleum Gas","Net Deliveries",2021,428,"32",FALSE,2,FALSE,122
+"Hungary","Middle distillates","Consumption Pattern",2021,897,"738",FALSE,2,TRUE,950
+"Hungary","Middle distillates","Consumption Pattern",2021,738,"738",TRUE,2,TRUE,986
+"Hungary","Naphtha","Net Deliveries",2021,1124,"95",FALSE,2,FALSE,158
+"Hungary","Naphtha","Net Deliveries",2021,880,"95",FALSE,2,FALSE,194
+"Hungary","Other oil products","Net Deliveries",2021,681,"33",FALSE,2,FALSE,518
+"Hungary","Other oil products","Net Deliveries",2021,629,"33",FALSE,2,FALSE,554
+"Hungary","Residual fuel oil","Consumption Pattern",2021,31,"31",TRUE,2,TRUE,1022
+"Hungary","Residual fuel oil","Consumption Pattern",2021,31,"31",TRUE,2,TRUE,1058
+"Hungary","Residual fuel oil","Net Deliveries",2021,3,"0",FALSE,2,FALSE,446
+"Hungary","Residual fuel oil","Net Deliveries",2021,7,"0",FALSE,2,FALSE,482
+"Hungary","Total gas oil production","Consumption Pattern",2021,549,"540",FALSE,2,TRUE,878
+"Hungary","Total gas oil production","Consumption Pattern",2021,540,"540",TRUE,2,TRUE,914
+"Hungary","Total gas oil production","Net Deliveries",2021,1478,"135",FALSE,2,FALSE,230
+"Hungary","Total gas oil production","Net Deliveries",2021,1531,"135",FALSE,2,FALSE,266
+"Hungary","Total kerosene production","Net Deliveries",2021,135,"21",FALSE,2,FALSE,302
+"Hungary","Total kerosene production","Net Deliveries",2021,265,"21",FALSE,2,FALSE,338
+"Hungary","Total oil production","Consumption Pattern",2021,3281,"3514",FALSE,2,TRUE,662
+"Hungary","Total oil production","Consumption Pattern",2021,3514,"3514",TRUE,2,TRUE,698
+"Hungary","Total oil products production","Consumption Pattern",2021,1718,"1554",FALSE,2,TRUE,806
+"Hungary","Total oil products production","Consumption Pattern",2021,1554,"1554",TRUE,2,TRUE,842
+"Hungary","Total oil products production","Net Deliveries",2021,7789,"595",FALSE,2,FALSE,590
+"Hungary","Total oil products production","Net Deliveries",2021,7717,"595",FALSE,2,FALSE,626
+"Iceland","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,735
+"Iceland","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,771
+"Iceland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,15
+"Iceland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,51
+"Iceland","Gasoline and diesel","Net Deliveries",2021,350.988,"23.767",FALSE,2,FALSE,375
+"Iceland","Gasoline and diesel","Net Deliveries",2021,391.884,"23.767",FALSE,2,FALSE,411
+"Iceland","Liquified Petroleum Gas","Net Deliveries",2021,2.115,"0.252",FALSE,2,FALSE,87
+"Iceland","Liquified Petroleum Gas","Net Deliveries",2021,3.257,"0.252",FALSE,2,FALSE,123
+"Iceland","Middle distillates","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,951
+"Iceland","Middle distillates","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,987
+"Iceland","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,159
+"Iceland","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,195
+"Iceland","Other oil products","Net Deliveries",2021,6.934,"0.152",FALSE,2,FALSE,519
+"Iceland","Other oil products","Net Deliveries",2021,13.462,"0.152",FALSE,2,FALSE,555
+"Iceland","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1023
+"Iceland","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1059
+"Iceland","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,447
+"Iceland","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,483
+"Iceland","Total gas oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,879
+"Iceland","Total gas oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,915
+"Iceland","Total gas oil production","Net Deliveries",2021,101.757,"5.539",FALSE,2,FALSE,231
+"Iceland","Total gas oil production","Net Deliveries",2021,109.481,"5.539",FALSE,2,FALSE,267
+"Iceland","Total kerosene production","Net Deliveries",2021,76.792,"19.641",FALSE,2,FALSE,303
+"Iceland","Total kerosene production","Net Deliveries",2021,244.37,"19.641",FALSE,2,FALSE,339
+"Iceland","Total oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,663
+"Iceland","Total oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,699
+"Iceland","Total oil products production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,807
+"Iceland","Total oil products production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,843
+"Iceland","Total oil products production","Net Deliveries",2021,538.586,"49.351",FALSE,2,FALSE,591
+"Iceland","Total oil products production","Net Deliveries",2021,762.454,"49.351",FALSE,2,FALSE,627
+"Ireland","Crude oil","Consumption Pattern",2021,134.613,"213.175",FALSE,2,TRUE,736
+"Ireland","Crude oil","Consumption Pattern",2021,213.175,"213.175",TRUE,2,TRUE,772
+"Ireland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,16
+"Ireland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,52
+"Ireland","Gasoline and diesel","Net Deliveries",2021,3709.629,"322.5",FALSE,2,FALSE,376
+"Ireland","Gasoline and diesel","Net Deliveries",2021,3872.601,"322.5",FALSE,2,FALSE,412
+"Ireland","Liquified Petroleum Gas","Net Deliveries",2021,158.117,"17.094",FALSE,2,FALSE,88
+"Ireland","Liquified Petroleum Gas","Net Deliveries",2021,165.055,"17.094",FALSE,2,FALSE,124
+"Ireland","Middle distillates","Consumption Pattern",2021,1040.727,"987.487",FALSE,2,TRUE,952
+"Ireland","Middle distillates","Consumption Pattern",2021,987.487,"987.487",TRUE,2,TRUE,988
+"Ireland","Naphtha","Net Deliveries",2021,0.459,"0",FALSE,2,FALSE,160
+"Ireland","Naphtha","Net Deliveries",2021,0.379,"0",FALSE,2,FALSE,196
+"Ireland","Other oil products","Net Deliveries",2021,509.999,"40.684",FALSE,2,FALSE,520
+"Ireland","Other oil products","Net Deliveries",2021,488.208,"40.684",FALSE,2,FALSE,556
+"Ireland","Residual fuel oil","Consumption Pattern",2021,55.496,"102.706",FALSE,2,TRUE,1024
+"Ireland","Residual fuel oil","Consumption Pattern",2021,102.706,"102.706",TRUE,2,TRUE,1060
+"Ireland","Residual fuel oil","Net Deliveries",2021,362.444,"38.601",FALSE,2,FALSE,448
+"Ireland","Residual fuel oil","Net Deliveries",2021,224.774,"38.601",FALSE,2,FALSE,484
+"Ireland","Total gas oil production","Consumption Pattern",2021,177.339,"178.127",FALSE,2,TRUE,880
+"Ireland","Total gas oil production","Consumption Pattern",2021,178.127,"178.127",TRUE,2,TRUE,916
+"Ireland","Total gas oil production","Net Deliveries",2021,608.716,"59.345",FALSE,2,FALSE,232
+"Ireland","Total gas oil production","Net Deliveries",2021,687.878,"59.345",FALSE,2,FALSE,268
+"Ireland","Total kerosene production","Net Deliveries",2021,1312.324,"192.116",FALSE,2,FALSE,304
+"Ireland","Total kerosene production","Net Deliveries",2021,1710.854,"192.116",FALSE,2,FALSE,340
+"Ireland","Total oil production","Consumption Pattern",2021,1422.942,"1497.844",FALSE,2,TRUE,664
+"Ireland","Total oil production","Consumption Pattern",2021,1497.844,"1497.844",TRUE,2,TRUE,700
+"Ireland","Total oil products production","Consumption Pattern",2021,1288.329,"1284.669",FALSE,2,TRUE,808
+"Ireland","Total oil products production","Consumption Pattern",2021,1284.669,"1284.669",TRUE,2,TRUE,844
+"Ireland","Total oil products production","Net Deliveries",2021,6661.688,"670.34",FALSE,2,FALSE,592
+"Ireland","Total oil products production","Net Deliveries",2021,7149.749,"670.34",FALSE,2,FALSE,628
+"Israel","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,737
+"Israel","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,773
+"Israel","Crude oil","Industrial Production",2021,168,"14",FALSE,2,FALSE,17
+"Israel","Crude oil","Industrial Production",2021,168,"14",FALSE,2,FALSE,53
+"Israel","Gasoline and diesel","Net Deliveries",2021,3192,"321",FALSE,2,FALSE,377
+"Israel","Gasoline and diesel","Net Deliveries",2021,3790,"321",FALSE,2,FALSE,413
+"Israel","Liquified Petroleum Gas","Net Deliveries",2021,557,"52",FALSE,2,FALSE,89
+"Israel","Liquified Petroleum Gas","Net Deliveries",2021,611,"52",FALSE,2,FALSE,125
+"Israel","Middle distillates","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,953
+"Israel","Middle distillates","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,989
+"Israel","Naphtha","Net Deliveries",2021,456,"42",FALSE,2,FALSE,161
+"Israel","Naphtha","Net Deliveries",2021,359,"42",FALSE,2,FALSE,197
+"Israel","Other oil products","Net Deliveries",2021,571,"46",FALSE,2,FALSE,521
+"Israel","Other oil products","Net Deliveries",2021,512,"46",FALSE,2,FALSE,557
+"Israel","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1025
+"Israel","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1061
+"Israel","Residual fuel oil","Net Deliveries",2021,453,"46",FALSE,2,FALSE,449
+"Israel","Residual fuel oil","Net Deliveries",2021,566,"46",FALSE,2,FALSE,485
+"Israel","Total gas oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,881
+"Israel","Total gas oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,917
+"Israel","Total gas oil production","Net Deliveries",2021,3256,"279",FALSE,2,FALSE,233
+"Israel","Total gas oil production","Net Deliveries",2021,3436,"279",FALSE,2,FALSE,269
+"Israel","Total kerosene production","Net Deliveries",2021,745,"103",FALSE,2,FALSE,305
+"Israel","Total kerosene production","Net Deliveries",2021,1119,"103",FALSE,2,FALSE,341
+"Israel","Total oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,665
+"Israel","Total oil production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,701
+"Israel","Total oil products production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,809
+"Israel","Total oil products production","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,845
+"Israel","Total oil products production","Net Deliveries",2021,9230,"889",FALSE,2,FALSE,593
+"Israel","Total oil products production","Net Deliveries",2021,10393,"889",FALSE,2,FALSE,629
+"Italy","Crude oil","Consumption Pattern",2021,6251.532,"6926.404",FALSE,2,TRUE,738
+"Italy","Crude oil","Consumption Pattern",2021,6926.404,"6926.404",TRUE,2,TRUE,774
+"Italy","Crude oil","Industrial Production",2021,5831.078,"406.72",FALSE,2,FALSE,18
+"Italy","Crude oil","Industrial Production",2021,5077.739,"406.72",FALSE,2,FALSE,54
+"Italy","Gasoline and diesel","Net Deliveries",2021,26582.197,"2266.564",FALSE,2,FALSE,378
+"Italy","Gasoline and diesel","Net Deliveries",2021,26644.628,"2266.564",FALSE,2,FALSE,414
+"Italy","Liquified Petroleum Gas","Net Deliveries",2021,2863.519,"294.613",FALSE,2,FALSE,90
+"Italy","Liquified Petroleum Gas","Net Deliveries",2021,2925.339,"294.613",FALSE,2,FALSE,126
+"Italy","Middle distillates","Consumption Pattern",2021,4772.44,"4773.719",FALSE,2,TRUE,954
+"Italy","Middle distillates","Consumption Pattern",2021,4773.719,"4773.719",TRUE,2,TRUE,990
+"Italy","Naphtha","Net Deliveries",2021,3881.445,"246.517",FALSE,2,FALSE,162
+"Italy","Naphtha","Net Deliveries",2021,3153.575,"246.517",FALSE,2,FALSE,198
+"Italy","Other oil products","Net Deliveries",2021,4197.267,"280.499",FALSE,2,FALSE,522
+"Italy","Other oil products","Net Deliveries",2021,4009.857,"280.499",FALSE,2,FALSE,558
+"Italy","Residual fuel oil","Consumption Pattern",2021,1136.531,"1364.929",FALSE,2,TRUE,1026
+"Italy","Residual fuel oil","Consumption Pattern",2021,1364.929,"1364.929",TRUE,2,TRUE,1062
+"Italy","Residual fuel oil","Net Deliveries",2021,868.086,"73.224",FALSE,2,FALSE,450
+"Italy","Residual fuel oil","Net Deliveries",2021,1064.882,"73.224",FALSE,2,FALSE,486
+"Italy","Total gas oil production","Consumption Pattern",2021,1546.033,"1536.298",FALSE,2,TRUE,882
+"Italy","Total gas oil production","Consumption Pattern",2021,1536.298,"1536.298",TRUE,2,TRUE,918
+"Italy","Total gas oil production","Net Deliveries",2021,7288.852,"648.006",FALSE,2,FALSE,234
+"Italy","Total gas oil production","Net Deliveries",2021,7907.435,"648.006",FALSE,2,FALSE,270
+"Italy","Total kerosene production","Net Deliveries",2021,2979.067,"315.711",FALSE,2,FALSE,306
+"Italy","Total kerosene production","Net Deliveries",2021,4119.525,"315.711",FALSE,2,FALSE,342
+"Italy","Total oil production","Consumption Pattern",2021,15125.573,"16151.41",FALSE,2,TRUE,666
+"Italy","Total oil production","Consumption Pattern",2021,16151.41,"16151.41",TRUE,2,TRUE,702
+"Italy","Total oil products production","Consumption Pattern",2021,8874.041,"9225.006",FALSE,2,TRUE,810
+"Italy","Total oil products production","Consumption Pattern",2021,9225.006,"9225.006",TRUE,2,TRUE,846
+"Italy","Total oil products production","Net Deliveries",2021,48660.433,"4125.134",FALSE,2,FALSE,594
+"Italy","Total oil products production","Net Deliveries",2021,49825.241,"4125.134",FALSE,2,FALSE,630
+"Japan","Crude oil","Consumption Pattern",2021,55473.024,"53896.619",FALSE,2,TRUE,739
+"Japan","Crude oil","Consumption Pattern",2021,53896.619,"53896.619",TRUE,2,TRUE,775
+"Japan","Crude oil","Industrial Production",2021,383.249,"27.859",FALSE,2,FALSE,19
+"Japan","Crude oil","Industrial Production",2021,327.153,"27.859",FALSE,2,FALSE,55
+"Japan","Gasoline and diesel","Net Deliveries",2021,35525.276,"3391.886",FALSE,2,FALSE,379
+"Japan","Gasoline and diesel","Net Deliveries",2021,35919.242,"3391.886",FALSE,2,FALSE,415
+"Japan","Liquified Petroleum Gas","Net Deliveries",2021,10491.586,"1277.354",FALSE,2,FALSE,91
+"Japan","Liquified Petroleum Gas","Net Deliveries",2021,11212.492,"1277.354",FALSE,2,FALSE,127
+"Japan","Middle distillates","Consumption Pattern",2021,5012.758,"4809.54",FALSE,2,TRUE,955
+"Japan","Middle distillates","Consumption Pattern",2021,4809.54,"4809.54",TRUE,2,TRUE,991
+"Japan","Naphtha","Net Deliveries",2021,31403.459,"2499.256",FALSE,2,FALSE,163
+"Japan","Naphtha","Net Deliveries",2021,27999.608,"2499.256",FALSE,2,FALSE,199
+"Japan","Other oil products","Net Deliveries",2021,10565.358,"818.545",FALSE,2,FALSE,523
+"Japan","Other oil products","Net Deliveries",2021,10244.38,"818.545",FALSE,2,FALSE,559
+"Japan","Residual fuel oil","Consumption Pattern",2021,1090.266,"1068.116",FALSE,2,TRUE,1027
+"Japan","Residual fuel oil","Consumption Pattern",2021,1068.116,"1068.116",TRUE,2,TRUE,1063
+"Japan","Residual fuel oil","Net Deliveries",2021,7100.906,"833.344",FALSE,2,FALSE,451
+"Japan","Residual fuel oil","Net Deliveries",2021,8426.283,"833.344",FALSE,2,FALSE,487
+"Japan","Total gas oil production","Consumption Pattern",2021,1652.428,"1616.626",FALSE,2,TRUE,883
+"Japan","Total gas oil production","Consumption Pattern",2021,1616.626,"1616.626",TRUE,2,TRUE,919
+"Japan","Total gas oil production","Net Deliveries",2021,28387.82,"2665.639",FALSE,2,FALSE,235
+"Japan","Total gas oil production","Net Deliveries",2021,28339.304,"2665.639",FALSE,2,FALSE,271
+"Japan","Total kerosene production","Net Deliveries",2021,17160.966,"2699.691",FALSE,2,FALSE,307
+"Japan","Total kerosene production","Net Deliveries",2021,17763.75,"2699.691",FALSE,2,FALSE,343
+"Japan","Total oil production","Consumption Pattern",2021,68057.234,"66569",FALSE,2,TRUE,667
+"Japan","Total oil production","Consumption Pattern",2021,66569,"66569",TRUE,2,TRUE,703
+"Japan","Total oil products production","Consumption Pattern",2021,12584.21,"12672.381",FALSE,2,TRUE,811
+"Japan","Total oil products production","Consumption Pattern",2021,12672.381,"12672.381",TRUE,2,TRUE,847
+"Japan","Total oil products production","Net Deliveries",2021,140635.371,"14185.715",FALSE,2,FALSE,595
+"Japan","Total oil products production","Net Deliveries",2021,139905.059,"14185.715",FALSE,2,FALSE,631
+"Latvia","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,741
+"Latvia","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,777
+"Latvia","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,21
+"Latvia","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,57
+"Latvia","Gasoline and diesel","Net Deliveries",2021,1062.199,"94.358",FALSE,2,FALSE,381
+"Latvia","Gasoline and diesel","Net Deliveries",2021,1087.157,"94.358",FALSE,2,FALSE,417
+"Latvia","Liquified Petroleum Gas","Net Deliveries",2021,72.75,"8.23",FALSE,2,FALSE,93
+"Latvia","Liquified Petroleum Gas","Net Deliveries",2021,79.936,"8.23",FALSE,2,FALSE,129
+"Latvia","Middle distillates","Consumption Pattern",2021,316.263,"354.723",FALSE,2,TRUE,957
+"Latvia","Middle distillates","Consumption Pattern",2021,354.723,"354.723",TRUE,2,TRUE,993
+"Latvia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,165
+"Latvia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,201
+"Latvia","Other oil products","Net Deliveries",2021,58.211,"1.586",FALSE,2,FALSE,525
+"Latvia","Other oil products","Net Deliveries",2021,77.179,"1.586",FALSE,2,FALSE,561
+"Latvia","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1029
+"Latvia","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1065
+"Latvia","Residual fuel oil","Net Deliveries",2021,0.199,"0",FALSE,2,FALSE,453
+"Latvia","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,489
+"Latvia","Total gas oil production","Consumption Pattern",2021,19.461,"17.085",FALSE,2,TRUE,885
+"Latvia","Total gas oil production","Consumption Pattern",2021,17.085,"17.085",TRUE,2,TRUE,921
+"Latvia","Total gas oil production","Net Deliveries",2021,159.538,"12.479",FALSE,2,FALSE,237
+"Latvia","Total gas oil production","Net Deliveries",2021,154.393,"12.479",FALSE,2,FALSE,273
+"Latvia","Total kerosene production","Net Deliveries",2021,75.651,"10.189",FALSE,2,FALSE,309
+"Latvia","Total kerosene production","Net Deliveries",2021,137.968,"10.189",FALSE,2,FALSE,345
+"Latvia","Total oil production","Consumption Pattern",2021,347.819,"384.036",FALSE,2,TRUE,669
+"Latvia","Total oil production","Consumption Pattern",2021,384.036,"384.036",TRUE,2,TRUE,705
+"Latvia","Total oil products production","Consumption Pattern",2021,347.819,"384.036",FALSE,2,TRUE,813
+"Latvia","Total oil products production","Consumption Pattern",2021,384.036,"384.036",TRUE,2,TRUE,849
+"Latvia","Total oil products production","Net Deliveries",2021,1428.548,"126.842",FALSE,2,FALSE,597
+"Latvia","Total oil products production","Net Deliveries",2021,1536.633,"126.842",FALSE,2,FALSE,633
+"Lithuania","Crude oil","Consumption Pattern",2021,444.3,"419.2",FALSE,2,TRUE,742
+"Lithuania","Crude oil","Consumption Pattern",2021,419.2,"419.2",TRUE,2,TRUE,778
+"Lithuania","Crude oil","Industrial Production",2021,28.6,"2.2",FALSE,2,FALSE,22
+"Lithuania","Crude oil","Industrial Production",2021,26.5,"2.2",FALSE,2,FALSE,58
+"Lithuania","Gasoline and diesel","Net Deliveries",2021,1885.3,"154.2",FALSE,2,FALSE,382
+"Lithuania","Gasoline and diesel","Net Deliveries",2021,1774.9,"154.2",FALSE,2,FALSE,418
+"Lithuania","Liquified Petroleum Gas","Net Deliveries",2021,124.9,"12.1",FALSE,2,FALSE,94
+"Lithuania","Liquified Petroleum Gas","Net Deliveries",2021,133.5,"12.1",FALSE,2,FALSE,130
+"Lithuania","Middle distillates","Consumption Pattern",2021,392.2,"408.9",FALSE,2,TRUE,958
+"Lithuania","Middle distillates","Consumption Pattern",2021,408.9,"408.9",TRUE,2,TRUE,994
+"Lithuania","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,166
+"Lithuania","Naphtha","Net Deliveries",2021,2.5,"0",FALSE,2,FALSE,202
+"Lithuania","Other oil products","Net Deliveries",2021,226,"9",FALSE,2,FALSE,526
+"Lithuania","Other oil products","Net Deliveries",2021,194.7,"9",FALSE,2,FALSE,562
+"Lithuania","Residual fuel oil","Consumption Pattern",2021,125.5,"103.6",FALSE,2,TRUE,1030
+"Lithuania","Residual fuel oil","Consumption Pattern",2021,103.6,"103.6",TRUE,2,TRUE,1066
+"Lithuania","Residual fuel oil","Net Deliveries",2021,15.7,"19.3",FALSE,2,FALSE,454
+"Lithuania","Residual fuel oil","Net Deliveries",2021,38.7,"19.3",FALSE,2,FALSE,490
+"Lithuania","Total gas oil production","Consumption Pattern",2021,88.9,"101.5",FALSE,2,TRUE,886
+"Lithuania","Total gas oil production","Consumption Pattern",2021,101.5,"101.5",TRUE,2,TRUE,922
+"Lithuania","Total gas oil production","Net Deliveries",2021,257.1,"23.4",FALSE,2,FALSE,238
+"Lithuania","Total gas oil production","Net Deliveries",2021,282.1,"23.4",FALSE,2,FALSE,274
+"Lithuania","Total kerosene production","Net Deliveries",2021,69,"6.1",FALSE,2,FALSE,310
+"Lithuania","Total kerosene production","Net Deliveries",2021,108.4,"6.1",FALSE,2,FALSE,346
+"Lithuania","Total oil production","Consumption Pattern",2021,1081.7,"1072.2",FALSE,2,TRUE,670
+"Lithuania","Total oil production","Consumption Pattern",2021,1072.2,"1072.2",TRUE,2,TRUE,706
+"Lithuania","Total oil products production","Consumption Pattern",2021,637.4,"653",FALSE,2,TRUE,814
+"Lithuania","Total oil products production","Consumption Pattern",2021,653,"653",TRUE,2,TRUE,850
+"Lithuania","Total oil products production","Net Deliveries",2021,2578,"224.1",FALSE,2,FALSE,598
+"Lithuania","Total oil products production","Net Deliveries",2021,2534.8,"224.1",FALSE,2,FALSE,634
+"Luxembourg","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,743
+"Luxembourg","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,779
+"Luxembourg","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,23
+"Luxembourg","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,59
+"Luxembourg","Gasoline and diesel","Net Deliveries",2021,1698.036,"113.509",FALSE,2,FALSE,383
+"Luxembourg","Gasoline and diesel","Net Deliveries",2021,1425.854,"113.509",FALSE,2,FALSE,419
+"Luxembourg","Liquified Petroleum Gas","Net Deliveries",2021,0,"0",TRUE,2,FALSE,95
+"Luxembourg","Liquified Petroleum Gas","Net Deliveries",2021,0,"0",TRUE,2,FALSE,131
+"Luxembourg","Middle distillates","Consumption Pattern",2021,70.141,"60.83",FALSE,2,TRUE,959
+"Luxembourg","Middle distillates","Consumption Pattern",2021,60.83,"60.83",TRUE,2,TRUE,995
+"Luxembourg","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,167
+"Luxembourg","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,203
+"Luxembourg","Other oil products","Net Deliveries",2021,74.531,"2.113",FALSE,2,FALSE,527
+"Luxembourg","Other oil products","Net Deliveries",2021,33.607,"2.113",FALSE,2,FALSE,563
+"Luxembourg","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1031
+"Luxembourg","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1067
+"Luxembourg","Residual fuel oil","Net Deliveries",2021,0.178,"0",FALSE,2,FALSE,455
+"Luxembourg","Residual fuel oil","Net Deliveries",2021,0.007,"0",FALSE,2,FALSE,491
+"Luxembourg","Total gas oil production","Consumption Pattern",2021,5.82,"7.283",FALSE,2,TRUE,887
+"Luxembourg","Total gas oil production","Consumption Pattern",2021,7.283,"7.283",TRUE,2,TRUE,923
+"Luxembourg","Total gas oil production","Net Deliveries",2021,339.076,"30.131",FALSE,2,FALSE,239
+"Luxembourg","Total gas oil production","Net Deliveries",2021,344.89,"30.131",FALSE,2,FALSE,275
+"Luxembourg","Total kerosene production","Net Deliveries",2021,503.75,"44.535",FALSE,2,FALSE,311
+"Luxembourg","Total kerosene production","Net Deliveries",2021,553.951,"44.535",FALSE,2,FALSE,347
+"Luxembourg","Total oil production","Consumption Pattern",2021,75.961,"68.113",FALSE,2,TRUE,671
+"Luxembourg","Total oil production","Consumption Pattern",2021,68.113,"68.113",TRUE,2,TRUE,707
+"Luxembourg","Total oil products production","Consumption Pattern",2021,75.961,"68.113",FALSE,2,TRUE,815
+"Luxembourg","Total oil products production","Consumption Pattern",2021,68.113,"68.113",TRUE,2,TRUE,851
+"Luxembourg","Total oil products production","Net Deliveries",2021,2615.571,"190.288",FALSE,2,FALSE,599
+"Luxembourg","Total oil products production","Net Deliveries",2021,2358.309,"190.288",FALSE,2,FALSE,635
+"Mexico","Crude oil","Consumption Pattern",2021,2711,"2750",FALSE,2,TRUE,744
+"Mexico","Crude oil","Consumption Pattern",2021,2750,"2750",TRUE,2,TRUE,780
+"Mexico","Crude oil","Industrial Production",2021,95425.431,"8085",FALSE,2,FALSE,24
+"Mexico","Crude oil","Industrial Production",2021,95823,"8085",FALSE,2,FALSE,60
+"Mexico","Gasoline and diesel","Net Deliveries",2021,10652,"1281",FALSE,2,FALSE,384
+"Mexico","Gasoline and diesel","Net Deliveries",2021,15486,"1281",FALSE,2,FALSE,420
+"Mexico","Liquified Petroleum Gas","Net Deliveries",2021,4563,"466",FALSE,2,FALSE,96
+"Mexico","Liquified Petroleum Gas","Net Deliveries",2021,4791,"466",FALSE,2,FALSE,132
+"Mexico","Middle distillates","Consumption Pattern",2021,664,"614",FALSE,2,TRUE,960
+"Mexico","Middle distillates","Consumption Pattern",2021,614,"614",TRUE,2,TRUE,996
+"Mexico","Naphtha","Net Deliveries",2021,1260,"85",FALSE,2,FALSE,168
+"Mexico","Naphtha","Net Deliveries",2021,1289,"85",FALSE,2,FALSE,204
+"Mexico","Other oil products","Net Deliveries",2021,2852,"201",FALSE,2,FALSE,528
+"Mexico","Other oil products","Net Deliveries",2021,2741,"201",FALSE,2,FALSE,564
+"Mexico","Residual fuel oil","Consumption Pattern",2021,451,"476",FALSE,2,TRUE,1032
+"Mexico","Residual fuel oil","Consumption Pattern",2021,476,"476",TRUE,2,TRUE,1068
+"Mexico","Residual fuel oil","Net Deliveries",2021,4443,"320",FALSE,2,FALSE,456
+"Mexico","Residual fuel oil","Net Deliveries",2021,3882,"320",FALSE,2,FALSE,492
+"Mexico","Total gas oil production","Consumption Pattern",2021,887,"891",FALSE,2,TRUE,888
+"Mexico","Total gas oil production","Consumption Pattern",2021,891,"891",TRUE,2,TRUE,924
+"Mexico","Total gas oil production","Net Deliveries",2021,24039.342,"2388",FALSE,2,FALSE,240
+"Mexico","Total gas oil production","Net Deliveries",2021,28040,"2388",FALSE,2,FALSE,276
+"Mexico","Total kerosene production","Net Deliveries",2021,2827,"379",FALSE,2,FALSE,312
+"Mexico","Total kerosene production","Net Deliveries",2021,3995,"379",FALSE,2,FALSE,348
+"Mexico","Total oil production","Consumption Pattern",2021,4886,"4862",FALSE,2,TRUE,672
+"Mexico","Total oil production","Consumption Pattern",2021,4862,"4862",TRUE,2,TRUE,708
+"Mexico","Total oil products production","Consumption Pattern",2021,2175,"2112",FALSE,2,TRUE,816
+"Mexico","Total oil products production","Consumption Pattern",2021,2112,"2112",TRUE,2,TRUE,852
+"Mexico","Total oil products production","Net Deliveries",2021,50636.342,"5120",FALSE,2,FALSE,600
+"Mexico","Total oil products production","Net Deliveries",2021,60224,"5120",FALSE,2,FALSE,636
+"Netherlands","Crude oil","Consumption Pattern",2021,3400.534,"6592.451",FALSE,2,TRUE,745
+"Netherlands","Crude oil","Consumption Pattern",2021,6592.451,"6592.451",TRUE,2,TRUE,781
+"Netherlands","Crude oil","Industrial Production",2021,1121.065,"41.845",FALSE,2,FALSE,25
+"Netherlands","Crude oil","Industrial Production",2021,713.054,"41.845",FALSE,2,FALSE,61
+"Netherlands","Gasoline and diesel","Net Deliveries",2021,6297.338,"469.932",FALSE,2,FALSE,385
+"Netherlands","Gasoline and diesel","Net Deliveries",2021,5977.425,"469.932",FALSE,2,FALSE,421
+"Netherlands","Liquified Petroleum Gas","Net Deliveries",2021,2043.103,"198.02",FALSE,2,FALSE,97
+"Netherlands","Liquified Petroleum Gas","Net Deliveries",2021,1966.19,"198.02",FALSE,2,FALSE,133
+"Netherlands","Middle distillates","Consumption Pattern",2021,3134.133,"3467.359",FALSE,2,TRUE,961
+"Netherlands","Middle distillates","Consumption Pattern",2021,3467.359,"3467.359",TRUE,2,TRUE,997
+"Netherlands","Naphtha","Net Deliveries",2021,6852.826,"440.576",FALSE,2,FALSE,169
+"Netherlands","Naphtha","Net Deliveries",2021,6160.96,"440.576",FALSE,2,FALSE,205
+"Netherlands","Other oil products","Net Deliveries",2021,2876.097,"278.718",FALSE,2,FALSE,529
+"Netherlands","Other oil products","Net Deliveries",2021,3041.479,"278.718",FALSE,2,FALSE,565
+"Netherlands","Residual fuel oil","Consumption Pattern",2021,2144.571,"2233.854",FALSE,2,TRUE,1033
+"Netherlands","Residual fuel oil","Consumption Pattern",2021,2233.854,"2233.854",TRUE,2,TRUE,1069
+"Netherlands","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,457
+"Netherlands","Residual fuel oil","Net Deliveries",2021,0.013,"0",FALSE,2,FALSE,493
+"Netherlands","Total gas oil production","Consumption Pattern",2021,1016.793,"1184.045",FALSE,2,TRUE,889
+"Netherlands","Total gas oil production","Consumption Pattern",2021,1184.045,"1184.045",TRUE,2,TRUE,925
+"Netherlands","Total gas oil production","Net Deliveries",2021,3819.776,"372.134",FALSE,2,FALSE,241
+"Netherlands","Total gas oil production","Net Deliveries",2021,3928.73,"372.134",FALSE,2,FALSE,277
+"Netherlands","Total kerosene production","Net Deliveries",2021,2424.087,"245.305",FALSE,2,FALSE,313
+"Netherlands","Total kerosene production","Net Deliveries",2021,3146.141,"245.305",FALSE,2,FALSE,349
+"Netherlands","Total oil production","Consumption Pattern",2021,11948.81,"16309.994",FALSE,2,TRUE,673
+"Netherlands","Total oil production","Consumption Pattern",2021,16309.994,"16309.994",TRUE,2,TRUE,709
+"Netherlands","Total oil products production","Consumption Pattern",2021,8548.276,"9717.543",FALSE,2,TRUE,817
+"Netherlands","Total oil products production","Consumption Pattern",2021,9717.543,"9717.543",TRUE,2,TRUE,853
+"Netherlands","Total oil products production","Net Deliveries",2021,24313.227,"2004.685",FALSE,2,FALSE,601
+"Netherlands","Total oil products production","Net Deliveries",2021,24220.938,"2004.685",FALSE,2,FALSE,637
+"New Zealand","Crude oil","Consumption Pattern",2021,232,"107",FALSE,2,TRUE,747
+"New Zealand","Crude oil","Consumption Pattern",2021,107,"107",TRUE,2,TRUE,783
+"New Zealand","Crude oil","Industrial Production",2021,975,"72",FALSE,2,FALSE,27
+"New Zealand","Crude oil","Industrial Production",2021,875,"72",FALSE,2,FALSE,63
+"New Zealand","Gasoline and diesel","Net Deliveries",2021,3150,"308",FALSE,2,FALSE,387
+"New Zealand","Gasoline and diesel","Net Deliveries",2021,3392,"308",FALSE,2,FALSE,423
+"New Zealand","Liquified Petroleum Gas","Net Deliveries",2021,164,"15",FALSE,2,FALSE,99
+"New Zealand","Liquified Petroleum Gas","Net Deliveries",2021,187,"15",FALSE,2,FALSE,135
+"New Zealand","Middle distillates","Consumption Pattern",2021,254,"279",FALSE,2,TRUE,963
+"New Zealand","Middle distillates","Consumption Pattern",2021,279,"279",TRUE,2,TRUE,999
+"New Zealand","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,171
+"New Zealand","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,207
+"New Zealand","Other oil products","Net Deliveries",2021,355,"24",FALSE,2,FALSE,531
+"New Zealand","Other oil products","Net Deliveries",2021,311,"24",FALSE,2,FALSE,567
+"New Zealand","Residual fuel oil","Consumption Pattern",2021,9,"19",FALSE,2,TRUE,1035
+"New Zealand","Residual fuel oil","Consumption Pattern",2021,19,"19",TRUE,2,TRUE,1071
+"New Zealand","Residual fuel oil","Net Deliveries",2021,59,"3",FALSE,2,FALSE,459
+"New Zealand","Residual fuel oil","Net Deliveries",2021,66,"3",FALSE,2,FALSE,495
+"New Zealand","Total gas oil production","Consumption Pattern",2021,237,"209",FALSE,2,TRUE,891
+"New Zealand","Total gas oil production","Consumption Pattern",2021,209,"209",TRUE,2,TRUE,927
+"New Zealand","Total gas oil production","Net Deliveries",2021,2198,"221",FALSE,2,FALSE,243
+"New Zealand","Total gas oil production","Net Deliveries",2021,2204,"221",FALSE,2,FALSE,279
+"New Zealand","Total kerosene production","Net Deliveries",2021,559,"112",FALSE,2,FALSE,315
+"New Zealand","Total kerosene production","Net Deliveries",2021,843,"112",FALSE,2,FALSE,351
+"New Zealand","Total oil production","Consumption Pattern",2021,913,"736",FALSE,2,TRUE,675
+"New Zealand","Total oil production","Consumption Pattern",2021,736,"736",TRUE,2,TRUE,711
+"New Zealand","Total oil products production","Consumption Pattern",2021,681,"629",FALSE,2,TRUE,819
+"New Zealand","Total oil products production","Consumption Pattern",2021,629,"629",TRUE,2,TRUE,855
+"New Zealand","Total oil products production","Net Deliveries",2021,6485,"683",FALSE,2,FALSE,603
+"New Zealand","Total oil products production","Net Deliveries",2021,7003,"683",FALSE,2,FALSE,639
+"Norway","Crude oil","Consumption Pattern",2021,1807.852,"1879.216",FALSE,2,TRUE,746
+"Norway","Crude oil","Consumption Pattern",2021,1879.216,"1879.216",TRUE,2,TRUE,782
+"Norway","Crude oil","Industrial Production",2021,95055.743,"8035.956",FALSE,2,FALSE,26
+"Norway","Crude oil","Industrial Production",2021,89970.464,"8035.956",FALSE,2,FALSE,62
+"Norway","Gasoline and diesel","Net Deliveries",2021,4912.694,"389.179",FALSE,2,FALSE,386
+"Norway","Gasoline and diesel","Net Deliveries",2021,4936.937,"389.179",FALSE,2,FALSE,422
+"Norway","Liquified Petroleum Gas","Net Deliveries",2021,1588.504,"113.109",FALSE,2,FALSE,98
+"Norway","Liquified Petroleum Gas","Net Deliveries",2021,1088.276,"113.109",FALSE,2,FALSE,134
+"Norway","Middle distillates","Consumption Pattern",2021,458.836,"892.471",FALSE,2,TRUE,962
+"Norway","Middle distillates","Consumption Pattern",2021,892.471,"892.471",TRUE,2,TRUE,998
+"Norway","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,170
+"Norway","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,206
+"Norway","Other oil products","Net Deliveries",2021,2243.386,"135.233",FALSE,2,FALSE,530
+"Norway","Other oil products","Net Deliveries",2021,1651.752,"135.233",FALSE,2,FALSE,566
+"Norway","Residual fuel oil","Consumption Pattern",2021,17.996,"73.16",FALSE,2,TRUE,1034
+"Norway","Residual fuel oil","Consumption Pattern",2021,73.16,"73.16",TRUE,2,TRUE,1070
+"Norway","Residual fuel oil","Net Deliveries",2021,27.906,"2.169",FALSE,2,FALSE,458
+"Norway","Residual fuel oil","Net Deliveries",2021,32.528,"2.169",FALSE,2,FALSE,494
+"Norway","Total gas oil production","Consumption Pattern",2021,143.382,"185.386",FALSE,2,TRUE,890
+"Norway","Total gas oil production","Consumption Pattern",2021,185.386,"185.386",TRUE,2,TRUE,926
+"Norway","Total gas oil production","Net Deliveries",2021,718.443,"52.818",FALSE,2,FALSE,242
+"Norway","Total gas oil production","Net Deliveries",2021,683.177,"52.818",FALSE,2,FALSE,278
+"Norway","Total kerosene production","Net Deliveries",2021,330.326,"74.945",FALSE,2,FALSE,314
+"Norway","Total kerosene production","Net Deliveries",2021,681.053,"74.945",FALSE,2,FALSE,350
+"Norway","Total oil production","Consumption Pattern",2021,2739.575,"3464.987",FALSE,2,TRUE,674
+"Norway","Total oil production","Consumption Pattern",2021,3464.987,"3464.987",TRUE,2,TRUE,710
+"Norway","Total oil products production","Consumption Pattern",2021,931.723,"1585.771",FALSE,2,TRUE,818
+"Norway","Total oil products production","Consumption Pattern",2021,1585.771,"1585.771",TRUE,2,TRUE,854
+"Norway","Total oil products production","Net Deliveries",2021,9821.259,"767.453",FALSE,2,FALSE,602
+"Norway","Total oil products production","Net Deliveries",2021,9073.723,"767.453",FALSE,2,FALSE,638
+"Poland","Crude oil","Consumption Pattern",2021,6676.967,"6976.614",FALSE,2,TRUE,748
+"Poland","Crude oil","Consumption Pattern",2021,6976.614,"6976.614",TRUE,2,TRUE,784
+"Poland","Crude oil","Industrial Production",2021,895.294,"81.101",FALSE,2,FALSE,28
+"Poland","Crude oil","Industrial Production",2021,901.99,"81.101",FALSE,2,FALSE,64
+"Poland","Gasoline and diesel","Net Deliveries",2021,18750.413,"1645.454",FALSE,2,FALSE,388
+"Poland","Gasoline and diesel","Net Deliveries",2021,18674.21,"1645.454",FALSE,2,FALSE,424
+"Poland","Liquified Petroleum Gas","Net Deliveries",2021,2506.043,"233.572",FALSE,2,FALSE,100
+"Poland","Liquified Petroleum Gas","Net Deliveries",2021,2509.984,"233.572",FALSE,2,FALSE,136
+"Poland","Middle distillates","Consumption Pattern",2021,2681.487,"2692.496",FALSE,2,TRUE,964
+"Poland","Middle distillates","Consumption Pattern",2021,2692.496,"2692.496",TRUE,2,TRUE,1000
+"Poland","Naphtha","Net Deliveries",2021,985.803,"120.551",FALSE,2,FALSE,172
+"Poland","Naphtha","Net Deliveries",2021,1421.198,"120.551",FALSE,2,FALSE,208
+"Poland","Other oil products","Net Deliveries",2021,3116.052,"157.246",FALSE,2,FALSE,532
+"Poland","Other oil products","Net Deliveries",2021,2912.673,"157.246",FALSE,2,FALSE,568
+"Poland","Residual fuel oil","Consumption Pattern",2021,57.074,"72.032",FALSE,2,TRUE,1036
+"Poland","Residual fuel oil","Consumption Pattern",2021,72.032,"72.032",TRUE,2,TRUE,1072
+"Poland","Residual fuel oil","Net Deliveries",2021,192.249,"19.56",FALSE,2,FALSE,460
+"Poland","Residual fuel oil","Net Deliveries",2021,290.333,"19.56",FALSE,2,FALSE,496
+"Poland","Total gas oil production","Consumption Pattern",2021,750.392,"749.436",FALSE,2,TRUE,892
+"Poland","Total gas oil production","Consumption Pattern",2021,749.436,"749.436",TRUE,2,TRUE,928
+"Poland","Total gas oil production","Net Deliveries",2021,4789.835,"441.248",FALSE,2,FALSE,244
+"Poland","Total gas oil production","Net Deliveries",2021,5177.748,"441.248",FALSE,2,FALSE,280
+"Poland","Total kerosene production","Net Deliveries",2021,574.464,"136.301",FALSE,2,FALSE,316
+"Poland","Total kerosene production","Net Deliveries",2021,978.428,"136.301",FALSE,2,FALSE,352
+"Poland","Total oil production","Consumption Pattern",2021,10358.823,"10766.89",FALSE,2,TRUE,676
+"Poland","Total oil production","Consumption Pattern",2021,10766.89,"10766.89",TRUE,2,TRUE,712
+"Poland","Total oil products production","Consumption Pattern",2021,3681.856,"3790.276",FALSE,2,TRUE,820
+"Poland","Total oil products production","Consumption Pattern",2021,3790.276,"3790.276",TRUE,2,TRUE,856
+"Poland","Total oil products production","Net Deliveries",2021,30914.859,"2753.932",FALSE,2,FALSE,604
+"Poland","Total oil products production","Net Deliveries",2021,31964.574,"2753.932",FALSE,2,FALSE,640
+"Portugal","Crude oil","Consumption Pattern",2021,920.824,"813.026",FALSE,2,TRUE,749
+"Portugal","Crude oil","Consumption Pattern",2021,813.026,"813.026",TRUE,2,TRUE,785
+"Portugal","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,29
+"Portugal","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,65
+"Portugal","Gasoline and diesel","Net Deliveries",2021,4619.407,"405.276",FALSE,2,FALSE,389
+"Portugal","Gasoline and diesel","Net Deliveries",2021,4826.55,"405.276",FALSE,2,FALSE,425
+"Portugal","Liquified Petroleum Gas","Net Deliveries",2021,842.981,"41.531",FALSE,2,FALSE,101
+"Portugal","Liquified Petroleum Gas","Net Deliveries",2021,827.249,"41.531",FALSE,2,FALSE,137
+"Portugal","Middle distillates","Consumption Pattern",2021,1091.412,"1263.795",FALSE,2,TRUE,965
+"Portugal","Middle distillates","Consumption Pattern",2021,1263.795,"1263.795",TRUE,2,TRUE,1001
+"Portugal","Naphtha","Net Deliveries",2021,644.677,"0.607",FALSE,2,FALSE,173
+"Portugal","Naphtha","Net Deliveries",2021,391.966,"0.607",FALSE,2,FALSE,209
+"Portugal","Other oil products","Net Deliveries",2021,601.439,"42.113",FALSE,2,FALSE,533
+"Portugal","Other oil products","Net Deliveries",2021,599.388,"42.113",FALSE,2,FALSE,569
+"Portugal","Residual fuel oil","Consumption Pattern",2021,283.038,"167.086",FALSE,2,TRUE,1037
+"Portugal","Residual fuel oil","Consumption Pattern",2021,167.086,"167.086",TRUE,2,TRUE,1073
+"Portugal","Residual fuel oil","Net Deliveries",2021,334.056,"28.838",FALSE,2,FALSE,461
+"Portugal","Residual fuel oil","Net Deliveries",2021,727.672,"28.838",FALSE,2,FALSE,497
+"Portugal","Total gas oil production","Consumption Pattern",2021,248.965,"197.884",FALSE,2,TRUE,893
+"Portugal","Total gas oil production","Consumption Pattern",2021,197.884,"197.884",TRUE,2,TRUE,929
+"Portugal","Total gas oil production","Net Deliveries",2021,960.985,"93.117",FALSE,2,FALSE,245
+"Portugal","Total gas oil production","Net Deliveries",2021,1103.646,"93.117",FALSE,2,FALSE,281
+"Portugal","Total kerosene production","Net Deliveries",2021,807.545,"112.482",FALSE,2,FALSE,317
+"Portugal","Total kerosene production","Net Deliveries",2021,1494.792,"112.482",FALSE,2,FALSE,353
+"Portugal","Total oil production","Consumption Pattern",2021,2808.742,"2661.918",FALSE,2,TRUE,677
+"Portugal","Total oil production","Consumption Pattern",2021,2661.918,"2661.918",TRUE,2,TRUE,713
+"Portugal","Total oil products production","Consumption Pattern",2021,1887.918,"1848.892",FALSE,2,TRUE,821
+"Portugal","Total oil products production","Consumption Pattern",2021,1848.892,"1848.892",TRUE,2,TRUE,857
+"Portugal","Total oil products production","Net Deliveries",2021,8811.09,"723.964",FALSE,2,FALSE,605
+"Portugal","Total oil products production","Net Deliveries",2021,9971.263,"723.964",FALSE,2,FALSE,641
+"Slovakia","Crude oil","Consumption Pattern",2021,781.996,"846.433",FALSE,2,TRUE,750
+"Slovakia","Crude oil","Consumption Pattern",2021,846.433,"846.433",TRUE,2,TRUE,786
+"Slovakia","Crude oil","Industrial Production",2021,4.557,"0.124",FALSE,2,FALSE,30
+"Slovakia","Crude oil","Industrial Production",2021,2.143,"0.124",FALSE,2,FALSE,66
+"Slovakia","Gasoline and diesel","Net Deliveries",2021,1889.311,"164.734",FALSE,2,FALSE,390
+"Slovakia","Gasoline and diesel","Net Deliveries",2021,2044.335,"164.734",FALSE,2,FALSE,426
+"Slovakia","Liquified Petroleum Gas","Net Deliveries",2021,81.159,"11.233",FALSE,2,FALSE,102
+"Slovakia","Liquified Petroleum Gas","Net Deliveries",2021,97.146,"11.233",FALSE,2,FALSE,138
+"Slovakia","Middle distillates","Consumption Pattern",2021,274.55,"339.861",FALSE,2,TRUE,966
+"Slovakia","Middle distillates","Consumption Pattern",2021,339.861,"339.861",TRUE,2,TRUE,1002
+"Slovakia","Naphtha","Net Deliveries",2021,576.485,"34.98",FALSE,2,FALSE,174
+"Slovakia","Naphtha","Net Deliveries",2021,493.175,"34.98",FALSE,2,FALSE,210
+"Slovakia","Other oil products","Net Deliveries",2021,40.826,"1.393",FALSE,2,FALSE,534
+"Slovakia","Other oil products","Net Deliveries",2021,7.056,"1.393",FALSE,2,FALSE,570
+"Slovakia","Residual fuel oil","Consumption Pattern",2021,83.403,"88.166",FALSE,2,TRUE,1038
+"Slovakia","Residual fuel oil","Consumption Pattern",2021,88.166,"88.166",TRUE,2,TRUE,1074
+"Slovakia","Residual fuel oil","Net Deliveries",2021,-34.965,"-1.847",FALSE,2,FALSE,462
+"Slovakia","Residual fuel oil","Net Deliveries",2021,-25.756,"-1.847",FALSE,2,FALSE,498
+"Slovakia","Total gas oil production","Consumption Pattern",2021,192.587,"175.984",FALSE,2,TRUE,894
+"Slovakia","Total gas oil production","Consumption Pattern",2021,175.984,"175.984",TRUE,2,TRUE,930
+"Slovakia","Total gas oil production","Net Deliveries",2021,553.011,"62.424",FALSE,2,FALSE,246
+"Slovakia","Total gas oil production","Net Deliveries",2021,661.125,"62.424",FALSE,2,FALSE,282
+"Slovakia","Total kerosene production","Net Deliveries",2021,21.614,"2.162",FALSE,2,FALSE,318
+"Slovakia","Total kerosene production","Net Deliveries",2021,44.752,"2.162",FALSE,2,FALSE,354
+"Slovakia","Total oil production","Consumption Pattern",2021,1407.144,"1525.913",FALSE,2,TRUE,678
+"Slovakia","Total oil production","Consumption Pattern",2021,1525.913,"1525.913",TRUE,2,TRUE,714
+"Slovakia","Total oil products production","Consumption Pattern",2021,625.148,"679.48",FALSE,2,TRUE,822
+"Slovakia","Total oil products production","Consumption Pattern",2021,679.48,"679.48",TRUE,2,TRUE,858
+"Slovakia","Total oil products production","Net Deliveries",2021,3127.441,"275.079",FALSE,2,FALSE,606
+"Slovakia","Total oil products production","Net Deliveries",2021,3321.833,"275.079",FALSE,2,FALSE,642
+"Slovenia","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,751
+"Slovenia","Crude oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,787
+"Slovenia","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,31
+"Slovenia","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,67
+"Slovenia","Gasoline and diesel","Net Deliveries",2021,1511,"148",FALSE,2,FALSE,391
+"Slovenia","Gasoline and diesel","Net Deliveries",2021,1770,"148",FALSE,2,FALSE,427
+"Slovenia","Liquified Petroleum Gas","Net Deliveries",2021,82,"8",FALSE,2,FALSE,103
+"Slovenia","Liquified Petroleum Gas","Net Deliveries",2021,79,"8",FALSE,2,FALSE,139
+"Slovenia","Middle distillates","Consumption Pattern",2021,477,"462",FALSE,2,TRUE,967
+"Slovenia","Middle distillates","Consumption Pattern",2021,462,"462",TRUE,2,TRUE,1003
+"Slovenia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,175
+"Slovenia","Naphtha","Net Deliveries",2021,0,"0",TRUE,2,FALSE,211
+"Slovenia","Other oil products","Net Deliveries",2021,197,"10",FALSE,2,FALSE,535
+"Slovenia","Other oil products","Net Deliveries",2021,155,"10",FALSE,2,FALSE,571
+"Slovenia","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1039
+"Slovenia","Residual fuel oil","Consumption Pattern",2021,0,"0",TRUE,2,TRUE,1075
+"Slovenia","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,463
+"Slovenia","Residual fuel oil","Net Deliveries",2021,3,"0",FALSE,2,FALSE,499
+"Slovenia","Total gas oil production","Consumption Pattern",2021,160,"139",FALSE,2,TRUE,895
+"Slovenia","Total gas oil production","Consumption Pattern",2021,139,"139",TRUE,2,TRUE,931
+"Slovenia","Total gas oil production","Net Deliveries",2021,370,"33",FALSE,2,FALSE,247
+"Slovenia","Total gas oil production","Net Deliveries",2021,423,"33",FALSE,2,FALSE,283
+"Slovenia","Total kerosene production","Net Deliveries",2021,12,"1",FALSE,2,FALSE,319
+"Slovenia","Total kerosene production","Net Deliveries",2021,19,"1",FALSE,2,FALSE,355
+"Slovenia","Total oil production","Consumption Pattern",2021,670,"633",FALSE,2,TRUE,679
+"Slovenia","Total oil production","Consumption Pattern",2021,633,"633",TRUE,2,TRUE,715
+"Slovenia","Total oil products production","Consumption Pattern",2021,670,"633",FALSE,2,TRUE,823
+"Slovenia","Total oil products production","Consumption Pattern",2021,633,"633",TRUE,2,TRUE,859
+"Slovenia","Total oil products production","Net Deliveries",2021,2172,"200",FALSE,2,FALSE,607
+"Slovenia","Total oil products production","Net Deliveries",2021,2449,"200",FALSE,2,FALSE,643
+"South Korea","Crude oil","Consumption Pattern",2021,14704.577,"15754.452",FALSE,2,TRUE,740
+"South Korea","Crude oil","Consumption Pattern",2021,15754.452,"15754.452",TRUE,2,TRUE,776
+"South Korea","Crude oil","Industrial Production",2021,1078.892,"95.974",FALSE,2,FALSE,20
+"South Korea","Crude oil","Industrial Production",2021,1174.823,"95.974",FALSE,2,FALSE,56
+"South Korea","Gasoline and diesel","Net Deliveries",2021,21650.177,"2038.996",FALSE,2,FALSE,380
+"South Korea","Gasoline and diesel","Net Deliveries",2021,21151.843,"2038.996",FALSE,2,FALSE,416
+"South Korea","Liquified Petroleum Gas","Net Deliveries",2021,9888.434,"934.948",FALSE,2,FALSE,92
+"South Korea","Liquified Petroleum Gas","Net Deliveries",2021,10570.128,"934.948",FALSE,2,FALSE,128
+"South Korea","Middle distillates","Consumption Pattern",2021,2892.028,"2523.572",FALSE,2,TRUE,956
+"South Korea","Middle distillates","Consumption Pattern",2021,2523.572,"2523.572",TRUE,2,TRUE,992
+"South Korea","Naphtha","Net Deliveries",2021,42037.115,"3436.807",FALSE,2,FALSE,164
+"South Korea","Naphtha","Net Deliveries",2021,40771.611,"3436.807",FALSE,2,FALSE,200
+"South Korea","Other oil products","Net Deliveries",2021,5101.705,"428.338",FALSE,2,FALSE,524
+"South Korea","Other oil products","Net Deliveries",2021,4425.944,"428.338",FALSE,2,FALSE,560
+"South Korea","Residual fuel oil","Consumption Pattern",2021,1517.956,"1410.601",FALSE,2,TRUE,1028
+"South Korea","Residual fuel oil","Consumption Pattern",2021,1410.601,"1410.601",TRUE,2,TRUE,1064
+"South Korea","Residual fuel oil","Net Deliveries",2021,1632.354,"155.568",FALSE,2,FALSE,452
+"South Korea","Residual fuel oil","Net Deliveries",2021,1414.478,"155.568",FALSE,2,FALSE,488
+"South Korea","Total gas oil production","Consumption Pattern",2021,877.897,"933.982",FALSE,2,TRUE,884
+"South Korea","Total gas oil production","Consumption Pattern",2021,933.982,"933.982",TRUE,2,TRUE,920
+"South Korea","Total gas oil production","Net Deliveries",2021,8537.202,"938.652",FALSE,2,FALSE,236
+"South Korea","Total gas oil production","Net Deliveries",2021,8644.716,"938.652",FALSE,2,FALSE,272
+"South Korea","Total kerosene production","Net Deliveries",2021,6675.778,"888.557",FALSE,2,FALSE,308
+"South Korea","Total kerosene production","Net Deliveries",2021,7277.924,"888.557",FALSE,2,FALSE,344
+"South Korea","Total oil production","Consumption Pattern",2021,23386.141,"23718.869",FALSE,2,TRUE,668
+"South Korea","Total oil production","Consumption Pattern",2021,23718.869,"23718.869",TRUE,2,TRUE,704
+"South Korea","Total oil products production","Consumption Pattern",2021,8681.564,"7964.417",FALSE,2,TRUE,812
+"South Korea","Total oil products production","Consumption Pattern",2021,7964.417,"7964.417",TRUE,2,TRUE,848
+"South Korea","Total oil products production","Net Deliveries",2021,95522.765,"8821.866",FALSE,2,FALSE,596
+"South Korea","Total oil products production","Net Deliveries",2021,94256.644,"8821.866",FALSE,2,FALSE,632
+"Spain","Crude oil","Consumption Pattern",2021,4848.188,"5195.292",FALSE,2,TRUE,752
+"Spain","Crude oil","Consumption Pattern",2021,5195.292,"5195.292",TRUE,2,TRUE,788
+"Spain","Crude oil","Industrial Production",2021,5.816,"0.086",FALSE,2,FALSE,32
+"Spain","Crude oil","Industrial Production",2021,0.912,"0.086",FALSE,2,FALSE,68
+"Spain","Gasoline and diesel","Net Deliveries",2021,28528.656,"2677.398",FALSE,2,FALSE,392
+"Spain","Gasoline and diesel","Net Deliveries",2021,28797.864,"2677.398",FALSE,2,FALSE,428
+"Spain","Liquified Petroleum Gas","Net Deliveries",2021,1801.062,"203.192",FALSE,2,FALSE,104
+"Spain","Liquified Petroleum Gas","Net Deliveries",2021,1971.43,"203.192",FALSE,2,FALSE,140
+"Spain","Middle distillates","Consumption Pattern",2021,6138.075,"5961.072",FALSE,2,TRUE,968
+"Spain","Middle distillates","Consumption Pattern",2021,5961.072,"5961.072",TRUE,2,TRUE,1004
+"Spain","Naphtha","Net Deliveries",2021,1594.786,"145.307",FALSE,2,FALSE,176
+"Spain","Naphtha","Net Deliveries",2021,1662.177,"145.307",FALSE,2,FALSE,212
+"Spain","Other oil products","Net Deliveries",2021,3707.287,"162.616",FALSE,2,FALSE,536
+"Spain","Other oil products","Net Deliveries",2021,2950.446,"162.616",FALSE,2,FALSE,572
+"Spain","Residual fuel oil","Consumption Pattern",2021,779.191,"1107.932",FALSE,2,TRUE,1040
+"Spain","Residual fuel oil","Consumption Pattern",2021,1107.932,"1107.932",TRUE,2,TRUE,1076
+"Spain","Residual fuel oil","Net Deliveries",2021,1692.696,"163.372",FALSE,2,FALSE,464
+"Spain","Residual fuel oil","Net Deliveries",2021,1769.511,"163.372",FALSE,2,FALSE,500
+"Spain","Total gas oil production","Consumption Pattern",2021,1213.619,"1244.918",FALSE,2,TRUE,896
+"Spain","Total gas oil production","Consumption Pattern",2021,1244.918,"1244.918",TRUE,2,TRUE,932
+"Spain","Total gas oil production","Net Deliveries",2021,5247.091,"525.463",FALSE,2,FALSE,248
+"Spain","Total gas oil production","Net Deliveries",2021,5755.096,"525.463",FALSE,2,FALSE,284
+"Spain","Total kerosene production","Net Deliveries",2021,3357.302,"462.215",FALSE,2,FALSE,320
+"Spain","Total kerosene production","Net Deliveries",2021,5871.01,"462.215",FALSE,2,FALSE,356
+"Spain","Total oil production","Consumption Pattern",2021,14228.319,"14848.813",FALSE,2,TRUE,680
+"Spain","Total oil production","Consumption Pattern",2021,14848.813,"14848.813",TRUE,2,TRUE,716
+"Spain","Total oil products production","Consumption Pattern",2021,9380.131,"9653.521",FALSE,2,TRUE,824
+"Spain","Total oil products production","Consumption Pattern",2021,9653.521,"9653.521",TRUE,2,TRUE,860
+"Spain","Total oil products production","Net Deliveries",2021,45928.88,"4339.563",FALSE,2,FALSE,608
+"Spain","Total oil products production","Net Deliveries",2021,48777.534,"4339.563",FALSE,2,FALSE,644
+"Sweden","Crude oil","Consumption Pattern",2021,1093.457,"1649.712",FALSE,2,TRUE,753
+"Sweden","Crude oil","Consumption Pattern",2021,1649.712,"1649.712",TRUE,2,TRUE,789
+"Sweden","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,33
+"Sweden","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,69
+"Sweden","Gasoline and diesel","Net Deliveries",2021,5399.307,"476.602",FALSE,2,FALSE,393
+"Sweden","Gasoline and diesel","Net Deliveries",2021,5149.352,"476.602",FALSE,2,FALSE,429
+"Sweden","Liquified Petroleum Gas","Net Deliveries",2021,895.853,"72.565",FALSE,2,FALSE,105
+"Sweden","Liquified Petroleum Gas","Net Deliveries",2021,711.718,"72.565",FALSE,2,FALSE,141
+"Sweden","Middle distillates","Consumption Pattern",2021,1596.656,"1678.099",FALSE,2,TRUE,969
+"Sweden","Middle distillates","Consumption Pattern",2021,1678.099,"1678.099",TRUE,2,TRUE,1005
+"Sweden","Naphtha","Net Deliveries",2021,387.769,"17.102",FALSE,2,FALSE,177
+"Sweden","Naphtha","Net Deliveries",2021,204.805,"17.102",FALSE,2,FALSE,213
+"Sweden","Other oil products","Net Deliveries",2021,814.857,"53.987",FALSE,2,FALSE,537
+"Sweden","Other oil products","Net Deliveries",2021,684.276,"53.987",FALSE,2,FALSE,573
+"Sweden","Residual fuel oil","Consumption Pattern",2021,519.854,"464.63",FALSE,2,TRUE,1041
+"Sweden","Residual fuel oil","Consumption Pattern",2021,464.63,"464.63",TRUE,2,TRUE,1077
+"Sweden","Residual fuel oil","Net Deliveries",2021,356.453,"36.949",FALSE,2,FALSE,465
+"Sweden","Residual fuel oil","Net Deliveries",2021,306.075,"36.949",FALSE,2,FALSE,501
+"Sweden","Total gas oil production","Consumption Pattern",2021,464.137,"450.242",FALSE,2,TRUE,897
+"Sweden","Total gas oil production","Consumption Pattern",2021,450.242,"450.242",TRUE,2,TRUE,933
+"Sweden","Total gas oil production","Net Deliveries",2021,2169.276,"178.352",FALSE,2,FALSE,249
+"Sweden","Total gas oil production","Net Deliveries",2021,2157.023,"178.352",FALSE,2,FALSE,285
+"Sweden","Total kerosene production","Net Deliveries",2021,364.778,"56.991",FALSE,2,FALSE,321
+"Sweden","Total kerosene production","Net Deliveries",2021,712.171,"56.991",FALSE,2,FALSE,357
+"Sweden","Total oil production","Consumption Pattern",2021,4135.173,"4687.903",FALSE,2,TRUE,681
+"Sweden","Total oil production","Consumption Pattern",2021,4687.903,"4687.903",TRUE,2,TRUE,717
+"Sweden","Total oil products production","Consumption Pattern",2021,3041.716,"3038.191",FALSE,2,TRUE,825
+"Sweden","Total oil products production","Consumption Pattern",2021,3038.191,"3038.191",TRUE,2,TRUE,861
+"Sweden","Total oil products production","Net Deliveries",2021,10388.293,"892.548",FALSE,2,FALSE,609
+"Sweden","Total oil products production","Net Deliveries",2021,9925.42,"892.548",FALSE,2,FALSE,645
+"Switzerland","Crude oil","Consumption Pattern",2021,41.559,"55.716",FALSE,2,TRUE,754
+"Switzerland","Crude oil","Consumption Pattern",2021,55.716,"55.716",TRUE,2,TRUE,790
+"Switzerland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,34
+"Switzerland","Crude oil","Industrial Production",2021,0,"0",TRUE,2,FALSE,70
+"Switzerland","Gasoline and diesel","Net Deliveries",2021,5125.653,"429.898",FALSE,2,FALSE,394
+"Switzerland","Gasoline and diesel","Net Deliveries",2021,4809.939,"429.898",FALSE,2,FALSE,430
+"Switzerland","Liquified Petroleum Gas","Net Deliveries",2021,161.188,"12.845",FALSE,2,FALSE,106
+"Switzerland","Liquified Petroleum Gas","Net Deliveries",2021,150.916,"12.845",FALSE,2,FALSE,142
+"Switzerland","Middle distillates","Consumption Pattern",2021,2783.191,"2340.109",FALSE,2,TRUE,970
+"Switzerland","Middle distillates","Consumption Pattern",2021,2340.109,"2340.109",TRUE,2,TRUE,1006
+"Switzerland","Naphtha","Net Deliveries",2021,13.715,"0.6",FALSE,2,FALSE,178
+"Switzerland","Naphtha","Net Deliveries",2021,20.971,"0.6",FALSE,2,FALSE,214
+"Switzerland","Other oil products","Net Deliveries",2021,331.951,"14.736",FALSE,2,FALSE,538
+"Switzerland","Other oil products","Net Deliveries",2021,317.209,"14.736",FALSE,2,FALSE,574
+"Switzerland","Residual fuel oil","Consumption Pattern",2021,62.454,"50.997",FALSE,2,TRUE,1042
+"Switzerland","Residual fuel oil","Consumption Pattern",2021,50.997,"50.997",TRUE,2,TRUE,1078
+"Switzerland","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,466
+"Switzerland","Residual fuel oil","Net Deliveries",2021,0,"0",TRUE,2,FALSE,502
+"Switzerland","Total gas oil production","Consumption Pattern",2021,980.138,"927.538",FALSE,2,TRUE,898
+"Switzerland","Total gas oil production","Consumption Pattern",2021,927.538,"927.538",TRUE,2,TRUE,934
+"Switzerland","Total gas oil production","Net Deliveries",2021,2132.692,"176.499",FALSE,2,FALSE,250
+"Switzerland","Total gas oil production","Net Deliveries",2021,2087.706,"176.499",FALSE,2,FALSE,286
+"Switzerland","Total kerosene production","Net Deliveries",2021,786.994,"115.428",FALSE,2,FALSE,322
+"Switzerland","Total kerosene production","Net Deliveries",2021,1385.389,"115.428",FALSE,2,FALSE,358
+"Switzerland","Total oil production","Consumption Pattern",2021,3896.801,"3401.196",FALSE,2,TRUE,682
+"Switzerland","Total oil production","Consumption Pattern",2021,3401.196,"3401.196",TRUE,2,TRUE,718
+"Switzerland","Total oil products production","Consumption Pattern",2021,3855.242,"3345.48",FALSE,2,TRUE,826
+"Switzerland","Total oil products production","Consumption Pattern",2021,3345.48,"3345.48",TRUE,2,TRUE,862
+"Switzerland","Total oil products production","Net Deliveries",2021,8552.193,"750.006",FALSE,2,FALSE,610
+"Switzerland","Total oil products production","Net Deliveries",2021,8772.13,"750.006",FALSE,2,FALSE,646
+"Türkiye","Crude oil","Consumption Pattern",2021,6792.344,"7021.057",FALSE,2,TRUE,755
+"Türkiye","Crude oil","Consumption Pattern",2021,7021.057,"7021.057",TRUE,2,TRUE,791
+"Türkiye","Crude oil","Industrial Production",2021,3441.66,"322.391",FALSE,2,FALSE,35
+"Türkiye","Crude oil","Industrial Production",2021,3583.113,"322.391",FALSE,2,FALSE,71
+"Türkiye","Gasoline and diesel","Net Deliveries",2021,25131.7,"2291.822",FALSE,2,FALSE,395
+"Türkiye","Gasoline and diesel","Net Deliveries",2021,24974.235,"2291.822",FALSE,2,FALSE,431
+"Türkiye","Liquified Petroleum Gas","Net Deliveries",2021,3918.819,"356.949",FALSE,2,FALSE,107
+"Türkiye","Liquified Petroleum Gas","Net Deliveries",2021,3868.285,"356.949",FALSE,2,FALSE,143
+"Türkiye","Middle distillates","Consumption Pattern",2021,2660.466,"2129.122",FALSE,2,TRUE,971
+"Türkiye","Middle distillates","Consumption Pattern",2021,2129.122,"2129.122",TRUE,2,TRUE,1007
+"Türkiye","Naphtha","Net Deliveries",2021,1841,"108.297",FALSE,2,FALSE,179
+"Türkiye","Naphtha","Net Deliveries",2021,1297.189,"108.297",FALSE,2,FALSE,215
+"Türkiye","Other oil products","Net Deliveries",2021,8318.325,"660.136",FALSE,2,FALSE,539
+"Türkiye","Other oil products","Net Deliveries",2021,8714.7,"660.136",FALSE,2,FALSE,575
+"Türkiye","Residual fuel oil","Consumption Pattern",2021,790.482,"1237.216",FALSE,2,TRUE,1043
+"Türkiye","Residual fuel oil","Consumption Pattern",2021,1237.216,"1237.216",TRUE,2,TRUE,1079
+"Türkiye","Residual fuel oil","Net Deliveries",2021,268.636,"44.465",FALSE,2,FALSE,467
+"Türkiye","Residual fuel oil","Net Deliveries",2021,329.527,"44.465",FALSE,2,FALSE,503
+"Türkiye","Total gas oil production","Consumption Pattern",2021,336.438,"358.966",FALSE,2,TRUE,899
+"Türkiye","Total gas oil production","Consumption Pattern",2021,358.966,"358.966",TRUE,2,TRUE,935
+"Türkiye","Total gas oil production","Net Deliveries",2021,1677.854,"205.359",FALSE,2,FALSE,251
+"Türkiye","Total gas oil production","Net Deliveries",2021,2199.258,"205.359",FALSE,2,FALSE,287
+"Türkiye","Total kerosene production","Net Deliveries",2021,3507.406,"343.016",FALSE,2,FALSE,323
+"Türkiye","Total kerosene production","Net Deliveries",2021,4936.892,"343.016",FALSE,2,FALSE,359
+"Türkiye","Total oil production","Consumption Pattern",2021,11784.675,"11995.079",FALSE,2,TRUE,683
+"Türkiye","Total oil production","Consumption Pattern",2021,11995.079,"11995.079",TRUE,2,TRUE,719
+"Türkiye","Total oil products production","Consumption Pattern",2021,4992.331,"4974.022",FALSE,2,TRUE,827
+"Türkiye","Total oil products production","Consumption Pattern",2021,4974.022,"4974.022",TRUE,2,TRUE,863
+"Türkiye","Total oil products production","Net Deliveries",2021,44663.74,"4010.044",FALSE,2,FALSE,611
+"Türkiye","Total oil products production","Net Deliveries",2021,46320.086,"4010.044",FALSE,2,FALSE,647
+"United Kingdom","Crude oil","Consumption Pattern",2021,4591,"4137",FALSE,2,TRUE,756
+"United Kingdom","Crude oil","Consumption Pattern",2021,4137,"4137",TRUE,2,TRUE,792
+"United Kingdom","Crude oil","Industrial Production",2021,40865,"2997",FALSE,2,FALSE,36
+"United Kingdom","Crude oil","Industrial Production",2021,37750.743,"2997",FALSE,2,FALSE,72
+"United Kingdom","Gasoline and diesel","Net Deliveries",2021,27867,"2320",FALSE,2,FALSE,396
+"United Kingdom","Gasoline and diesel","Net Deliveries",2021,28029,"2320",FALSE,2,FALSE,432
+"United Kingdom","Liquified Petroleum Gas","Net Deliveries",2021,2489,"200",FALSE,2,FALSE,108
+"United Kingdom","Liquified Petroleum Gas","Net Deliveries",2021,2562,"200",FALSE,2,FALSE,144
+"United Kingdom","Middle distillates","Consumption Pattern",2021,2584,"2536",FALSE,2,TRUE,972
+"United Kingdom","Middle distillates","Consumption Pattern",2021,2536,"2536",TRUE,2,TRUE,1008
+"United Kingdom","Naphtha","Net Deliveries",2021,155,"5",FALSE,2,FALSE,180
+"United Kingdom","Naphtha","Net Deliveries",2021,53,"5",FALSE,2,FALSE,216
+"United Kingdom","Other oil products","Net Deliveries",2021,3542,"343",FALSE,2,FALSE,540
+"United Kingdom","Other oil products","Net Deliveries",2021,3289,"343",FALSE,2,FALSE,576
+"United Kingdom","Residual fuel oil","Consumption Pattern",2021,201,"239",FALSE,2,TRUE,1044
+"United Kingdom","Residual fuel oil","Consumption Pattern",2021,239,"239",TRUE,2,TRUE,1080
+"United Kingdom","Residual fuel oil","Net Deliveries",2021,256,"18",FALSE,2,FALSE,468
+"United Kingdom","Residual fuel oil","Net Deliveries",2021,324.346,"18",FALSE,2,FALSE,504
+"United Kingdom","Total gas oil production","Consumption Pattern",2021,1188,"982",FALSE,2,TRUE,900
+"United Kingdom","Total gas oil production","Consumption Pattern",2021,982,"982",TRUE,2,TRUE,936
+"United Kingdom","Total gas oil production","Net Deliveries",2021,10817,"997",FALSE,2,FALSE,252
+"United Kingdom","Total gas oil production","Net Deliveries",2021,11882,"997",FALSE,2,FALSE,288
+"United Kingdom","Total kerosene production","Net Deliveries",2021,8071,"1132",FALSE,2,FALSE,324
+"United Kingdom","Total kerosene production","Net Deliveries",2021,12539,"1132",FALSE,2,FALSE,360
+"United Kingdom","Total oil production","Consumption Pattern",2021,9474,"8801",FALSE,2,TRUE,684
+"United Kingdom","Total oil production","Consumption Pattern",2021,8801,"8801",TRUE,2,TRUE,720
+"United Kingdom","Total oil products production","Consumption Pattern",2021,4883,"4664",FALSE,2,TRUE,828
+"United Kingdom","Total oil products production","Consumption Pattern",2021,4664,"4664",TRUE,2,TRUE,864
+"United Kingdom","Total oil products production","Net Deliveries",2021,53197,"5015",FALSE,2,FALSE,612
+"United Kingdom","Total oil products production","Net Deliveries",2021,58678.346,"5015",FALSE,2,FALSE,648
+"United States","Crude oil","Consumption Pattern",2021,131548,"102567",FALSE,2,TRUE,757
+"United States","Crude oil","Consumption Pattern",2021,102567,"102567",TRUE,2,TRUE,793
+"United States","Crude oil","Industrial Production",2021,702512,"63868",FALSE,2,FALSE,37
+"United States","Crude oil","Industrial Production",2021,749969,"63868",FALSE,2,FALSE,73
+"United States","Gasoline and diesel","Net Deliveries",2021,188284.815,"14985",FALSE,2,FALSE,397
+"United States","Gasoline and diesel","Net Deliveries",2021,190136.556,"14985",FALSE,2,FALSE,433
+"United States","Liquified Petroleum Gas","Net Deliveries",2021,32652,"3066",FALSE,2,FALSE,109
+"United States","Liquified Petroleum Gas","Net Deliveries",2021,32777,"3066",FALSE,2,FALSE,145
+"United States","Middle distillates","Consumption Pattern",2021,19945,"18218",FALSE,2,TRUE,973
+"United States","Middle distillates","Consumption Pattern",2021,18218,"18218",TRUE,2,TRUE,1009
+"United States","Naphtha","Net Deliveries",2021,7977,"484",FALSE,2,FALSE,181
+"United States","Naphtha","Net Deliveries",2021,5925,"484",FALSE,2,FALSE,217
+"United States","Other oil products","Net Deliveries",2021,100967,"7746",FALSE,2,FALSE,541
+"United States","Other oil products","Net Deliveries",2021,107089,"7746",FALSE,2,FALSE,577
+"United States","Residual fuel oil","Consumption Pattern",2021,5202,"5842",FALSE,2,TRUE,1045
+"United States","Residual fuel oil","Consumption Pattern",2021,5842,"5842",TRUE,2,TRUE,1081
+"United States","Residual fuel oil","Net Deliveries",2021,3304,"221",FALSE,2,FALSE,469
+"United States","Residual fuel oil","Net Deliveries",2021,3490,"221",FALSE,2,FALSE,505
+"United States","Total gas oil production","Consumption Pattern",2021,22298,"21285",FALSE,2,TRUE,901
+"United States","Total gas oil production","Consumption Pattern",2021,21285,"21285",TRUE,2,TRUE,937
+"United States","Total gas oil production","Net Deliveries",2021,379625.411,"31799",FALSE,2,FALSE,253
+"United States","Total gas oil production","Net Deliveries",2021,379378.851,"31799",FALSE,2,FALSE,289
+"United States","Total kerosene production","Net Deliveries",2021,63327,"6146",FALSE,2,FALSE,325
+"United States","Total kerosene production","Net Deliveries",2021,71876,"6146",FALSE,2,FALSE,361
+"United States","Total oil production","Consumption Pattern",2021,197026,"168007",FALSE,2,TRUE,685
+"United States","Total oil production","Consumption Pattern",2021,168007,"168007",TRUE,2,TRUE,721
+"United States","Total oil products production","Consumption Pattern",2021,65478,"65440",FALSE,2,TRUE,829
+"United States","Total oil products production","Consumption Pattern",2021,65440,"65440",TRUE,2,TRUE,865
+"United States","Total oil products production","Net Deliveries",2021,776137.226,"64447",FALSE,2,FALSE,613
+"United States","Total oil products production","Net Deliveries",2021,790672.407,"64447",FALSE,2,FALSE,649

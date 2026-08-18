@@ -1,0 +1,1352 @@
+project_id,project_name,ownership_path_records,distinct_parent_entity_ids,distinct_immediate_owner_entity_ids,missing_ownership_share_records,missing_or_placeholder_capacity_records,distinct_reported_capacity_values,statuses_as_reported,project_id_is_unique,workbook_exact_duplicate_groups,workbook_exact_duplicate_rows_beyond_first
+P0653,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P2020,Druzhba Oil Pipeline,101,52,11,42,0,1,cancelled,FALSE,31,31
+P2021,Druzhba Oil Pipeline,101,52,11,42,0,1,cancelled,FALSE,31,31
+P2022,Druzhba Oil Pipeline,101,52,11,42,101,0,cancelled,FALSE,31,31
+P5133,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5134,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5137,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5146,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5188,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5189,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5190,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5207,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5322,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5323,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5324,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5325,Druzhba Oil Pipeline,101,52,11,42,0,1,idle,FALSE,31,31
+P5326,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5327,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5329,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5330,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P5331,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P6307,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P7279,Druzhba Oil Pipeline,101,52,11,42,0,1,idle,FALSE,31,31
+P7280,Druzhba Oil Pipeline,101,52,11,42,0,1,operating,FALSE,31,31
+P3678,Chayvo-De-Kastri Oil Pipeline,56,56,4,11,0,1,operating,FALSE,31,31
+P3720,Chayvo-De-Kastri Oil Pipeline,56,56,4,11,56,0,operating,FALSE,31,31
+P3721,Chayvo-De-Kastri Oil Pipeline,56,56,4,11,56,0,operating,FALSE,31,31
+P0667,Burgas-Alexandroupolis Oil Pipeline,47,47,5,44,0,1,proposed,FALSE,31,31
+P0060,Diamond Oil Pipeline,45,15,4,12,0,1,operating,FALSE,31,31
+P0646,Caspian Pipeline,45,45,9,16,0,1,operating,FALSE,31,31
+P2044,Caspian Pipeline,45,45,9,16,0,1,operating,FALSE,31,31
+P2525,Diamond Oil Pipeline,45,15,4,12,0,1,cancelled,FALSE,31,31
+P3172,Diamond Oil Pipeline,45,15,4,12,45,0,cancelled,FALSE,31,31
+P0679,Transalpine Oil Pipeline,41,41,1,41,0,1,operating,FALSE,31,31
+P5167,Transalpine Oil Pipeline,41,41,1,41,0,1,proposed,FALSE,31,31
+P6261,Transalpine Oil Pipeline,41,41,1,41,41,0,operating,FALSE,31,31
+P0643,Baku-Supsa Oil Pipeline,39,39,1,3,0,1,idle,FALSE,31,31
+P2019,Baku-Supsa Oil Pipeline,39,39,1,3,0,1,idle,FALSE,31,31
+P3708,Suzun–Vankor Oil Pipeline,34,34,1,32,34,0,operating,FALSE,31,31
+P0677,Rostock-Schwedt Oil Pipeline,33,33,1,11,0,1,operating,FALSE,31,31
+P6331,Rostock-Schwedt Oil Pipeline,33,33,1,11,33,0,proposed,FALSE,31,31
+P0073,EPIC Oil Pipeline,32,32,3,5,0,1,operating,FALSE,31,31
+P0344,Wink to Webster Pipeline,32,32,6,32,0,1,operating,FALSE,31,31
+P5464,Angostura-Guayaguayare Oil Pipeline,32,31,3,5,0,1,operating,FALSE,31,31
+P0046,Cactus II Oil Pipeline,31,27,2,9,0,1,operating,FALSE,31,31
+P0662,Samsun–Ceyhan Pipeline,31,31,3,27,0,1,cancelled,FALSE,31,31
+P2623,Cactus II Oil Pipeline,31,27,2,9,0,1,operating,FALSE,31,31
+P3594,Shin Oak NGL Pipeline,31,31,2,3,31,0,operating,FALSE,31,31
+P4277,Shin Oak NGL Pipeline,31,31,2,3,0,1,cancelled,FALSE,31,31
+P0673,North-West Oil Pipeline Network,30,29,2,5,0,1,operating,FALSE,31,31
+P1209,Moomba to Port Bonython Oil Pipeline,30,30,3,2,0,1,operating,FALSE,31,31
+P3102,North-West Oil Pipeline Network,30,29,2,5,0,1,operating,FALSE,31,31
+P3156,Blue Marlin Offshore Port (BMOP) Oil Pipeline,30,15,2,8,0,1,proposed,FALSE,31,31
+P3675,Vostok Oil Pipeline,30,30,1,27,0,1,construction,FALSE,31,31
+P7155,Vostok Oil Pipeline,30,30,1,27,0,1,proposed,FALSE,31,31
+P7156,Vostok Oil Pipeline,30,30,1,27,0,1,proposed,FALSE,31,31
+P7160,Vostok Oil Pipeline,30,30,1,27,0,1,construction,FALSE,31,31
+P7348,Blue Marlin Offshore Port (BMOP) Oil Pipeline,30,15,2,8,0,1,proposed,FALSE,31,31
+P7227,Satah-Zirku Island Oil Pipeline,29,29,3,1,0,1,operating,FALSE,31,31
+P7228,Umm Al Dalkh-Upper Zakum Oil Pipeline,29,29,3,1,29,0,operating,FALSE,31,31
+P7229,Bida Al Qemzan-Bu Hasa Oil Pipeline,29,29,3,1,29,0,operating,FALSE,31,31
+P1214,Lycium to Moomba Oil Pipeline,28,28,2,1,0,1,operating,FALSE,31,31
+P1215,Growler to Lycium Oil Pipeline,28,28,2,1,0,1,operating,FALSE,31,31
+P0139,White Cliffs Oil Pipeline,27,27,5,5,0,1,operating,FALSE,31,31
+P0660,Vankor-Purpe Pipeline,27,27,1,10,0,1,operating,FALSE,31,31
+P2632,White Cliffs Oil Pipeline,27,27,5,5,0,1,operating,FALSE,31,31
+P2633,White Cliffs Oil Pipeline,27,27,5,5,0,1,operating,FALSE,31,31
+P2634,White Cliffs Oil Pipeline,27,27,5,5,0,1,operating,FALSE,31,31
+P3711,Danilovsky–Verkhnechonskoye Oil Pipeline,27,27,1,27,27,0,operating,FALSE,31,31
+P7205,Jackson to Moonie Oil Pipeline,27,27,2,2,0,1,retired,FALSE,31,31
+P0122,Red River Oil Pipeline,26,16,3,19,0,1,operating,FALSE,31,31
+P1009,Iwafune-Oki Oil Pipeline,26,26,1,1,0,1,operating,FALSE,31,31
+P2598,Red River Oil Pipeline,26,16,3,19,0,1,operating,FALSE,31,31
+P1292,Pikka Pipeline System,25,25,2,2,0,1,construction,FALSE,31,31
+P5149,Edvard Grieg Pipeline,25,25,3,15,25,0,operating,FALSE,31,31
+P0672,Ninian Crude Oil Pipeline,24,24,4,18,0,1,operating,FALSE,31,31
+P3883,Bauer to Lycium Oil Pipeline,24,24,1,1,0,1,operating,FALSE,31,31
+P7159,HGCP-Kutubu Condensate Pipeline,24,24,1,3,24,0,operating,FALSE,31,31
+P0644,Baku-Tbilisi-Ceyhan Pipeline,22,22,1,2,0,1,operating,FALSE,31,31
+P1077,Kutubu Oil Pipeline,22,22,1,2,0,1,operating,FALSE,31,31
+P1212,Westernport–Altona–Geelong (WAG) Oil Pipeline,22,22,1,1,0,1,operating,FALSE,31,31
+P1213,Jackson to Moomba Oil Pipeline,22,22,1,2,22,0,operating,FALSE,31,31
+P2076,Moomba to Sydney Ethane Pipeline,22,22,1,1,0,1,operating,FALSE,31,31
+P5437,Tarbat to Jackson Oil Pipeline,22,22,1,2,22,0,operating,FALSE,31,31
+P7206,Moonie to Brisbane Oil Pipeline,22,22,1,22,22,0,retired,FALSE,31,31
+P6133,Pelyatka-Dudinka Condensate Pipeline,21,21,1,1,0,1,operating,FALSE,31,31
+P2682,Front Range Y-Grade Pipeline,20,20,1,6,0,1,operating,FALSE,31,31
+P2692,Front Range Y-Grade Pipeline,20,20,1,6,20,0,operating,FALSE,31,31
+P5150,Johan Svedrup Oil Pipeline,20,20,4,6,0,1,operating,FALSE,31,31
+P0072,Energy Transfer Crude Oil Pipeline (ETCOP),19,19,4,3,0,1,operating,FALSE,31,31
+P0102,Niobrara Falls Oil Pipeline,19,19,1,5,0,1,cancelled,FALSE,31,31
+P1240,Oldelval Oil Pipeline,19,18,2,6,0,1,operating,FALSE,31,31
+P2034,Oldelval Oil Pipeline,19,18,2,6,0,1,construction,FALSE,31,31
+P2642,Big Spring Gateway Oil Pipeline System,19,19,1,5,0,1,operating,FALSE,31,31
+P2656,South Texas Crude Oil Pipeline System (NuStar Energy),19,19,1,5,0,1,operating,FALSE,31,31
+P2657,South Texas Crude Oil Pipeline System (NuStar Energy),19,19,1,5,0,1,operating,FALSE,31,31
+P5447,Vaca Muerta Sur Oil Pipeline,19,16,2,9,0,1,construction,FALSE,31,31
+P5459,Oldelval Oil Pipeline,19,18,2,6,0,1,operating,FALSE,31,31
+P5460,Oldelval Oil Pipeline,19,18,2,6,0,1,operating,FALSE,31,31
+P5461,Oldelval Oil Pipeline,19,18,2,6,0,1,operating,FALSE,31,31
+P5462,Oldelval Oil Pipeline,19,18,2,6,0,1,operating,FALSE,31,31
+P5478,South Texas Crude Oil Pipeline System (NuStar Energy),19,19,1,5,0,1,operating,FALSE,31,31
+P5479,South Texas Crude Oil Pipeline System (NuStar Energy),19,19,1,5,0,1,operating,FALSE,31,31
+P5480,South Texas Crude Oil Pipeline System (NuStar Energy),19,19,1,5,0,1,operating,FALSE,31,31
+P6127,Oldelval Oil Pipeline,19,18,2,6,0,1,proposed,FALSE,31,31
+P6138,Oldelval Oil Pipeline,19,18,2,6,19,0,proposed,FALSE,31,31
+P6484,Corpus Christi Chemical Pipeline,19,19,1,5,19,0,operating,FALSE,31,31
+P6486,Houston 12-inch Pipeline,19,19,1,5,0,1,operating,FALSE,31,31
+P6491,Laredo Product Pipeline,19,19,1,5,0,1,operating,FALSE,31,31
+P6493,Dos Países (Burgos) Products Pipeline,19,19,1,5,0,1,operating,FALSE,31,31
+P7162,Oldelval Oil Pipeline,19,18,2,6,19,0,proposed,FALSE,31,31
+P7163,Oldelval Oil Pipeline,19,18,2,6,19,0,proposed,FALSE,31,31
+P7183,Vaca Muerta Sur Oil Pipeline,19,16,2,9,0,1,proposed,FALSE,31,31
+P5205,Jintang-Cezi Oil Pipeline,18,18,1,0,0,1,construction,FALSE,31,31
+P5206,Cezi-Mamu Oil Pipeline,18,18,1,0,0,1,operating,FALSE,31,31
+P5222,Jintang-Cezi Oil Pipeline,18,18,1,0,0,1,construction,FALSE,31,31
+P5223,Jintang-Cezi Oil Pipeline,18,18,1,0,0,1,construction,FALSE,31,31
+P5224,Cezi-Mamu Oil Pipeline,18,18,1,0,0,1,operating,FALSE,31,31
+P6286,Mamu-Yushan Oil Pipeline,18,18,1,0,0,1,operating,FALSE,31,31
+P6287,Mamu-Yushan Oil Pipeline,18,18,1,0,0,1,operating,FALSE,31,31
+P6351,Zhoushan-Ningbo Petrochemical Base Interconnected Pipeline,18,18,1,0,0,1,proposed,FALSE,31,31
+P0045,Cactus Oil Pipeline,17,10,2,7,0,1,operating,FALSE,31,31
+P0066,Eastern Gulf Crude Access Pipeline Project (EGCAP),17,17,2,17,0,1,cancelled,FALSE,31,31
+P0074,Eugene Island Oil Pipeline,17,17,5,17,0,1,operating,FALSE,31,31
+P0590,El Sharara-Zawiya Oil Pipeline,17,17,5,15,0,1,operating,FALSE,31,31
+P2507,Cactus Oil Pipeline,17,10,2,7,0,1,operating,FALSE,31,31
+P2508,Cactus Oil Pipeline,17,10,2,7,0,1,operating,FALSE,31,31
+P5202,Karachaganak-Atyrau Oil Pipeline,17,17,1,0,0,1,operating,FALSE,31,31
+P6119,Karachaganak-Orenburg Condensate Pipeline,17,17,1,0,17,0,operating,FALSE,31,31
+P6120,Karachaganak-Orenburg Condensate Pipeline,17,17,1,0,17,0,operating,FALSE,31,31
+P6121,Karachaganak-Orenburg Condensate Pipeline,17,17,1,0,17,0,operating,FALSE,31,31
+P6122,Karachaganak-Orenburg Condensate Pipeline,17,17,1,0,17,0,operating,FALSE,31,31
+P6123,Karachaganak-Orenburg Condensate Pipeline,17,17,1,0,17,0,operating,FALSE,31,31
+P0042,Bayou Bridge Oil Pipeline,16,16,2,3,0,1,operating,FALSE,31,31
+P0051,Capline Oil Pipeline,16,16,1,10,0,1,operating,FALSE,31,31
+P0057,Dakota Access Oil Pipeline (DAPL),16,16,1,16,0,1,operating,FALSE,31,31
+P0062,Double Eagle Pipeline,16,8,3,8,0,1,operating,FALSE,31,31
+P0104,Permian Longview and Louisiana Extension (PELA) Oil Pipeline,16,16,2,16,0,1,operating,FALSE,31,31
+P0111,Advantage Oil Pipeline,16,16,2,4,0,1,operating,FALSE,31,31
+P0113,Permian Express Oil Pipeline,16,16,1,3,0,1,operating,FALSE,31,31
+P0123,Saddlehorn Oil Pipeline,16,16,1,4,0,1,operating,FALSE,31,31
+P0131,South Texas Crude Oil Pipeline System (Enterprise),16,12,2,5,0,1,operating,FALSE,31,31
+P0342,Permian to Gulf Coast Pipeline,16,16,2,16,0,1,cancelled,FALSE,31,31
+P0663,Adria Oil Pipeline,16,10,2,10,0,1,operating,FALSE,31,31
+P2452,Mariner East 2 NGL Pipeline,16,16,2,5,0,1,operating,FALSE,31,31
+P2504,Bayou Bridge Oil Pipeline,16,16,2,3,0,1,operating,FALSE,31,31
+P2513,Capline Oil Pipeline,16,16,1,10,0,1,operating,FALSE,31,31
+P2527,South Texas Crude Oil Pipeline System (Enterprise),16,12,2,5,16,0,operating,FALSE,31,31
+P2580,Permian Longview and Louisiana Extension (PELA) Oil Pipeline,16,16,2,16,0,1,operating,FALSE,31,31
+P2581,Permian Express Oil Pipeline,16,16,1,3,0,1,operating,FALSE,31,31
+P2595,South Texas Crude Oil Pipeline System (Enterprise),16,12,2,5,0,1,operating,FALSE,31,31
+P2596,South Texas Crude Oil Pipeline System (Enterprise),16,12,2,5,16,0,operating,FALSE,31,31
+P2609,Saddlehorn Oil Pipeline,16,16,1,4,0,1,operating,FALSE,31,31
+P2660,Permian Express Oil Pipeline,16,16,1,3,0,1,operating,FALSE,31,31
+P2661,Permian Express Oil Pipeline,16,16,1,3,0,1,operating,FALSE,31,31
+P3179,Dakota Access Oil Pipeline (DAPL),16,16,1,16,0,1,operating,FALSE,31,31
+P3727,Double Eagle Pipeline,16,8,3,8,16,0,operating,FALSE,31,31
+P3832,Capline Oil Pipeline,16,16,1,10,0,1,operating,FALSE,31,31
+P3872,Mariner East 2 NGL Pipeline,16,16,2,5,16,0,operating,FALSE,31,31
+P5148,Norpipe Oil Pipeline,16,16,5,1,0,1,operating,FALSE,31,31
+P5152,Gjøa Oil Pipeline,16,16,4,11,16,0,operating,FALSE,31,31
+P5168,Adria Oil Pipeline,16,10,2,10,0,1,cancelled,FALSE,31,31
+P0044,BridgeTex Oil Pipeline,15,15,2,4,0,1,operating,FALSE,31,31
+P0052,Centurion Oil Pipeline,15,15,1,15,0,1,operating,FALSE,31,31
+P0065,Eaglebine Express Crude Oil Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P0097,Mid-Valley Oil Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P0119,Poseidon Oil Pipeline,15,15,3,2,0,1,operating,FALSE,31,31
+P0398,Delaware Basin Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P0534,Nembe Creek Trunk Line,15,15,4,2,0,1,operating,FALSE,31,31
+P0607,Waha-Samah Oil Pipeline,15,15,4,0,0,1,operating,FALSE,31,31
+P0678,NATO Pipeline System,15,15,2,2,0,1,operating,FALSE,31,31
+P0797,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P0820,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P0821,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P0822,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P0823,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P0824,NATO Pipeline System,15,15,2,2,15,0,idle,FALSE,31,31
+P0825,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P0826,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P1993,BridgeTex Oil Pipeline,15,15,2,4,0,1,operating,FALSE,31,31
+P2111,Red Oak Oil Pipeline,15,15,2,15,0,1,cancelled,FALSE,31,31
+P2195,NATO Pipeline System,15,15,2,2,15,0,operating,FALSE,31,31
+P2506,BridgeTex Oil Pipeline,15,15,2,4,0,1,operating,FALSE,31,31
+P2624,Ted Collins Link Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P2639,Utopia Ethane Pipeline,15,15,5,2,0,1,operating,FALSE,31,31
+P2664,STACK Oil Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P2665,STACK Oil Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P2681,Revolution Y-Grade Pipeline System,15,15,1,4,0,1,operating,FALSE,31,31
+P2687,Lone Star Express Y-Grade Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P2694,Lone Star Express Y-Grade Pipeline,15,15,1,4,0,1,operating,FALSE,31,31
+P3154,Augustus Oil Pipeline,15,15,1,15,0,1,operating,FALSE,31,31
+P3849,Trans-Panama Gateway NGL Pipeline,15,15,1,4,15,0,shelved,FALSE,31,31
+P5143,NATO Pipeline System,15,15,2,2,0,1,idle,FALSE,31,31
+P6151,Loma La Lata - Bahía Blanca Pipeline,15,15,1,7,0,1,operating,FALSE,31,31
+P6547,Granite Wash Pipeline,15,15,1,4,15,0,operating,FALSE,31,31
+P0528,Chad–Cameroon Oil Pipeline,14,14,3,1,0,1,operating,FALSE,31,31
+P0540,Uganda–Kenya Crude Oil Pipeline (UKCOP),14,14,3,14,14,0,cancelled,FALSE,31,31
+P5445,Sierras Blancas-Allen Oil Pipeline,14,14,3,1,0,1,operating,FALSE,31,31
+P6504,Hobbs East Gathering System,14,10,3,3,0,1,operating,FALSE,31,31
+P6505,Hobbs East Gathering System,14,10,3,3,14,0,operating,FALSE,31,31
+P0007,Corridor Oil Pipeline,13,13,1,2,0,1,operating,FALSE,31,31
+P0053,Cold Lake Pipeline System,13,13,1,2,0,1,operating,FALSE,31,31
+P0530,Sumed Oil Pipeline,13,13,1,0,0,1,operating,FALSE,31,31
+P0531,Lamu Port-South Sudan (LAPSSET) Pipeline,13,13,3,0,0,1,proposed,FALSE,31,31
+P0538,Lamu Port-South Sudan (LAPSSET) Pipeline,13,13,3,0,0,1,proposed,FALSE,31,31
+P0541,East African Crude Oil Pipeline (EACOP),13,13,1,0,0,1,proposed,FALSE,31,31
+P0585,Bahi Gathering-Sidra Oil Pipelines,13,13,4,0,0,1,operating,FALSE,31,31
+P0586,Dahra-Bahi Gathering Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0591,Faregh-Gialo Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0592,Gialo-Waha Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0602,Sabah-Zella Oil Pipeline,13,13,3,1,0,1,operating,FALSE,31,31
+P0603,Samah-Dahra Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0608,Waha-Zaggut Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0609,Zaggut-Samah Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0610,Zaggut-Sidra Oil Pipeline,13,13,4,0,0,1,operating,FALSE,31,31
+P0611,Zella-Hofra Oil Pipeline,13,13,3,1,0,1,operating,FALSE,31,31
+P0798,Oseberg Transport System,13,13,6,2,0,1,operating,FALSE,31,31
+P1236,Colombia Oil Pipeline,13,13,5,11,0,1,operating,FALSE,31,31
+P2268,Brody-Adamowo Oil Pipeline,13,13,5,1,0,1,proposed,FALSE,31,31
+P3716,Bahi Gathering-Sidra Oil Pipelines,13,13,4,0,0,1,operating,FALSE,31,31
+P3850,Odessa-Brody Oil Pipeline,13,13,5,1,13,0,cancelled,FALSE,31,31
+P5121,Sumed Oil Pipeline,13,13,1,0,0,1,operating,FALSE,31,31
+P5153,Vestprosess,13,13,7,6,13,0,operating,FALSE,31,31
+P5154,Serbia-Hungary Oil Pipeline,13,13,2,13,0,1,proposed,FALSE,31,31
+P5422,Jaguar-Santiago Oil Pipeline,13,13,1,13,0,1,operating,FALSE,31,31
+P6259,Quintero-Concón LPG Pipeline,13,13,1,1,0,1,operating,FALSE,31,31
+P6260,Concón-Maipú LPG Pipeline,13,13,1,1,0,1,operating,FALSE,31,31
+P0021,Grand Rapids Oil Pipeline,12,12,2,0,0,1,operating,FALSE,31,31
+P0050,Cameron Highway Oil Pipeline System (CHOPS),12,12,1,1,0,1,operating,FALSE,31,31
+P0064,Eagle Ford JV Pipeline System,12,12,2,4,0,1,operating,FALSE,31,31
+P0107,Odyssey Oil Pipeline,12,12,2,1,0,1,operating,FALSE,31,31
+P0350,Ace Pipeline,12,12,3,12,0,1,cancelled,FALSE,31,31
+P0397,Viking Pipeline,12,12,1,9,0,1,operating,FALSE,31,31
+P0546,Kirkuk-Baniyas Oil Pipelines,12,12,3,11,0,1,mothballed,FALSE,31,31
+P0675,Pan-European Oil Pipeline,12,12,4,10,0,1,cancelled,FALSE,31,31
+P0680,Troll Oil Pipeline,12,12,5,3,0,1,operating,FALSE,31,31
+P1211,Longford to Long Island Point Replacement Oil Pipeline,12,12,2,0,0,1,operating,FALSE,31,31
+P1444,Northeast Thailand Oil Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P2075,Hastings to Altona Ethane Pipeline,12,12,2,12,0,1,operating,FALSE,31,31
+P2483,Northeast Thailand Oil Pipeline,12,12,1,0,0,1,proposed,FALSE,31,31
+P2528,Eagle Ford JV Pipeline System,12,12,2,4,0,1,operating,FALSE,31,31
+P2683,Texas Express Y-Grade Pipeline,12,12,1,9,0,1,operating,FALSE,31,31
+P2693,Texas Express Y-Grade Pipeline,12,12,1,9,0,1,operating,FALSE,31,31
+P3868,Brae-Forties Oil Pipeline System,12,12,1,12,0,1,operating,FALSE,31,31
+P3888,Cameron Highway Oil Pipeline System (CHOPS),12,12,1,1,0,1,operating,FALSE,31,31
+P5275,Kirkuk-Baniyas Oil Pipelines,12,12,3,11,0,1,mothballed,FALSE,31,31
+P5277,Kirkuk-Baniyas Oil Pipelines,12,12,3,11,0,1,proposed,FALSE,31,31
+P5278,Kirkuk-Baniyas Oil Pipelines,12,12,3,11,0,1,proposed,FALSE,31,31
+P5279,Kirkuk-Baniyas Oil Pipelines,12,12,3,11,0,1,proposed,FALSE,31,31
+P6124,Yurkharovskoye-Purovsk Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P6128,Yurkharovskoye-Purovsk Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P6129,Khancheyskoye-East-Tarkosalinskoye-Purovsk Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P6130,Khancheyskoye-East-Tarkosalinskoye-Purovsk Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P6140,Kharbeyskoye Field Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P6158,Termokarstovoye-East-Tarkosalinskoye Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P6159,East Tazovskoye-North Russkoye Condensate Pipeline,12,12,1,0,12,0,operating,FALSE,31,31
+P6160,North Russkoye Condensate Pipeline,12,12,1,0,0,1,operating,FALSE,31,31
+P7417,Dongying United Petroleum Chemical Oil Pipeline Renovation Project,12,10,1,12,12,0,proposed,FALSE,31,31
+P0030,SEKCO Oil Pipeline,11,11,1,1,0,1,operating,FALSE,31,31
+P0047,Caddo Oil Pipeline,11,11,1,4,0,1,operating,FALSE,31,31
+P0124,Grand Mesa Oil Pipeline,11,11,1,2,0,1,operating,FALSE,31,31
+P0127,Shenzi Oil Pipeline,11,11,1,1,0,1,operating,FALSE,31,31
+P1238,Bicentenario Oil Pipeline,11,8,4,0,0,1,operating,FALSE,31,31
+P1239,Trans-Andean Oil Pipeline,11,11,3,7,0,1,operating,FALSE,31,31
+P1443,Map Ta Phut-Si Racha Oil Pipeline,11,11,1,0,0,1,operating,FALSE,31,31
+P1445,Si Racha-Saraburi Oil Pipeline,11,11,1,0,0,1,operating,FALSE,31,31
+P2032,Bicentenario Oil Pipeline,11,8,4,0,0,1,cancelled,FALSE,31,31
+P2652,Cushing Connect Oil Pipeline,11,11,1,4,0,1,operating,FALSE,31,31
+P2675,EPIC NGL Pipeline,11,11,3,4,0,1,operating,FALSE,31,31
+P2679,BANGL Pipeline,11,11,1,11,0,1,operating,FALSE,31,31
+P3551,Camisea NGL Pipeline,11,11,1,10,0,1,operating,FALSE,31,31
+P3828,Ambassador Pipeline,11,11,1,11,11,0,operating,FALSE,31,31
+P3829,Ambassador Pipeline,11,11,1,11,11,0,operating,FALSE,31,31
+P3830,Ambassador Pipeline,11,11,1,11,11,0,construction,FALSE,31,31
+P5399,Velásquez-Galán Oil Pipeline,11,10,1,11,0,1,operating,FALSE,31,31
+P6125,Purovsk-Yuzhny Balyk-Tobolsk Product Pipeline,11,10,1,7,0,1,operating,FALSE,31,31
+P6126,Purovsk-Yuzhny Balyk-Tobolsk Product Pipeline,11,10,1,7,0,1,operating,FALSE,31,31
+P6134,Nizhnevartovsk-Yuzhny Balyk Product Pipeline,11,10,1,7,0,1,construction,FALSE,31,31
+P6135,Nizhnevartovsk-Yuzhny Balyk Product Pipeline,11,10,1,7,0,1,construction,FALSE,31,31
+P6136,Gubkinsky-Yuzhny Balyk Product Pipeline,11,10,1,7,11,0,operating,FALSE,31,31
+P6139,Gubkinsky-Yuzhny Balyk Product Pipeline,11,10,1,7,0,1,construction,FALSE,31,31
+P6523,BANGL Pipeline,11,11,1,11,0,1,construction,FALSE,31,31
+P6525,EPIC NGL Pipeline,11,11,3,4,0,1,construction,FALSE,31,31
+P7204,Nizhnevartovsk-Yuzhny Balyk Product Pipeline,11,10,1,7,11,0,operating,FALSE,31,31
+P0041,Basin Oil Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P0071,Endymion Oil Pipeline,10,10,1,1,0,1,operating,FALSE,31,31
+P0110,Plains West Coast Pipeline,10,10,1,10,0,1,operating,FALSE,31,31
+P0351,Sunrise Pipeline System,10,10,1,4,0,1,operating,FALSE,31,31
+P0360,Iron Horse Pipeline,10,10,1,5,0,1,operating,FALSE,31,31
+P0537,Greater Nile Oil Pipeline,10,10,1,0,0,1,operating,FALSE,31,31
+P0572,Mleiha-El Hamra Oil Pipeline,10,10,2,0,0,1,operating,FALSE,31,31
+P0771,Grane Oil Pipeline,10,10,4,1,0,1,operating,FALSE,31,31
+P1303,Delaware Crossing Pipeline,10,10,2,10,0,1,operating,FALSE,31,31
+P1316,Wascana Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2550,Keystone HoustonLink Oil Pipeline,10,10,2,0,10,0,operating,FALSE,31,31
+P2621,Sunrise Pipeline System,10,10,1,4,0,1,operating,FALSE,31,31
+P2644,Blacktip Station Loop Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2645,Avalon Oil Pipeline,10,10,1,4,10,0,operating,FALSE,31,31
+P2646,Avalon Oil Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2648,State Line Oil Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2666,Pinon Oil Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2669,Basin Oil Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2670,Basin Oil Pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P2736,Cactus III Oil Pipeline,10,10,1,4,0,1,cancelled,FALSE,31,31
+P3688,Abu Gharadig-El Hamra Oil Pipeline,10,9,2,1,0,1,operating,FALSE,31,31
+P3827,Powder River Express Pipeline,10,10,1,5,0,1,operating,FALSE,31,31
+P3879,Tuba–Fao Oil Pipelines,10,10,3,0,0,1,operating,FALSE,31,31
+P5151,Kvitebjørn Oil Pipeline,10,10,4,1,10,0,operating,FALSE,31,31
+P5256,Tuba–Fao Oil Pipelines,10,10,3,0,0,1,operating,FALSE,31,31
+P6341,Co-Ed System NGL pipeline,10,10,1,4,0,1,operating,FALSE,31,31
+P0031,Southern Access Extension Pipeline,9,9,1,0,0,1,operating,FALSE,31,31
+P0077,Gray Oak Oil Pipeline,9,9,1,0,0,1,operating,FALSE,31,31
+P0099,Minnesota Pipeline System,9,9,1,2,0,1,operating,FALSE,31,31
+P0135,Trans-Alaska Oil Pipeline System,9,9,3,2,0,1,operating,FALSE,31,31
+P0575,Badra-PS-2 Oil Pipeline,9,9,3,8,0,1,operating,FALSE,31,31
+P0649,Uzen-Atyrau-Samara (UAS) Pipeline,9,9,2,3,0,1,operating,FALSE,31,31
+P1300,Swordfish Pipeline,9,9,2,9,0,1,cancelled,FALSE,31,31
+P2697,Key Access Pipeline System (KAPS),9,9,2,0,9,0,operating,FALSE,31,31
+P2741,Minnesota Pipeline System,9,9,1,2,0,1,cancelled,FALSE,31,31
+P2742,Minnesota Pipeline System,9,9,1,2,0,1,cancelled,FALSE,31,31
+P5175,Greater Kittiwake Area-Forties Oil Pipeline,9,9,2,8,0,1,operating,FALSE,31,31
+P5289,Badra-PS-2 Oil Pipeline,9,9,3,8,9,0,operating,FALSE,31,31
+P5453,Anticlinal Grande-Caleta Córdova Oil Pipeline,9,9,1,1,0,1,operating,FALSE,31,31
+P6339,Lyttelton to Woolston LPG Pipeline,9,9,1,4,9,0,operating,FALSE,31,31
+P6502,Skelly–Belvieu Pipeline,9,9,1,1,0,1,operating,FALSE,31,31
+P0036,Amberjack Oil Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P0048,Caesar Oil Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P0080,NST Express Oil Pipeline,8,8,1,8,0,1,operating,FALSE,31,31
+P0096,Mars Crude Oil Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P0120,Proteus Oil Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P0595,Intisar-Zueitina Oil Pipeline,8,8,2,0,0,1,operating,FALSE,31,31
+P0612,Azuzuama-Tebidaba Oil Pipeline,8,8,2,4,8,0,operating,FALSE,31,31
+P0615,Clough Creek-Tebidaba Oil Pipeline,8,8,2,8,8,0,operating,FALSE,31,31
+P0620,Kwale-Ogoda Oil Pipeline,8,8,2,4,8,0,operating,FALSE,31,31
+P0648,Kazakhstan-China Oil Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P0809,Rotterdam Rhine Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P0939,Mangala Development Pipeline,8,8,2,0,0,1,operating,FALSE,31,31
+P1074,Karachi-Mahmoodkot (KMK) Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P2647,Point Thomson Oil Export Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P2678,Grand Prix Y-Grade Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P2691,Grand Prix Y-Grade Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P3670,Mundra Bhatinda Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P3692,Petroshahd Oil Pipeline,8,8,3,8,0,1,operating,FALSE,31,31
+P3694,Amberjack Oil Pipeline,8,8,1,0,8,0,operating,FALSE,31,31
+P3822,Grand Prix Y-Grade Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P3823,Grand Prix Y-Grade Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P3824,Grand Prix Y-Grade Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P3834,Plantation Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P3861,Louisiana Offshore Oil Port (LOOP) Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P3862,LOCAP Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P5128,Rotterdam Rhine Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P5129,Rotterdam Rhine Pipeline,8,8,1,1,0,1,operating,FALSE,31,31
+P5140,Shymkent-Jizzakh Oil Pipeline,8,8,2,8,0,1,cancelled,FALSE,31,31
+P5197,Kazakhstan-China Oil Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P5198,Kenkiyak-Atyrau Oil Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P5225,Abu-Attifel- Zueitina Oil Pipeline,8,8,2,0,8,0,operating,FALSE,31,31
+P6092,Mundra-Mithi Rohar LPG Pipeline,8,8,1,0,0,1,operating,FALSE,31,31
+P6444,North Hamada-El Feel Oil Pipeline,8,8,3,0,0,1,operating,FALSE,31,31
+P6480,EZ Line,8,8,1,0,0,1,operating,FALSE,31,31
+P6500,Dow Gulf Coast Pipeline System,8,8,1,8,8,0,operating,FALSE,31,31
+P6524,Daytona NGL Pipeline,8,8,1,1,0,1,construction,FALSE,31,31
+P7277,Kazakhstan-China Oil Pipeline,8,8,1,0,0,1,proposed,FALSE,31,31
+P7278,Kenkiyak-Atyrau Oil Pipeline,8,8,1,0,0,1,proposed,FALSE,31,31
+P0063,Double H Pipeline,7,7,1,7,0,1,operating,FALSE,31,31
+P0076,Freedom Oil Pipeline,7,7,1,7,0,1,cancelled,FALSE,31,31
+P0086,High Plains Crude Oil Pipeline,7,7,1,7,0,1,operating,FALSE,31,31
+P0094,Kinder Morgan Crude Condensate (KMCC) Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P0100,Mississippian Lime Crude Oil Pipeline,7,7,1,3,0,1,operating,FALSE,31,31
+P0109,Ozark Crude Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P0114,Pilgrim Oil Pipeline,7,7,1,7,0,1,cancelled,FALSE,31,31
+P0117,Pony Express Oil Pipeline,7,7,1,6,0,1,operating,FALSE,31,31
+P0126,Seaway Oil Pipeline System,7,7,2,2,0,1,operating,FALSE,31,31
+P0364,Palmetto Pipeline,7,7,1,0,0,1,cancelled,FALSE,31,31
+P0563,East Kokongo-Malongo Oil Pipeline,7,7,1,0,7,0,operating,FALSE,31,31
+P0565,Lianzi-BBLT Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P0567,Numbi-Malongo Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P0568,South Nemba-East Kokongo Oil Pipeline,7,7,1,0,7,0,operating,FALSE,31,31
+P0569,Tombua Landana-East Kokongo Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P0583,Amal-Ra's Lanuf Oil Pipeline,7,5,2,2,0,1,operating,FALSE,31,31
+P0624,Pennington Oilfield-Pennington Export Terminal Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P0668,CLH Pipeline System (CLH-PS),7,7,1,0,7,0,operating,FALSE,31,31
+P0816,Extremadura Pipeline,7,7,1,0,7,0,cancelled,FALSE,31,31
+P1218,Barrow Island Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P1298,North Bakken Pipeline,7,7,1,3,0,1,cancelled,FALSE,31,31
+P1996,Ozark Crude Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P2441,Seaway Oil Pipeline System,7,7,2,2,0,1,operating,FALSE,31,31
+P2515,Pony Express Oil Pipeline,7,7,1,6,7,0,operating,FALSE,31,31
+P2520,Cornerstone Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P2585,Pony Express Oil Pipeline,7,7,1,6,0,1,operating,FALSE,31,31
+P2593,Pony Express Oil Pipeline,7,7,1,6,0,1,operating,FALSE,31,31
+P2608,Sacagawea Oil Pipeline,7,7,2,7,0,1,operating,FALSE,31,31
+P2610,Seaway Oil Pipeline System,7,7,2,2,0,1,operating,FALSE,31,31
+P2611,Seaway Oil Pipeline System,7,7,2,2,0,1,operating,FALSE,31,31
+P2659,Western Corridor Oil Pipeline System,7,7,1,3,0,1,operating,FALSE,31,31
+P2662,Western Corridor Oil Pipeline System,7,7,1,3,0,1,cancelled,FALSE,31,31
+P2668,Ozark Crude Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P2725,Pony Express Oil Pipeline,7,7,1,6,0,1,operating,FALSE,31,31
+P3159,Keystone Port Neches Link Oil Pipeline,7,7,2,7,0,1,operating,FALSE,31,31
+P3183,Pony Express Oil Pipeline,7,7,1,6,0,1,cancelled,FALSE,31,31
+P3702,Amal-Ra's Lanuf Oil Pipeline,7,5,2,2,0,1,operating,FALSE,31,31
+P3728,Seaway Oil Pipeline System,7,7,2,2,0,1,operating,FALSE,31,31
+P3729,Seaway Oil Pipeline System,7,7,2,2,0,1,operating,FALSE,31,31
+P3746,Daqing–Harbin Oil Pipeline,7,7,1,0,7,0,retired,FALSE,31,31
+P3817,Daqing–Harbin Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P3863,Bluewater Texas (BWTX) Terminal Pipelines,7,7,1,1,7,0,proposed,FALSE,31,31
+P3864,Bluewater Texas (BWTX) Terminal Pipelines,7,7,1,1,7,0,proposed,FALSE,31,31
+P3865,Bluewater Texas (BWTX) Terminal Pipelines,7,7,1,1,7,0,proposed,FALSE,31,31
+P5125,Southwest Mleiha Pipeline,7,7,2,7,0,1,operating,FALSE,31,31
+P5138,Pavlodar-Shymkent Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5141,Kenkiyak-Orsk Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5142,Shymkent-Chardzhou Oil Pipeline,7,7,1,0,0,1,mothballed,FALSE,31,31
+P5166,Arbuckle Pipeline,7,7,2,1,0,1,operating,FALSE,31,31
+P5193,Kalamkas-Karazhanbas-Aktau Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5194,Ozen-Zhetybay-Aktau Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5201,Kumkol-Karakoin Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5203,Kumkol-Karakoin Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5286,Al-Ahdab–Tuba Oil Pipeline,7,7,2,5,0,1,operating,FALSE,31,31
+P5288,Al-Ahdab–Tuba Oil Pipeline,7,7,2,5,0,1,operating,FALSE,31,31
+P5482,Ozark Crude Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P5483,Ozark Crude Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6089,Uran-Chakan-Shikrapur LPG Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6090,Mangalore-Hassan-Mysore-Yediyur LPG Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6091,Hassan-Cherlapalli LPG Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6166,Martyshi-Atyrau Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6178,Cartagena-Puertollano Oil Pipeline,7,7,1,0,7,0,operating,FALSE,31,31
+P6268,Prorva-Kulsary Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6279,Huaxian Oil Pipeline(Xianren Island-North Huajin),7,7,1,0,0,1,operating,FALSE,31,31
+P6282,Shymkent-Shagyr Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6358,Cha-Ren Oil Pipeline,7,7,1,7,0,1,operating,FALSE,31,31
+P6362,Ozen-Zhetybay-Aktau Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6382,Kenkiyak-Orsk Oil Pipeline,7,7,1,0,0,1,mothballed,FALSE,31,31
+P6384,Zhanazhol-Kenkiyak Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6397,OPS 3-Koschagyl Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6398,Komsomolsk-Makat Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6399,Kasymov OPS-OPS 663 km-Atyrau Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6402,Kumkol-Karakoin Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6403,Chai Northwest Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6405,Ozen-Zhetybay-Aktau Oil Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6428,Bozi-Yaha Condensate Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6430,Tarim Oilfield-Lanzhou Petrochemical Condensate Pipeline,7,7,1,0,0,1,operating,FALSE,31,31
+P6520,Arbuckle Pipeline,7,7,2,1,0,1,operating,FALSE,31,31
+P7268,Eskene-Kuryk Oil Pipeline,7,7,1,0,0,1,proposed,FALSE,31,31
+P7322,Overland Pass NGL Pipeline,7,7,1,1,0,1,operating,FALSE,31,31
+P7323,Overland Pass NGL Pipeline,7,7,1,1,7,0,operating,FALSE,31,31
+P7324,Overland Pass NGL Pipeline,7,7,1,1,7,0,operating,FALSE,31,31
+P0038,Bakken Express Oil Pipeline,6,6,1,0,0,1,cancelled,FALSE,31,31
+P0082,Galveston Block A244 Offshore Oil Pipelines,6,6,1,0,0,1,operating,FALSE,31,31
+P0085,Heavy Louisiana Sweet Crude Oil Pipeline System,6,6,1,0,0,1,operating,FALSE,31,31
+P0088,Hoover Offshore Oil Pipeline System (HOOPS),6,6,1,0,0,1,operating,FALSE,31,31
+P0095,Longhorn Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P0112,Pegasus Crude Oil Pipeline,6,6,1,0,0,1,retired,FALSE,31,31
+P0142,Wrangler Oil Pipeline,6,6,2,1,0,1,cancelled,FALSE,31,31
+P0348,Crane to Three Rivers Pipeline,6,6,1,0,0,1,cancelled,FALSE,31,31
+P0354,Delaware Express Pipeline,6,6,1,6,0,1,operating,FALSE,31,31
+P0357,Inland California Express,6,6,1,0,0,1,cancelled,FALSE,31,31
+P0358,Seahorse Pipeline,6,6,1,6,0,1,cancelled,FALSE,31,31
+P0363,Sweden Valley Project,6,6,1,0,6,0,cancelled,FALSE,31,31
+P0394,Redbud Pipeline System,6,6,1,0,6,0,operating,FALSE,31,31
+P0395,Delaware Connector Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P0588,El Feel-El Sharara Oil Pipeline,6,6,2,0,0,1,operating,FALSE,31,31
+P0589,El Sharara-Mellitah Oil Pipeline,6,6,2,0,0,1,operating,FALSE,31,31
+P0601,Ramal-Abu-Attifel Oil Pipeline,6,6,2,0,0,1,operating,FALSE,31,31
+P0606,Wafa-Mellitah Oil Pipeline,6,6,2,0,0,1,operating,FALSE,31,31
+P0616,Edop-Qua Iboe Terminal Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P0619,Idoho-Qua Iboe Terminal Oil Pipeline,6,6,1,0,6,0,operating,FALSE,31,31
+P0623,Oso-Qua Iboe Terminal Oil Pipeline,6,6,1,0,6,0,operating,FALSE,31,31
+P0637,Bahrain Saudi Arabia Oil Pipeline,6,6,2,6,0,1,operating,FALSE,31,31
+P0666,Brent System Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P0813,Gorm Fredericia Oil Pipeline,6,6,1,0,6,0,operating,FALSE,31,31
+P0946,Mundra-Panipat Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P0951,Paradip-Haldia-Barauni Oil Pipeline (PHBPL),6,6,1,0,0,1,operating,FALSE,31,31
+P0952,Salaya–Mathura Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P0956,Vadinar-Bina Crude Oil Pipeline,6,6,2,0,0,1,operating,FALSE,31,31
+P1210,Longford to Long Island Point Oil Pipeline,6,6,1,0,0,1,retired,FALSE,31,31
+P1293,Beta Crude Connector,6,6,1,0,0,1,operating,FALSE,31,31
+P1302,Voyager Pipeline,6,6,2,6,0,1,shelved,FALSE,31,31
+P1310,Liberty Pipeline,6,6,1,0,0,1,cancelled,FALSE,31,31
+P2200,Île-de-France Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P2293,Chayanda-Eastern Siberia-Pacific Ocean Oil Pipeline,6,6,1,5,0,1,operating,FALSE,31,31
+P2572,North Line Crude Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P2677,Arbuckle II Y-Grade Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P2685,Bluestem Y-Grade Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P2688,Bakken NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P2690,Arbuckle II Y-Grade Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P2695,Bakken NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3128,OSPAR Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3129,ORBIG Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3130,OSDUC Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3131,ORBEL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3164,Sea Port Oil Terminal (SPOT) Pipelines,6,6,2,6,0,1,proposed,FALSE,31,31
+P3592,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3593,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3668,Willow Oil Pipeline,6,6,1,0,0,1,proposed,FALSE,31,31
+P3835,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3836,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3837,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3838,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3839,Sand Hills NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3840,West Texas LPG Pipeline,6,6,1,0,6,0,operating,FALSE,31,31
+P3841,West Texas LPG Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3842,West Texas LPG Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P3857,Sea Port Oil Terminal (SPOT) Pipelines,6,6,2,6,0,1,proposed,FALSE,31,31
+P3858,Sea Port Oil Terminal (SPOT) Pipelines,6,6,2,6,0,1,proposed,FALSE,31,31
+P3869,Amerisur Binational Pipeline,6,6,1,6,0,1,operating,FALSE,31,31
+P3889,New Mundra–Panipat Oil Pipeline,6,6,1,0,0,1,construction,FALSE,31,31
+P5191,Mumbai High - Uran Trunk Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5192,Bombay-Uran Trunk Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5430,OSCAB Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5431,OSVAT-30 Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5432,OSVAT-34 Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5433,OSCAN-22 Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5434,OSVAT Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5435,OSBAT Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5436,ORSOL Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P5484,Black Coyote Pipeline System,6,6,1,0,6,0,operating,FALSE,31,31
+P6080,Parsian Sepehr-Asaluyeh NGLs Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P6081,Panipat-Jalandhar LPG Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P6267,Porto Marghera-Mantova Oil Pipeline,6,6,1,1,6,0,retired,FALSE,31,31
+P6283,Mazeikiai-Butinge Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P6296,Constanta-Ploesti Oil Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P6431,OSBRA Pipeline,6,6,1,6,0,1,operating,FALSE,31,31
+P6445,NC 41–Mellitah Condensate NGL pipeline,6,6,2,0,6,0,proposed,FALSE,31,31
+P6470,Conway Line,6,6,1,6,6,0,operating,FALSE,31,31
+P6471,Conway Bushton System,6,6,1,6,6,0,operating,FALSE,31,31
+P6490,Cajun-Sibon NGL Pipeline,6,6,1,6,0,1,operating,FALSE,31,31
+P6497,Cajun-Sibon NGL Pipeline,6,6,1,6,6,0,operating,FALSE,31,31
+P6498,Cajun-Sibon NGL Pipeline,6,6,1,6,0,1,operating,FALSE,31,31
+P6499,Cajun-Sibon NGL Pipeline,6,6,1,6,0,1,cancelled,FALSE,31,31
+P6518,Black Lake Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P6522,West Texas LPG Pipeline,6,6,1,0,0,1,construction,FALSE,31,31
+P7287,Elk Creek NGL Pipeline,6,6,1,0,0,1,operating,FALSE,31,31
+P7317,Elk Creek NGL Pipeline,6,6,1,0,0,1,construction,FALSE,31,31
+P0002,Athabasca Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P0019,Energy East Oil Pipeline,5,5,1,0,0,1,cancelled,FALSE,31,31
+P0022,Heartland Oil Pipeline,5,5,1,0,0,1,cancelled,FALSE,31,31
+P0024,Keystone Oil Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P0025,Keystone XL Oil Pipeline,5,5,1,0,0,1,cancelled,FALSE,31,31
+P0034,Waupisoo Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P0035,Woodland Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P0137,Upland Oil Pipeline,5,5,1,0,0,1,cancelled,FALSE,31,31
+P0584,Aseida Gathering-Ra's Lanuf Oil Pipeline,5,5,2,2,0,1,operating,FALSE,31,31
+P0587,Dor Marada-Tibisti Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P0594,Hofra-Aseida Gathering Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P0605,Tibisti-Aseida Gathering Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P0645,Baku-Novorossiysk Oil Pipeline,5,5,2,3,0,1,operating,FALSE,31,31
+P0887,Apsara Oil Pipeline,5,5,2,1,0,1,operating,FALSE,31,31
+P1216,Taranaki Basin to New Plymouth Oil Pipeline,5,5,2,4,0,1,operating,FALSE,31,31
+P1226,Venezuela Colombia Oil Pipeline,5,5,2,5,0,1,cancelled,FALSE,31,31
+P1977,Dhahran-Bapco refinery Oil Pipeline,5,5,2,5,5,0,retired,FALSE,31,31
+P1980,Wafra field-Mina Saud Oil Pipelines,5,5,2,1,5,0,operating,FALSE,31,31
+P1981,Wafra field-Mina Saud Oil Pipelines,5,5,2,1,5,0,operating,FALSE,31,31
+P1982,Wafra field-Mina Saud Oil Pipelines,5,5,2,1,5,0,operating,FALSE,31,31
+P2095,Athabasca Oil Pipeline Twin,5,5,2,0,0,1,operating,FALSE,31,31
+P2104,Woodland Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P2257,Trans Niger Pipeline,5,5,1,5,0,1,operating,FALSE,31,31
+P2702,Al Khafji Joint Operations Offshore Pipeline,5,5,2,5,5,0,cancelled,FALSE,31,31
+P3687,Onal-Coucal Oil Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P3705,Lineynoye Oil Field Pipeline,5,5,1,1,5,0,cancelled,FALSE,31,31
+P3709,Tomsk Oblast to Kiev-Eganskoya Oil Pipeline,5,5,1,1,5,0,operating,FALSE,31,31
+P3719,Tobruk-Alexandria Oil Pipeline,5,5,2,0,0,1,cancelled,FALSE,31,31
+P3843,Paradip Numaligarh Crude Pipeline (PNCPL),5,5,1,0,5,0,construction,FALSE,31,31
+P3845,Dhamra–Numaligarh Oil Pipeline,5,5,1,0,0,1,cancelled,FALSE,31,31
+P5136,Keystone Oil Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P5156,Keystone Oil Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P5157,Keystone Oil Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P5232,Michurinsk–Kremenchug Oil Pipeline,5,5,2,5,0,1,mothballed,FALSE,31,31
+P5355,White Spruce Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P5356,Enbridge Line 75 Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P5451,Loma Campana-Lago Pellegrini Oil Pipeline,5,5,2,0,0,1,operating,FALSE,31,31
+P6085,Urengoy-Purpe Oil and Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6086,Urengoy-Surgut Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6087,Urengoy-Surgut Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6098,Yamburg-Urengoy Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6099,Yamburg-Urengoy Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6100,Zapolyarnoye-Novy Urengoy Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6103,Surgut-Yuzhny Balyk NGL Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6106,Vuktyl-Sosnogorsk Condensate Pipeline,5,5,1,0,0,1,proposed,FALSE,31,31
+P6107,Vuktyl-Sosnogorsk Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6108,Vuktyl-Sosnogorsk Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6109,Zapadny Soplesk-Vuktyl Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6110,Orenburg-Salavat Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P6111,Orenburg-Kazan Ethane Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6112,Pechoro-Kozhvniskoye-Zapadny Soplesk Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P6114,Orenburg-Salavat Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P6115,Orenburg-Salavat-Ufa Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P6116,Orenburg-Salavat-Ufa Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P6117,Orenburg-Shkapovo-Tuymazy Product Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6118,Orenburg-Shkapovo-Tuymazy Product Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P6155,Kovykta-Okunaiskii Condensate Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P6479,Tri-States NGL Pipeline,5,5,1,1,0,1,operating,FALSE,31,31
+P6495,Panola Pipeline,5,5,1,1,0,1,operating,FALSE,31,31
+P7187,Novy Port-Rostovtsevskoye-Bovanenkovo-Kharasavey Oil Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P7256,Novoportovskoye-Novy Port Oil Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P7263,Novoportovskoye-Novy Port Oil Pipeline,5,5,1,0,0,1,operating,FALSE,31,31
+P7266,Tambey-Kharasavey Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P7267,Bovanenkovo-Kharasavey Condensate Pipeline,5,5,1,0,5,0,operating,FALSE,31,31
+P0039,Bakken-to-Cushing Oil Pipeline,4,4,1,1,0,1,cancelled,FALSE,31,31
+P0055,Constitution Oil and Gas Pipeline,4,4,1,1,0,1,operating,FALSE,31,31
+P0083,Glass Mountain Oil Pipeline,4,4,1,4,0,1,operating,FALSE,31,31
+P0343,Texas City Terminal Pipeline,4,4,1,1,0,1,cancelled,FALSE,31,31
+P0345,Powder River Basin Pipeline,4,4,1,4,4,0,operating,FALSE,31,31
+P0399,Oryx Pipeline System,4,4,1,4,0,1,operating,FALSE,31,31
+P0550,Mina Al Fahal-Sohar Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P0613,Bonny-Port Harcourt Refinery Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P0617,Eni Kwale-Brass Oil Pipeline Network,4,4,1,0,4,0,operating,FALSE,31,31
+P0618,Escravos-Warri-Kaduna Oil Pipeline,4,4,1,0,4,0,operating,FALSE,31,31
+P0622,Ogoda-Brass Oil Pipeline,4,4,1,0,4,0,operating,FALSE,31,31
+P0628,Tebidaba-Brass Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P0654,Eastern Siberia–Pacific Ocean Oil Pipeline,4,4,2,1,0,1,operating,FALSE,31,31
+P0671,Monte Alpi Crude Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P0674,Odessa–Brody Oil Pipeline,4,2,2,0,0,1,idle,FALSE,31,31
+P0948,Naharkatiya-Barauni Crude Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P0949,Naharkatiya-Digboi Crude Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P1221,Petro Andina Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P1222,Oiltanking Pipeline,4,4,2,0,0,1,operating,FALSE,31,31
+P1235,Ocensa Oil Pipeline,4,4,2,1,0,1,operating,FALSE,31,31
+P1379,Llanos Oil Pipeline,4,4,2,0,0,1,operating,FALSE,31,31
+P1493,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,retired,FALSE,31,31
+P1964,Safiniyah-Kursaniyah Oil Pipelines,4,4,2,1,4,0,operating,FALSE,31,31
+P1965,Safiniyah-Kursaniyah Oil Pipelines,4,4,2,1,4,0,operating,FALSE,31,31
+P1966,Safiniyah-Kursaniyah Oil Pipelines,4,4,2,1,4,0,operating,FALSE,31,31
+P1995,Glass Mountain Oil Pipeline,4,4,1,4,0,1,operating,FALSE,31,31
+P2023,Eastern Siberia–Pacific Ocean Oil Pipeline,4,4,2,1,0,1,operating,FALSE,31,31
+P2024,Eastern Siberia–Pacific Ocean Oil Pipeline,4,4,2,1,0,1,operating,FALSE,31,31
+P2042,Oryx Pipeline System,4,4,1,4,0,1,operating,FALSE,31,31
+P2067,La Invernada Bajo del Choique Oil Pipeline,4,4,1,4,0,1,proposed,FALSE,31,31
+P2219,Rokan-Dumai Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P2397,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,operating,FALSE,31,31
+P2398,Eight-Three Oil Pipeline Network,4,4,1,0,4,0,retired,FALSE,31,31
+P2399,Eight-Three Oil Pipeline Network,4,4,1,0,4,0,retired,FALSE,31,31
+P2400,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,retired,FALSE,31,31
+P2401,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,retired,FALSE,31,31
+P2557,Loving County Oil Pipeline,4,4,1,1,0,1,operating,FALSE,31,31
+P2612,Seminole Red Pipeline,4,4,1,1,0,1,operating,FALSE,31,31
+P2672,Midland-to-ECHO Pipeline System,4,4,1,1,0,1,operating,FALSE,31,31
+P2676,Appalachia to Texas Express Ethane Pipeline (ATEX),4,4,1,1,0,1,operating,FALSE,31,31
+P2689,Appalachia to Texas Express Ethane Pipeline (ATEX),4,4,1,1,4,0,operating,FALSE,31,31
+P3210,Midland-to-ECHO Pipeline System,4,4,1,1,0,1,operating,FALSE,31,31
+P3211,Midland-to-ECHO Pipeline System,4,4,1,1,0,1,cancelled,FALSE,31,31
+P3212,Midland-to-ECHO Pipeline System,4,4,1,1,0,1,operating,FALSE,31,31
+P3595,Chaparral NGL System,4,4,1,1,0,1,mothballed,FALSE,31,31
+P3596,Quanah NGL Pipeline,4,4,1,1,0,1,operating,FALSE,31,31
+P3680,Appalachia to Texas Express Ethane Pipeline (ATEX),4,4,1,1,0,1,operating,FALSE,31,31
+P3730,Eight-Three Oil Pipeline Network,4,4,1,0,4,0,retired,FALSE,31,31
+P3731,Eight-Three Oil Pipeline Network,4,4,1,0,4,0,operating,FALSE,31,31
+P3732,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,operating,FALSE,31,31
+P3733,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,retired,FALSE,31,31
+P3740,Lianjiang–Maoming Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P3753,Pakistan–China Oil Pipeline,4,2,2,2,0,1,cancelled,FALSE,31,31
+P3820,Gudao Town–Dongying Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P3821,Gudao Town–Yong'an–Dongying Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P3831,Baymark Ethylene Pipeline,4,4,1,1,4,0,operating,FALSE,31,31
+P3851,Odessa–Brody Oil Pipeline,4,2,2,0,4,0,cancelled,FALSE,31,31
+P3852,Odessa–Brody Oil Pipeline,4,2,2,0,4,0,cancelled,FALSE,31,31
+P5169,Safiniyah-Kursaniyah Oil Pipelines,4,4,2,1,4,0,operating,FALSE,31,31
+P5204,Waidiao-Cezi Oil Pipeline,4,3,1,3,0,1,proposed,FALSE,31,31
+P5221,Waidiao-Cezi Oil Pipeline,4,3,1,3,0,1,proposed,FALSE,31,31
+P5241,Eastern Siberia–Pacific Ocean Oil Pipeline,4,4,2,1,0,1,operating,FALSE,31,31
+P6078,Jamnagar-Loni LPG Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P6079,Vizag-Secunderabad LPG Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P6088,Mumbai Uran LPG Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P6102,Pakistan–China Oil Pipeline,4,2,2,2,4,0,cancelled,FALSE,31,31
+P6152,Campo Durán - Montecristo Pipeline,4,4,1,0,4,0,operating,FALSE,31,31
+P6263,Central European Line,4,4,1,0,4,0,operating,FALSE,31,31
+P6264,Central European Line,4,4,1,0,4,0,operating,FALSE,31,31
+P6265,Central European Line,4,4,1,0,4,0,mothballed,FALSE,31,31
+P6266,Central European Line,4,4,1,0,4,0,operating,FALSE,31,31
+P6269,Bohe New Port-Maoming Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6281,Eight-Three Oil Pipeline Network,4,4,1,0,0,1,operating,FALSE,31,31
+P6310,Gudao Town–Yong'an–Dongying Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6311,Gudao Town–Dongying Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6333,Shengli Oil Field New Dongying Crude Oil Depot Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6349,Eastern Siberia–Pacific Ocean Oil Pipeline,4,4,2,1,0,1,operating,FALSE,31,31
+P6360,Tieshan Port-Shankou Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6377,Chun guang Oilfield Export Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6421,Yakela-Kuqa Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6422,Yakela-Kuqa Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6427,Tahe-Yakela Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6429,Yakela-Yaha Condensate Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6462,Dalaoba-Valve Chamber Condenstate Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6463,Yakela Condensate Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6464,Northwest Oilfield Union Station One-Yakela Condenstate Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6465,Yakela Condensate Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P6476,Dixie Pipeline,4,4,1,1,4,0,operating,FALSE,31,31
+P6478,Wuqi-Yan'an Refinery Oil Pipeline,4,4,1,0,0,1,operating,FALSE,31,31
+P6485,Ras Markaz-Duqm Refinery Oil Pipeline,4,4,2,1,4,0,operating,FALSE,31,31
+P6488,Aegis Pipeline System,4,4,1,1,0,1,operating,FALSE,31,31
+P6496,San Jacinto Pipeline,4,4,1,1,0,1,operating,FALSE,31,31
+P6506,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6507,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6508,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6509,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6510,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6511,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6512,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6513,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6514,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6515,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6516,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6517,Mid-America Pipeline System,4,4,1,1,4,0,operating,FALSE,31,31
+P6521,Bahia Pipeline,4,4,1,1,4,0,construction,FALSE,31,31
+P6545,Borger Express Pipeline,4,4,1,4,0,1,operating,FALSE,31,31
+P7368,Glass Mountain Oil Pipeline,4,4,1,4,4,0,operating,FALSE,31,31
+P7398,Chunliang-Shengli Petrochemical Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P7399,Dongxin-Shida Technology Oil Pipeline,4,3,1,3,0,1,operating,FALSE,31,31
+P0001,Alberta Clipper Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0004,Bakken Expansion Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0005,Cochin Pipeline System,3,3,1,0,0,1,operating,FALSE,31,31
+P0008,Enbridge Line 10 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0009,Enbridge Line 11 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0010,Enbridge Line 1 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0011,Enbridge Line 2 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0012,Enbridge Line 3 Oil Pipeline,3,3,1,0,0,1,retired,FALSE,31,31
+P0013,Enbridge Line 4 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0014,Enbridge Line 5 Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0015,Enbridge Line 6 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0016,Enbridge Line 65 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0017,Enbridge Line 7 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0018,Enbridge Line 9 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0020,Express Oil Pipeline System,3,3,1,0,0,1,operating,FALSE,31,31
+P0023,Horizon Crude Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0027,Norman Wells Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0043,Inch Oil Pipelines,3,3,1,0,0,1,retired,FALSE,31,31
+P0067,Enbridge Line 14/64 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0068,Enbridge Line 17 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0069,Enbridge Line 61 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0070,Enbridge Line 79 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0075,Flanagan South Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0092,Karnes North Pipeline System,3,3,1,3,0,1,operating,FALSE,31,31
+P0101,Monarch Oil Pipeline,3,3,1,0,0,1,cancelled,FALSE,31,31
+P0116,Platte Crude Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0118,Portland-Montreal Pipe Line,3,3,1,0,0,1,operating,FALSE,31,31
+P0125,Sandpiper Crude Oil Pipeline,3,3,1,3,0,1,cancelled,FALSE,31,31
+P0133,Southern Lights Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0134,Spearhead Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0365,Big Foot Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0391,Peace Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P0545,Iraqi Pipeline in Saudi Arabia (IPSA),3,3,1,0,0,1,mothballed,FALSE,31,31
+P0551,East-West Crude Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0552,Trans-Arabian Oil Pipeline,3,3,1,0,0,1,retired,FALSE,31,31
+P0576,Buzurgan-Fao Oil Pipeline,3,3,2,3,0,1,operating,FALSE,31,31
+P0634,Mile 32-Mesaieed Oil Pipelines,3,2,2,0,3,0,operating,FALSE,31,31
+P0635,Umm Bab-Mile 32 oil pipeline,3,2,2,0,3,0,operating,FALSE,31,31
+P0642,Upper Zakum-Zirku Island Oil Pipeline,3,3,2,1,3,0,operating,FALSE,31,31
+P0651,Baltic Pipeline System 1,3,3,1,0,0,1,operating,FALSE,31,31
+P0652,Baltic Pipeline System 2,3,3,1,0,0,1,operating,FALSE,31,31
+P0656,Kuyumba-Taishet Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0657,Purpe-Samotlor Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0659,Tikhoretsk-Tuapse 2 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0661,Zapolyarye-Purpe Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0670,Ingolstadt Kralupy Litvínov Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P0676,Pomeranian Crude Oil Pipeline,3,3,2,0,0,1,operating,FALSE,31,31
+P1233,Upper Magdalena Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1234,Trasandino Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1237,Caño Limón–Coveñas Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1896,Abqaiq-Yanbu NGL pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1954,Shaybah-Abqaiq Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1955,Trans-Arabian Oil Pipeline,3,3,1,0,0,1,retired,FALSE,31,31
+P1956,Hawtah-Hawtah stabilizer Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1957,Haradh-Abqaiq Oil Plants Pipelines,3,3,1,0,0,1,operating,FALSE,31,31
+P1958,Safaniyah-Juaymah Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1959,Haradh-Abqaiq plants Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1960,AY1L KP 65.628-Rabigh refinery Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1961,Haradh-Abqaiq plants Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1962,Khurais-Riyadh Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1963,Khursaniyah-Ras Tanura Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1967,Kursaniyah-Ras Tanura Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1968,Kursaniyah-Ras Tanura  Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1969,Kursaniyah-KRT corridor km 191 Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1970,Abu Ali-Berri junction Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1971,UA-1 km 78-Abqaiq Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1972,Abqaiq Plants-Qatif Junction Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1973,Abqaiq Plants-Qatif Junction Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1974,Abqaiq Plants-Qatif Junction Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1975,Abqaiq Plants-Qatif Junction Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1976,Abqaiq Plants-Qatif Junction Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1978,Berri junction-Ras Tanura Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P1979,Km 50-Qatif junction Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1983,UA-1 km 49-Abqaiq Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P1984,Aindar-Abqaiq Plants Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1985,Aindar-Abqaiq Plants Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1986,Aindar-Abqaiq Plants Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1987,Qatif Junction-Juaymah terminal Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1988,Qatif Junction-Juaymah terminal Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1989,Qatif Junction-Juaymah terminal Oil Pipelines,3,3,1,0,3,0,operating,FALSE,31,31
+P1991,Enbridge Line 3 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2017,East-West Crude Oil Pipeline,3,3,1,0,0,1,shelved,FALSE,31,31
+P2045,Kuyumba-Taishet Oil Pipeline,3,3,1,0,0,1,cancelled,FALSE,31,31
+P2080,Kamenny Log-Perm Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2092,Frontier NGL Pipeline,3,3,1,0,3,0,proposed,FALSE,31,31
+P2094,Alberta Clipper Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2096,Enbridge Line 8 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2100,Northern Gateway Oil Pipeline Project,3,3,1,0,0,1,cancelled,FALSE,31,31
+P2103,AOC Hangingstone Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2105,Peace Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2106,Peace Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2107,Peace Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2108,Peace Pipeline,3,3,1,0,0,1,construction,FALSE,31,31
+P2109,Peace Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2112,Southern Lights Pipeline,3,3,1,0,0,1,cancelled,FALSE,31,31
+P2193,Litvinov-Spergau Oil Pipeline,3,3,1,0,0,1,shelved,FALSE,31,31
+P2262,Northern Peruvian Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2269,Pomeranian Crude Oil Pipeline,3,3,2,0,0,1,proposed,FALSE,31,31
+P2279,Alexandrovskoe-Anzhero-Sudzhensk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2280,"Almetyevsk-Aznakaevo I, II Oil Pipeline",3,3,1,0,3,0,operating,FALSE,31,31
+P2281,Almetyevsk-Kuibyshev Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2284,Bavly-Kuibyshev Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2294,Chekmagush-Aznakaevo Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2295,Chernushka-Kaltasy Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2314,Igolsko-Talovoe-Parabel Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2316,Kaltasy-Samara Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2317,Kaltasy-Ufa 2 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2318,Kaltasy-Yazykovo-Salavat Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2319,Karabash-Almetyevsk-Kaleykino Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2323,Khadyzhensk-Krasnodar Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2324,Kholmogory-Klin Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2325,Kholmogory-Western Surgut Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2328,Krasnoleninsk-Shaim-Konda Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2329,Krasnoyarsk-Irkutsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2330,Krymsk-Krasnodar Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2331,Kuibyshev-Lysychansk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2333,Kuleshovka-Kuibyshev Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2338,Malgobek-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2344,Kiengop-Naberezhnye Chelny Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2345,Mukhanovo-Kuibyshev Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2347,Naberezhnye Chelny-Almetyevsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2349,Nizhnevartovsk-Kurgan-Kuibyshev Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2359,Novovelichkovskaya-Krasnodar Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2360,Oil Pumping Station Sutorminskaya-Oil Pumping Station Kholmogory Oil Pipeline,3,3,1,0,0,1,mothballed,FALSE,31,31
+P2361,Omsk-Irkutsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2363,Omsk-Pavlodar Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2367,Baltic Pipeline System 1,3,3,1,0,0,1,operating,FALSE,31,31
+P2368,Perm-Almetyevsk Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2369,Perm-Osa Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2374,Pokrovka-Krotovka Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2382,Salavat-Orsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2384,Saratov-Kuzmichi Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2386,Shaim-Tyumen Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2389,Shkapovo-Salavat Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2427,Subhankulovo-Shkapovo Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2428,Surgut-Gorky-Polotsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2434,Tuymazy-Omsk-Novosibirsk 2 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2436,Tuymazy-Ufa Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2443,Uryevskaya-South Balyk Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2444,Usa-Ukhta Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2445,Ust-Balyk-Kurgan-Ufa-Almetyevsk Oil Pipeline,3,3,1,3,0,1,operating,FALSE,31,31
+P2446,Ust-Balyk-Omsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2448,Vatiegan-April Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2460,Zhirnovsk-Volgograd Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2478,Sudan–Ethiopia Oil Pipeline,3,3,2,3,3,0,shelved,FALSE,31,31
+P2532,Enbridge Line 20 Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2543,Heidelberg Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2554,Enbridge Line 78 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2571,North Dakota Pipeline System,3,3,1,0,0,1,operating,FALSE,31,31
+P2583,Platte Crude Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2584,Enbridge Line 5 Oil Pipeline,3,3,1,0,3,0,proposed,FALSE,31,31
+P2589,Alberta Clipper Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2590,Alberta Clipper Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2591,Alberta Clipper Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2592,Alberta Clipper Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2618,Enbridge Line 61 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2620,Enbridge Line 61 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2655,Stampede Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P2671,Express Oil Pipeline System,3,3,1,0,0,1,operating,FALSE,31,31
+P2731,Peace Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P2740,Enbridge Line 66 Oil Pipeline,3,3,1,0,3,0,cancelled,FALSE,31,31
+P3113,Cochabamba-Arica Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3114,Santa Cruz-Cochabamba Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3115,Carrasco-Cochabamba Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3116,Víbora-Sirari-Yapacaní-Humberto Suárez Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3117,Carrasco-Caranda Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3118,Camiri-Santa Cruz Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3119,Camiri-Yacuiba Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3120,Camiri-Villamontes Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3168,Vito Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3180,Enbridge Line 61 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3181,Enbridge Line 61 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3182,Enbridge Line 61 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3679,Sabo-Dagi Oil Pipeline,3,3,1,1,0,1,operating,FALSE,31,31
+P3689,Badr El Din-El Hamra Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3691,El Hamra-Shamandoura Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3693,El Hamra-Sidi Krir-Alexandria Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3701,Abu Sennan-El Hamra Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P3703,Kaleykino–Nizhnekamsk Refinery Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P3704,Kharyaga–Indiga Oil Pipeline,3,3,1,0,0,1,cancelled,FALSE,31,31
+P3795,Huangdao–Weifang Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3871,Enbridge Line 93 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P3892,Norealis Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5106,Enbridge Line 5 Oil Pipeline,3,3,1,0,3,0,proposed,FALSE,31,31
+P5124,Ukhta-Yaroslavl Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5127,Tikhoretsk-Tuapse 1 Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5135,Marjan Oil Pipeline,3,3,1,0,0,1,construction,FALSE,31,31
+P5159,Kursaniyah-Ras Tanura Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P5160,Tikhoretsk-Novorossiysk Oil Pipeline,3,3,1,0,0,1,retired,FALSE,31,31
+P5161,Tikhoretsk-Novorossiysk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5162,Tikhoretsk-Novorossiysk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5172,Tuymazy-Ufa Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P5173,Tuymazy-Ufa Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5174,Skovorodino-Mohe Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5195,Shaybah-Abqaiq Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5196,Shaybah-Abqaiq NGL Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5208,Yaroslavl-Moscow Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5209,Anzhero-Sudzhensk-Krasnoyarsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5211,Kuibyshev-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5212,Kuibyshev-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5213,Kuibyshev-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,construction,FALSE,31,31
+P5214,Tobruk NGL Pipeline,3,3,2,1,3,0,construction,FALSE,31,31
+P5216,Almetyevsk-Gorky Oil Pipeline,3,3,1,3,0,1,operating,FALSE,31,31
+P5217,Almetyevsk-Gorky Oil Pipeline,3,3,1,3,0,1,operating,FALSE,31,31
+P5233,Lysychansk-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5236,Lysychansk-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5262,Enbridge Line 32 Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P5332,Baltic Pipeline System 1,3,3,1,0,0,1,operating,FALSE,31,31
+P5333,Baltic Pipeline System 1,3,3,1,0,0,1,retired,FALSE,31,31
+P5341,OSO Oil PIpeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5384,Ayacucho-Coveñas Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5385,Coveñas-Cartagena Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5386,"Galán-Ayacucho 18"" Oil Pipeline",3,3,1,0,0,1,operating,FALSE,31,31
+P5387,"Galán-Ayacucho 14"" Oil Pipeline",3,3,1,0,0,1,operating,FALSE,31,31
+P5388,Vasconia-CIB Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5389,"Ayacucho-Galán 8"" Oil Pipeline",3,3,1,0,0,1,operating,FALSE,31,31
+P5390,Mansoya-Orito Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5391,Araguaney-Monterrey Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5392,Santiago-Porvenir Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5393,Apiay-Monterrey Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5394,Yaguará-Tenay Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5395,Flanagan South Oil Pipeline,3,3,1,0,0,1,proposed,FALSE,31,31
+P5421,Ocelote-Palmeras Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5423,Northern Peruvian Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5424,Northern Peruvian Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5425,Víbora-Sirari-Yapacaní-Humberto Suárez Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5426,Caranda-Santa Cruz Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5427,Surubí-Carrasco Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5428,Cerrillos-Chorety Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5429,Tigüipa-Salinas Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5446,Vaca Muerta Norte Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5448,Puesto Hernández-Luján de Cuyo Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5449,Puerto Rosales-La Plata Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5450,La Plata-Dock Sud Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5452,Loma La Lata-Centenario Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5454,Los Perales-Las Mesetas-Caleta Olivia Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5455,Estancia La Maggie-Punta Loyola Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P5456,Boleadoras-Punta Loyola Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5457,María Inés-Punta Loyola Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P5458,El Cóndor-Punta Loyola Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6104,Krymsk-Krasnodar Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6162,Almetyevsk-Gorky Oil Pipeline,3,3,1,3,0,1,operating,FALSE,31,31
+P6163,Gorky-Ryazan Oil Pipeline,3,3,1,3,0,1,operating,FALSE,31,31
+P6164,Lysychansk-Tikhoretsk Oil Pipeline,3,3,1,0,0,1,proposed,FALSE,31,31
+P6165,Tikhoretsk-Novorossiysk Oil Pipeline,3,3,1,0,0,1,construction,FALSE,31,31
+P6185,Huangdao–Weifang Oil Pipeline,3,3,1,0,3,0,proposed,FALSE,31,31
+P6186,"Galán-Sebastopol 16"" Pipeline",3,3,1,0,0,1,operating,FALSE,31,31
+P6187,"Galán-Sebastopol 12"" Pipeline",3,3,1,0,0,1,operating,FALSE,31,31
+P6188,Galán-Mansilla LPG Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6189,Galán-Mansilla LPG Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6190,Galán-Mansilla LPG Pipeline,3,3,1,0,0,1,idle,FALSE,31,31
+P6191,Sebastopol-Tocancipá Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6192,Sutamarchán-Apiay Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6193,Sebastopol-Tocancipá Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6271,Puerto Salgar-Yumbo Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6272,Galán-Bucaramanga Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6280,Puerto Salgar-Yumbo Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P6369,Umm Bab-Mile 32 oil pipeline,3,2,2,0,3,0,operating,FALSE,31,31
+P6370,Umm Bab-Mile 32 oil pipeline,3,2,2,0,3,0,operating,FALSE,31,31
+P6380,Mile 32-Mesaieed Oil Pipelines,3,2,2,0,3,0,operating,FALSE,31,31
+P6381,Mile 32-Mesaieed Oil Pipelines,3,2,2,0,3,0,operating,FALSE,31,31
+P6559,Mina Abdullah Oil Pipeline,3,3,2,2,0,1,operating,FALSE,31,31
+P6560,Mina Abdullah Oil Pipeline,3,3,2,2,3,0,operating,FALSE,31,31
+P7151,Mina Abdullah Oil Pipeline,3,3,2,2,3,0,construction,FALSE,31,31
+P7153,Mina Abdullah Oil Pipeline,3,3,2,2,3,0,operating,FALSE,31,31
+P7189,Tikhoretsk-Novorossiysk Oil Pipeline,3,3,1,0,0,1,construction,FALSE,31,31
+P7192,Upper Zakum-Zirku Island Oil Pipeline,3,3,2,1,3,0,operating,FALSE,31,31
+P7200,Sukhodolnaya-Rodionovskaya Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P7213,Almetyevsk-Kuibyshev Oil Pipeline,3,3,1,0,0,1,operating,FALSE,31,31
+P7241,Zhirnovsk-Volgograd Oil Pipeline,3,3,1,0,0,1,proposed,FALSE,31,31
+P7243,Sukhodolnaya-Rodionovskaya Oil Pipeline,3,3,1,0,0,1,proposed,FALSE,31,31
+P7247,Perm-Osa Oil Pipeline,3,3,1,0,0,1,proposed,FALSE,31,31
+P7269,Tobruk NGL Pipeline,3,3,2,1,3,0,construction,FALSE,31,31
+P7316,Minya-Asyut Oil Pipeline,3,3,1,0,3,0,construction,FALSE,31,31
+P7318,Musturad-Banha Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7319,Musturad-Banha Oil Pipeline,3,3,1,0,3,0,construction,FALSE,31,31
+P7320,Beni Suef -Minya Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7329,"Northern Geisum ""GNN-11"" Oil Pipeline",3,3,1,0,0,1,operating,FALSE,31,31
+P7330,Badr-Musturad Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7331,Agroud-Ain Sokhna Oil Pipeline,3,3,1,0,3,0,construction,FALSE,31,31
+P7332,Suez-Musturad Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7333,Asyut-Suhag LPG Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7338,Dekhela-Wadi AlQamar LPG Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7339,Abu Rudis-Wadi Feran LPG Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7341,Shouqir- Asyut Oil Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7363,Ras Gharb- Asyut LPG Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7364,Ras Bakr-Ras Gharb-Asyut LPG Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P7365,Damietta Port-Tanta LPG Pipeline,3,3,1,0,3,0,operating,FALSE,31,31
+P0032,Trans Mountain Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0033,Trans Mountain Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0037,Auger Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0058,Dakota Express Oil Pipeline,2,2,1,0,0,1,cancelled,FALSE,31,31
+P0089,Zydeco Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0106,Delta Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0130,South Texas Crude Oil Pipeline (Koch),2,2,1,0,2,0,operating,FALSE,31,31
+P0138,Westward Ho Oil Pipeline,2,2,1,0,0,1,cancelled,FALSE,31,31
+P0140,Wood River Oil Pipeline,2,2,1,0,0,1,retired,FALSE,31,31
+P0341,Knight Warrior Pipeline,2,2,1,1,0,1,cancelled,FALSE,31,31
+P0346,Cook Inlet Pipeline System,2,2,1,2,0,1,operating,FALSE,31,31
+P0347,Cimarron Express Pipeline,2,2,1,1,0,1,cancelled,FALSE,31,31
+P0406,Cantarell Field Oil Pipeline Network,2,2,1,0,0,1,operating,FALSE,31,31
+P0414,Ku-Maloob-Zaap Oil Pipeline Network,2,2,1,0,0,1,operating,FALSE,31,31
+P0421,Nuevo Teapa-Tula Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0524,Haoudh El Hamra-Arzew Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0525,Haoudh El Hamra-Skikda Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0533,Niger Chad Oil Pipeline,2,2,2,2,0,1,proposed,FALSE,31,31
+P0539,Tazama Oil Pipeline,2,2,2,0,0,1,operating,FALSE,31,31
+P0547,Kirkuk-Ceyhan Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0549,Trans-Israel Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0553,Bab-Habshan–Fujairah Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0555,Masila-Ash Shihr Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P0556,Shabwah-Bir Ali Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P0557,Beni Mansour-Algiers Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0558,El Borma-Mesdar Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0559,Haoudh El Hamra-Bejaia Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0560,Hassi Berkine-Haoudh el Hamra Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0561,In Amenas-Haoudh el Hamra Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0562,Mesdar-Haoudh el Hamra Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0564,Essungo-Quinfuquena Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0566,Lombo-Essungo Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0574,Neka Jask Pipeline,2,2,1,0,0,1,cancelled,FALSE,31,31
+P0593,Hamada al Hamra-Zawiya Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0596,Majid-Nafoora Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0597,Messla-Amal Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0598,Nafoora-Amal Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0599,Nasser-Brega Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0600,Raguba-Brega Feeder Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0604,Sarir-Tobruk Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0614,Brass Creek-Forcados Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0621,Nkpoku-Bomu Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0625,Rapele-Forcados Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0626,Rumuekpe-Bonny Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0627,Rumuekpe-Nkpoku Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0629,Oman Main Line–Ras Markaz Oil Pipeline,2,2,1,0,0,1,proposed,FALSE,31,31
+P0630,Oman Main Oil Line,2,2,1,0,0,1,operating,FALSE,31,31
+P0631,South Oman Oil Line,2,2,1,0,2,0,operating,FALSE,31,31
+P0632,Bul Hanine-Halul Island Oil pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0639,Bab-Habshan–Jebel Dhanna Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0640,Umm Shaif-Das Island oil pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P0641,Upper Zakum-Das Island Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0650,Trans-Caspian Oil Pipeline,2,2,2,2,0,1,proposed,FALSE,31,31
+P0669,Forties Oil Pipeline System,2,2,1,2,0,1,operating,FALSE,31,31
+P0799,Ceyhan-Kırıkkale Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0840,Bay of Bengal-Chittagong Oil Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P0841,Bay of Bengal-Chittagong Oil Pipeline 2,2,2,1,0,2,0,construction,FALSE,31,31
+P0885,Champion-Seria Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0973,Lawe-Lawe Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P0987,Tempino to Plaju Crude Oil Pipeline (TPCOP),2,2,1,0,0,1,operating,FALSE,31,31
+P1094,Sapugaskanda Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1223,Madero-Cadereyta Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1224,Hydrocarbons Stationary Transport System,2,2,1,0,0,1,operating,FALSE,31,31
+P1228,Curaray-Andoas Oil Pipeline,2,2,1,0,0,1,cancelled,FALSE,31,31
+P1229,Trans-Panama Pipeline,2,2,1,2,0,1,operating,FALSE,31,31
+P1231,SOTE Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1232,Crudos Pesados Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1829,In Amenas-Algerian-Tunisian Border Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1927,La Victoria-Las Monas Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1928,ERB-II-Anaco Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1929,PT Oficina-Anaco Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1930,PT Oficina-Puerto la Cruz 3 Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1931,Traviaso-ERB-II Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1932,Punta de Palma-Puerto Miranda Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1933,ERB-II-Puerto la Cruz Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1934,Lagunillas-La Salina Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1935,PT Silvestre-El Palito Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1936,PT Oficina-Puerto la Cruz 2 Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1937,Mata Larga-PT Silvestre Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1938,CIJAA-PT Oficina Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1939,Bachaquero-Puerto Miranda 2 Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1940,Puerto Miranda-Cardón Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1941,Bachaquero-Puerto Miranda Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1942,EPM-I-PT Oficina Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1943,PT Oficina-Puerto la Cruz Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1944,Ule-Amuay Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1945,Ule-Amuay 2 Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1946,ERB-II-TAEJ Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1947,Traviaso-TAEJ Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1948,PT Oficina-José Palmichal oil pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P1949,Traviaso-Naricual Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P2029,New Sapugaskanda Oil Pipeline,2,2,1,0,0,1,proposed,FALSE,31,31
+P2038,Zydeco Oil Pipeline,2,2,1,0,0,1,shelved,FALSE,31,31
+P2101,Access Pipeline System,2,2,1,2,2,0,operating,FALSE,31,31
+P2102,Northern Courier Pipeline System,2,2,1,0,0,1,operating,FALSE,31,31
+P2221,Cheshme Shour-Eshtehard Oil Pipeline,2,2,1,2,2,0,operating,FALSE,31,31
+P2222,Cheshme Shour-Eyvanaki Oil Pipeline,2,2,1,2,2,0,operating,FALSE,31,31
+P2223,Dalan-Shiraz Oil Pipeline,2,2,1,2,0,1,operating,FALSE,31,31
+P2224,Goureh-Jask Crude Oil Pipeline,2,2,1,2,0,1,operating,FALSE,31,31
+P2226,New Bandar Abbas-Sirjan-Rafsanjan Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P2228,Batman-Dortyol Crude Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P2230,Tehran-Tabriz Crude Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P2260,Fahud–Sohar NGL Pipeline,2,2,2,2,2,0,operating,FALSE,31,31
+P2468,Durban–Sasolburg Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P2481,Tazama Oil Pipeline,2,2,2,0,0,1,proposed,FALSE,31,31
+P2546,Zydeco Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P2587,Zydeco Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P2680,Falcon Ethane Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P3155,Seahawk Oil Pipeline,2,2,2,2,0,1,cancelled,FALSE,31,31
+P3161,Seahawk Oil Pipeline,2,2,2,2,0,1,cancelled,FALSE,31,31
+P3165,Seahawk Oil Pipeline,2,2,2,2,0,1,operating,FALSE,31,31
+P3684,Access Pipeline System,2,2,1,2,2,0,operating,FALSE,31,31
+P3685,Rabi-Cap Lopez Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P3696,D33 Baltic Sea Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P3697,D33 Baltic Sea Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P3698,D33 Baltic Sea Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P3699,Access Pipeline System,2,2,1,2,2,0,operating,FALSE,31,31
+P3712,Vladimir Filanovsky Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P3713,Yuri Korchagin Field Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P3718,Erawin-Elsharara Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P3846,Tehran-Tabriz Crude Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P3847,Marun–Isfahan Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P3848,Cheshme Shour-Palangabad Oil Pipeline,2,2,1,2,2,0,operating,FALSE,31,31
+P5123,Kharyaga-Usa Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5126,Kharyaga-Yuzhnoe Khilchuyu Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5158,Serbia-Albania Oil Pipeline,2,2,1,0,2,0,shelved,FALSE,31,31
+P5185,Caliber Bear Den Interconnect Pipeline,2,2,1,2,0,1,operating,FALSE,31,31
+P5199,Alexander Pipeline System,2,2,1,2,0,1,operating,FALSE,31,31
+P5200,Spring Creek Pipeline System,2,2,1,2,0,1,operating,FALSE,31,31
+P5215,Wafa-Mellitah NGL Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5218,Nafoora–Ra's Lanuf Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5219,Nafoora–Intisar Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5220,Beda-Ra's Lanuf Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5226,Dolyna-Drohobych Oil Pipeline,2,2,1,0,0,1,idle,FALSE,31,31
+P5227,Hnidyntsi–Glynsko-Rozbyshivska Oil Pipeline,2,2,1,0,2,0,idle,FALSE,31,31
+P5228,Mala Pavlivka-Kremenchuk Oil Pipeline,2,2,1,0,2,0,idle,FALSE,31,31
+P5229,Okhtyrka-Mala Pavlivka Oil Pipeline,2,2,1,0,0,1,idle,FALSE,31,31
+P5230,Hnidyntsi–Glynsko-Rozbyshivska Oil Pipeline,2,2,1,0,2,0,idle,FALSE,31,31
+P5231,Kremenchuk–Kherson Oil Pipeline,2,2,1,0,2,0,mothballed,FALSE,31,31
+P5234,Lysychansk–Kremenchuk Oil Pipeline,2,2,1,0,2,0,idle,FALSE,31,31
+P5235,Snigurivka–Odesa Oil Pipeline,2,2,1,0,2,0,idle,FALSE,31,31
+P5237,Nafoora–Zueitina Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5238,Nafoora–Zueitina Oil Pipeline,2,2,1,0,2,0,proposed,FALSE,31,31
+P5287,Dehloran-Cheshmeh Khosh Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5328,Genaveh-Kharg Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5335,Khuzestan–Hoor Al Azim Oil Pipeline,2,2,1,0,2,0,proposed,FALSE,31,31
+P5336,Genaveh-Kharg Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5337,Genaveh-Kharg Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5338,Kharg–Azarpad Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5339,Kharg–Azarpad Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5340,Khesht–Genaveh Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5342,OSLA Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5343,Razan PS–Shazand PS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5344,Razan PS–Naftarak PS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5345,Shazand PS–Arak PS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5346,Shazand PS–Razan PS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5347,Arak PS–Razan PS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5348,Arak PS–Shahid Mahdavi PS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5349,Ahwaz–Ray Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5350,Isfahan–Ray Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5351,Neka–Ray Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5352,Naftshahr–Kermanshah Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5354,Bardaspi–Kermanshah Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5357,Sabz-Ray Oil Pipelines,2,2,1,0,0,1,construction,FALSE,31,31
+P5358,Sabz-Ray Oil Pipelines,2,2,1,0,0,1,construction,FALSE,31,31
+P5359,Cheshmeh Khosh–Ahvaz Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5360,Esfahan–Rafsanjan Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5361,Bandar Abbas–Rafsanjan Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5362,Ray–Ideloo Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5363,Neka–Ray Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5364,Neka–Ray Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5365,Ray–Tabriz Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5366,Gachsaran–Shiraz Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5367,Golpa–Moghanak Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5368,Marun–Isfahan Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P5369,Omidiyeh–Abadan Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P5370,West Karoon–Bahregan Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P5371,West Karoon–Omidiyeh Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P5372,West Karoon –Gureh Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P5373,Ahwaz–Abadan Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5374,Ahwaz–Abadan Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5375,Tang-e-Fani–Kermanshah Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5376,Goreh–Genaveh Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5377,Pole Zal–Tange Azane Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5378,Pole Zal–Tange Azane Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5379,Kharg–East Jetty T Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5380,Kharg–East Jetty T Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5381,Kharg–East Jetty T Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5382,Kharg–East Jetty T Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P5438,Ashkelon-Haifa Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5439,Ashkelon-Ashdod Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5440,Haoudh El Hamra-Arzew Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5441,Hassi Berkine-Haoudh el Hamra Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5442,Algerian-Tunisian Border-Skhira Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5443,ZPS-JPS Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5444,COPEM-PT Oficina Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5463,Matanzas-Cienfuegos Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5465,José Ignacio-La Teja Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5466,Madero-Cadereyta Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5467,Nuevo Teapa-Tula Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5468,Nuevo Teapa-Minatitlán Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5469,Nuevo Teapa-Minatitlán Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5470,Nuevo Teapa-Salina Cruz Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5471,Nuevo Teapa-Salina Cruz Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5472,Nuevo Teapa-Madero Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5473,Tula-Salamanca Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5474,Nuevo Teapa-Poza Rica Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5475,Poza Rica-Madero Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5476,Poza Rica-Salamanca Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P5481,South Texas Crude Oil Pipeline (Koch),2,2,1,0,0,1,operating,FALSE,31,31
+P6043,Northern Azadegan-West Karun Station,2,2,1,0,0,1,operating,FALSE,31,31
+P6044,Azar-Dehloran Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6046,Forouzan-Kharg Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6047,Esfandiar Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6048,Qeshm Oil Terminal Pipelines,2,2,1,0,0,1,construction,FALSE,31,31
+P6049,Qeshm Oil Terminal Pipelines,2,2,1,0,0,1,construction,FALSE,31,31
+P6051,Lavan Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6052,Balal-Lavan Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6053,Soroosh Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P6054,Soroosh Oil Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P6055,Reshadat-Lavan Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6056,Reshadat- Lavan Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6057,Abouzar-Kharg Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6058,Hengam-Bandar Abbas Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6059,South Azadegan' CTEP- West Karoun PS Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6061,Shadegan-Maroun 4 Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6062,Shadegan-Maroun 4 Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6063,Shadegan-Maroun 4 Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6064,Shadegan-Maroun 4 Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6065,Shadegan-Maroun 4 Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6066,Maroun Complex No1-Omidiyeh Oil Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P6067,Maroun Complex No 6-Maroun Complex No 1,2,2,1,0,2,0,construction,FALSE,31,31
+P6068,Baghein PS-Isfahan Oil Pipelines,2,2,1,1,0,1,operating,FALSE,31,31
+P6069,Baghein PS-Isfahan Oil Pipelines,2,2,1,1,0,1,operating,FALSE,31,31
+P6072,Ahwaz PS-Genaveh PS Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6074,Goureh Station-Coast of Persian Gulf Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6076,Salman-Lavan Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6077,Mansouri-Ahvaz Booster Station Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6084,Sumar-Naftshahr Oil  Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6093,Danan- Dehloran Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6094,Dehloran- Cheshmeh Khos Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6097,Cheshmeh Khosh–Ahvaz Oil Pipelines,2,2,1,0,0,1,operating,FALSE,31,31
+P6145,Ramshir-Omidiyeh Oil Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P6146,Omidiyeh-Isfahan Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6147,Ahvaz-Omidiyeh oil pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6150,Yakutsky LNG Condensate Pipeline,2,2,1,0,0,1,proposed,FALSE,31,31
+P6176,Forties Oil Pipeline System,2,2,1,2,2,0,operating,FALSE,31,31
+P6177,Forties Oil Pipeline System,2,2,1,2,2,0,operating,FALSE,31,31
+P6254,Strategic Pipeline-Musaiab Power Station Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6262,Vado Ligure-Trecate Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P6273,Korpeje-Balkanabad Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P6274,Goturdepe-Belek Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P6275,Belek-Turkmenbashi Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P6276,Vyshka-Belek Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P6277,Cheleken-Goturdepe Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P6301,Varadero-Matanzas Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6314,Lihuayi Oil Pipeline,2,2,1,0,0,1,proposed,FALSE,31,31
+P6315,Shushufindi-Quito Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6316,Monteverde-Chorrillo LPG Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6317,Pascuales-Cuenca Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6330,Pascuales-Cuenca Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6385,Dukhan-Mesaieed NGL Pipelines,2,2,2,1,2,0,operating,FALSE,31,31
+P6386,Dukhan-Mesaieed NGL Pipelines,2,2,2,1,2,0,operating,FALSE,31,31
+P6409,Dukhan-Mesaieed NGL Pipelines,2,2,2,1,2,0,operating,FALSE,31,31
+P6433,Sirte-Ras Lanuf Terminal-Sidra Terminal Oil Pipeline,2,2,1,0,2,0,proposed,FALSE,31,31
+P6440,Sarir- Ras Lanuf Refinery Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6441,Defa-Ra's Lanuf pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P6442,Messla- Ras Lanuf Refinery Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6443,El Feel-Mellitah Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6447,Shirvan-Baku Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6448,Shirvan-Dashgil Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6449,Dubendi-Boyukshor Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6450,Dubendi-Keshla Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6451,Dubendi-Surakhani-Boyukshor Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6452,Dashgil-Sangachal-Keshla Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P6453,Buzovna-Sabunchu Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6454,Binagadi-Keshla Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6455,Siyazan-Baku Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6456,Neft Dashlari-Baku Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6457,Sabratha-Mellitah Condensate Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6481,Neft Dashlari-Baku Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6482,Dashgil-Sangachal-Keshla Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P6483,Dashgil-Sangachal-Keshla Oil Pipeline,2,2,1,0,0,1,proposed,FALSE,31,31
+P6526,Seahawk Oil Pipeline,2,2,2,2,0,1,construction,FALSE,31,31
+P6527,Seahawk Oil Pipeline,2,2,2,2,0,1,construction,FALSE,31,31
+P7152,TL5 Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7161,North Kuwait Oilfields Pipelines,2,2,1,2,2,0,proposed,FALSE,31,31
+P7164,North Kuwait-Mina Abdullah Oil Pipeline,2,2,1,1,0,1,operating,FALSE,31,31
+P7165,Kadma-Doha PS Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7166,KADM-MF-CR181R Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7167,MF-CPHMAA/CALM 21 Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7168,MF-CR125L/MF-CR125R Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7169,MF-GC27L/R/MF-TWK Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7170,MF-GC28L/R/MF-TWK Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7171,MF-NPP MS/CALM 20 Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7172,MF-PointA/MF-CR119R Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7173,MF-Ratqa1/SC-130 Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7174,MF-T18/MF-TWK  Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7175,MF-TB1/2/MF-CR088R  Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7176,Point-A-KADMA Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7177,Wafa-Burgan Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7178,Khafji Ofshore- Khafji Onshore Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7179,Khafji Ofshore- Khafji Onshore Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7180,Khafji Ofshore- Khafji Onshore Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7181,Khafji Ofshore- Khafji Onshore Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7182,Wafa- Mab Oil Pipeline,2,2,1,1,2,0,operating,FALSE,31,31
+P7214,Bab-Habshan–Jebel Dhanna Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7215,Bab-Habshan–Jebel Dhanna Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7216,Bab-Habshan–Jebel Dhanna Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7217,OGD-III & AGD-II - Ruwais Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7218,MP21-MPS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7221,BAB-Abu Dhabi Refinery Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7223,Dhabbiya-BAB Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7225,Mubarraz field-Mubarraz terminal Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7226,Qushawira- Asab Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7230,Rumaitha-Dhabbiya Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7231,ABK-Das Island Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7233,Sahil-ASAB Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7234,Shah-ASAB Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7235,BAB-MP21 Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7236,BAB-MP21 Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7237,ASAB-BAB Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7238,Umm Shaif-Das Island oil pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7239,Bu Hasa-MP21 Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7240,Bu Hasa-MP21 Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7242,Huwaila-Bu Hasa Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P7244,MP21-MPS Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7261,AR Site Terminal- Mubarraz terminal Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7264,Abu Dhabi Refinery-Mussaffah Oil Product Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7265,Abu Dhabi Refinery-Mussaffah Oil Product Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7281,Sepehr & Jofeir Oil Pipeline,2,2,1,0,0,1,operating,FALSE,31,31
+P7282,Goreh B-Genaveh Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P7283,Genaveh-Kharg Terminal Oil Pipeline,2,2,1,0,0,1,construction,FALSE,31,31
+P7289,Arzew–Chlef–Algiers LPG Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P7290,Bir Rebaa North -Mesdar Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7291,Rhaoude El Baguel- Mesdar Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7292,In Amenas-Ohanet Oil Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P7293,M'Sila-Bejaia Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7294,Haoudh El Hamr-SP1 Bis Djmea Oil Piopeline,2,2,1,0,2,0,construction,FALSE,31,31
+P7295,El Borma-PC1/PK137 Oil Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P7296,Hassi R'Mel-Arzew LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7297,Hassi R'Mel-Arzew LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7298,Hassi R'Mel-Arzew LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7299,Alrar-Hassi R'Mel LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7300,Ohanet-Gassi Touil LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7301,Hassi Massaoud-Hassi R'Mel LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7302,Arzew-Sidi Bel Abbès LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7303,Arzew-Sidi Bel Abbès LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7304,Sidi Arcine-Blida LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7305,Sidi Arcine-Blida LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7306,Skikda-El Khroub LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7307,Skikda-El Khroub LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7308,Skikda-El Khroub LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7309,Skikda-Berrahal LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7310,Skikda-Berrahal LPG Pipelines,2,2,1,0,2,0,operating,FALSE,31,31
+P7314,Sidi Bel Abbès-Tlemcen LPG Pipeline,2,2,1,0,2,0,operating,FALSE,31,31
+P7357,Rhoud El Baguel- Hassi Massaoud NGL Pipeline,2,2,1,0,2,0,construction,FALSE,31,31
+P7394,Zydeco Oil Pipeline,2,2,1,0,2,0,operating,FALSE,31,31

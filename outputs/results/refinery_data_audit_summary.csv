@@ -1,0 +1,21 @@
+issue,count,description
+rows,264,Physical rows read from the raw CSV.
+columns,7,Visible columns in the raw CSV.
+exact_duplicate_groups,1,Groups identical across every visible raw column.
+duplicate_rows_beyond_first,1,Rows beyond the first in exact-duplicate groups.
+unique_refineries,4,Distinct labels in the Refinery column; no geography is inferred.
+unique_product_types,4,Distinct labels in Type.
+unique_work_shifts,3,Distinct labels in Work shift.
+origin_date_minimum_label,1398/12/27,Lexicographic minimum raw origin-date label; not converted to Gregorian.
+origin_date_maximum_label,1399/03/20,Lexicographic maximum raw origin-date label; not converted to Gregorian.
+destination_date_minimum_label,1399/01/01,Lexicographic minimum raw destination-date label; not converted to Gregorian.
+destination_date_maximum_label,1399/03/20,Lexicographic maximum raw destination-date label; not converted to Gregorian.
+unique_origin_dates,41,Distinct raw origin-date labels.
+unique_destination_dates,40,Distinct raw destination-date labels.
+origin_weight_minimum,15050,Minimum numeric origin weight as recorded; its unit is not inferred.
+origin_weight_maximum,28770,Maximum numeric origin weight as recorded; its unit is not inferred.
+destination_weight_minimum,15110,Minimum numeric destination weight as recorded; its unit is not inferred.
+destination_weight_maximum,28720,Maximum numeric destination weight as recorded; its unit is not inferred.
+minimum_destination_minus_origin,-510,Minimum row-level destination weight minus origin weight; not a loss estimate.
+maximum_destination_minus_origin,440,Maximum row-level destination weight minus origin weight; not a gain estimate.
+destination_label_before_origin,0,Raw labels where destination sorts before origin within YYYY/MM/DD notation.

@@ -1,0 +1,181 @@
+sheet,column,missing_count,missing_percent
+About,Global Energy Ownership Tracker - March 2026,14,18.92
+About,...2,38,51.35
+About,...3,74,100
+About,...4,65,87.84
+About,...5,74,100
+About,...6,74,100
+About,...7,74,100
+About,...8,74,100
+About,...9,64,86.49
+About,...10,74,100
+About,...11,74,100
+About,...12,74,100
+About,...13,74,100
+About,...14,74,100
+All Entities,Entity ID,0,0
+All Entities,Full Name,0,0
+All Entities,Name,0,0
+All Entities,Name Local,15040,53.31
+All Entities,Name Other,20603,73.02
+All Entities,Abbreviation,25973,92.06
+All Entities,Entity Type,56,0.2
+All Entities,Legal Entity Type,4611,16.34
+All Entities,PubliclyListed,12019,42.6
+All Entities,Home Page,20779,73.65
+All Entities,Registration Country,1949,6.91
+All Entities,Registration Subdivision,25558,90.59
+All Entities,Headquarters Country,1212,4.3
+All Entities,Headquarters Subdivision,16513,58.53
+All Entities,Gem parents,9318,33.03
+All Entities,Gem parents IDs,9318,33.03
+All Entities,Brazil - National Registry of Legal Entities (Federal Revenue Service),28042,99.39
+All Entities,Global Legal Entity Identifier Index,10376,36.78
+All Entities,India - Corporate Identification Number (Ministry of Corporate Affairs),27929,98.99
+All Entities,PermID: Refinitiv Permanent Identifier,9434,33.44
+All Entities,Russia - Uniform State Register of Legal Entities of Russian Federation,27786,98.48
+All Entities,S&P Capital IQ,27862,98.75
+All Entities,UK Companies House,27682,98.11
+All Entities,US SEC Central Index Key,27892,98.86
+All Entities,US-EIA,28194,99.93
+Entity Ownership,Subject Entity ID,0,0
+Entity Ownership,Subject Entity Name,0,0
+Entity Ownership,Interested Party ID,0,0
+Entity Ownership,Interested Party Name,0,0
+Entity Ownership,% Share of Ownership,0,0
+Entity Ownership,Data Source URL,528,2.01
+Entity Ownership,Share Imputed?,0,0
+Asset Ownership,Asset Type,0,0
+Asset Ownership,Asset ID,0,0
+Asset Ownership,Asset Unit ID,17669,34.74
+Asset Ownership,Asset Name,1,0
+Asset Ownership,Immediate Owner Entity ID,0,0
+Asset Ownership,Immediate Owner Entity Name,0,0
+Asset Ownership,% Share of Ownership,0,0
+Asset Ownership,Share Imputed?,0,0
+Coal Plant Ownership,Parent GEM Entity ID,0,0
+Coal Plant Ownership,Parent,0,0
+Coal Plant Ownership,Parent Registration Country,19010,26.44
+Coal Plant Ownership,Parent Headquarters Country,14964,20.81
+Coal Plant Ownership,Project,0,0
+Coal Plant Ownership,Share,10196,14.18
+Coal Plant Ownership,Ownership Path,0,0
+Coal Plant Ownership,Immediate Project Owner,0,0
+Coal Plant Ownership,Immediate Project Owner GEM Entity ID,0,0
+Coal Plant Ownership,Tracker,0,0
+Coal Plant Ownership,Status,0,0
+Coal Plant Ownership,Capacity (MW),0,0
+Coal Plant Ownership,GEM location ID,0,0
+Coal Plant Ownership,GEM unit ID,0,0
+Gas Plant Ownership,Parent GEM Entity ID,0,0
+Gas Plant Ownership,Parent,0,0
+Gas Plant Ownership,Parent Registration Country,14637,20.05
+Gas Plant Ownership,Parent Headquarters Country,13445,18.42
+Gas Plant Ownership,Project,0,0
+Gas Plant Ownership,Share,15149,20.75
+Gas Plant Ownership,Ownership Path,0,0
+Gas Plant Ownership,Immediate Project Owner,0,0
+Gas Plant Ownership,Immediate Project Owner GEM Entity ID,0,0
+Gas Plant Ownership,Tracker,0,0
+Gas Plant Ownership,Status,0,0
+Gas Plant Ownership,Capacity (MW),0,0
+Gas Plant Ownership,GEM location ID,0,0
+Gas Plant Ownership,GEM unit ID,0,0
+Bioenergy Power Ownership,Parent GEM Entity ID,0,0
+Bioenergy Power Ownership,Parent,0,0
+Bioenergy Power Ownership,Parent Registration Country,3339,23.64
+Bioenergy Power Ownership,Parent Headquarters Country,2983,21.12
+Bioenergy Power Ownership,Project,0,0
+Bioenergy Power Ownership,Share,7536,53.35
+Bioenergy Power Ownership,Ownership Path,0,0
+Bioenergy Power Ownership,Immediate Project Owner,0,0
+Bioenergy Power Ownership,Immediate Project Owner GEM Entity ID,0,0
+Bioenergy Power Ownership,Tracker,0,0
+Bioenergy Power Ownership,Status,0,0
+Bioenergy Power Ownership,Capacity (MW),0,0
+Bioenergy Power Ownership,GEM location ID,0,0
+Bioenergy Power Ownership,GEM unit ID,0,0
+Coal Mine Ownership,Parent GEM Entity ID,0,0
+Coal Mine Ownership,Parent,0,0
+Coal Mine Ownership,Parent Registration Country,5375,32.11
+Coal Mine Ownership,Parent Headquarters Country,3835,22.91
+Coal Mine Ownership,Project,0,0
+Coal Mine Ownership,Share,2078,12.42
+Coal Mine Ownership,Ownership Path,0,0
+Coal Mine Ownership,Immediate Project Owner,0,0
+Coal Mine Ownership,Immediate Project Owner GEM Entity ID,0,0
+Coal Mine Ownership,Tracker,0,0
+Coal Mine Ownership,Status,0,0
+Coal Mine Ownership,Capacity (Mtpa),50,0.3
+Coal Mine Ownership,Production (Mtpa),277,1.66
+Coal Mine Ownership,GEM Mine ID,0,0
+Iron Mine Ownership,Parent GEM Entity ID,0,0
+Iron Mine Ownership,Parent,0,0
+Iron Mine Ownership,Parent Registration Country,798,21.46
+Iron Mine Ownership,Parent Headquarters Country,741,19.93
+Iron Mine Ownership,Project,0,0
+Iron Mine Ownership,Share,541,14.55
+Iron Mine Ownership,Ownership Path,0,0
+Iron Mine Ownership,Immediate Project Owner,0,0
+Iron Mine Ownership,Immediate Project Owner GEM Entity ID,0,0
+Iron Mine Ownership,Tracker,0,0
+Iron Mine Ownership,Operating status,0,0
+Iron Mine Ownership,Production 2023 (ttpa),798,21.46
+Iron Mine Ownership,Production 2022 (ttpa),843,22.67
+Iron Mine Ownership,Design capacity (ttpa),0,0
+Iron Mine Ownership,GEM Asset ID,0,0
+Gas Pipeline Ownership,Parent GEM Entity ID,0,0
+Gas Pipeline Ownership,Parent,0,0
+Gas Pipeline Ownership,Parent Registration Country,5870,21.34
+Gas Pipeline Ownership,Parent Headquarters Country,5317,19.33
+Gas Pipeline Ownership,Project,0,0
+Gas Pipeline Ownership,Share,6340,23.05
+Gas Pipeline Ownership,Ownership Path,0,0
+Gas Pipeline Ownership,Immediate Project Owner,0,0
+Gas Pipeline Ownership,Immediate Project Owner GEM Entity ID,0,0
+Gas Pipeline Ownership,Tracker,0,0
+Gas Pipeline Ownership,Status,0,0
+Gas Pipeline Ownership,CapacityBcm/y,0,0
+Gas Pipeline Ownership,CapacityBOEd,0,0
+Gas Pipeline Ownership,ProjectID,0,0
+Oil & NGL Pipeline Ownership,Parent GEM Entity ID,0,0
+Oil & NGL Pipeline Ownership,Parent,0,0
+Oil & NGL Pipeline Ownership,Parent Registration Country,2301,19.57
+Oil & NGL Pipeline Ownership,Parent Headquarters Country,2020,17.18
+Oil & NGL Pipeline Ownership,Project,0,0
+Oil & NGL Pipeline Ownership,Share,3643,30.98
+Oil & NGL Pipeline Ownership,Ownership Path,0,0
+Oil & NGL Pipeline Ownership,Immediate Project Owner,0,0
+Oil & NGL Pipeline Ownership,Immediate Project Owner GEM Entity ID,0,0
+Oil & NGL Pipeline Ownership,Tracker,0,0
+Oil & NGL Pipeline Ownership,Status,1,0.01
+Oil & NGL Pipeline Ownership,CapacityBOEd,0,0
+Oil & NGL Pipeline Ownership,ProjectID,0,0
+Steel Plant Ownership,Parent GEM Entity ID,0,0
+Steel Plant Ownership,Parent,0,0
+Steel Plant Ownership,Parent Registration Country,2472,26.4
+Steel Plant Ownership,Parent Headquarters Country,2249,24.02
+Steel Plant Ownership,Project,0,0
+Steel Plant Ownership,Share,1638,17.49
+Steel Plant Ownership,Ownership Path,0,0
+Steel Plant Ownership,Immediate Project Owner,0,0
+Steel Plant Ownership,Immediate Project Owner GEM Entity ID,0,0
+Steel Plant Ownership,Tracker,0,0
+Steel Plant Ownership,Status,0,0
+Steel Plant Ownership,Nominal crude steel capacity (ttpa),1143,12.21
+Steel Plant Ownership,Nominal iron capacity (ttpa),3920,41.87
+Steel Plant Ownership,Steel Plant ID,0,0
+Cement and Concrete Ownership,Parent GEM Entity ID,0,0
+Cement and Concrete Ownership,Parent,0,0
+Cement and Concrete Ownership,Parent Registration Country,2673,27.83
+Cement and Concrete Ownership,Parent Headquarters Country,2569,26.75
+Cement and Concrete Ownership,Project,0,0
+Cement and Concrete Ownership,Share,2236,23.28
+Cement and Concrete Ownership,Ownership Path,0,0
+Cement and Concrete Ownership,Immediate Project Owner,0,0
+Cement and Concrete Ownership,Immediate Project Owner GEM Entity ID,0,0
+Cement and Concrete Ownership,Tracker,0,0
+Cement and Concrete Ownership,Status,0,0
+Cement and Concrete Ownership,Cement Capacity (millions metric tonnes per annum),36,0.37
+Cement and Concrete Ownership,Clinker Capacity (millions metric tonnes per annum),2864,29.82
+Cement and Concrete Ownership,GEM Plant ID,0,0

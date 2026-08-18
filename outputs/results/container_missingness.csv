@@ -1,0 +1,29 @@
+column,missing_count,missing_percent
+STRUCTURE,0,0
+STRUCTURE_ID,0,0
+STRUCTURE_NAME,0,0
+ACTION,0,0
+REF_AREA,0,0
+Reference area,0,0
+FREQ,0,0
+Frequency of observation,0,0
+MEASURE,0,0
+Measure,0,0
+UNIT_MEASURE,0,0
+Unit of measure,0,0
+TRANSPORT_MODE,0,0
+Transport mode,0,0
+VEHICLE_TYPE,0,0
+Vehicle type,0,0
+INFRASTRUCTURE_TYPE,0,0
+Infrastructure type,0,0
+TIME_PERIOD,0,0
+Time period,624,100
+OBS_VALUE,118,18.91
+Observation value,624,100
+OBS_STATUS,0,0
+Observation status,0,0
+UNIT_MULT,0,0
+Unit multiplier,0,0
+DECIMALS,0,0
+Decimals,0,0
