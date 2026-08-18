@@ -1,0 +1,17 @@
+issue,before,after,action,reason
+row_count,264,264,no_rows_removed,Phase 1 audited 264 physical observations.
+column_count,7,21,retain_all_source_columns_and_add_audit_fields,All seven raw fields are retained; derived audit fields are appended.
+missing_values,0,0,preserve_missingness,No missing source values are replaced or imputed.
+exact_duplicate_groups,1,1,none_removed,Exact duplicate evidence is preserved for provenance.
+duplicate_rows_beyond_first,1,1,none_removed,Rows are not silently deleted.
+duplicate_handling,One exact duplicate group identified in Phase 1,2 rows retained and flagged,retain_and_flag,Available evidence cannot establish that the exact duplicate is accidental.
+date_handling,Raw YYYY/MM/DD labels,Original labels retained; non-converted calendar components added,no_Gregorian_conversion,Installed tools do not safely convert Persian-calendar labels without an established conversion method.
+weight_handling,Origin and destination net-weight text values,Numeric copies retained; raw numerical difference and sign added,no_unit_conversion,Weight unit and physical interpretation are unknown.
+quality_flags,No explicit quality flags,"Duplicate, missing-weight, date-format, date-label-order, and difference-sign flags added",add_nonsemantic_audit_flags,Flags support later filtering without making unsupported physical claims.
+column_name_mapping,Work shift,work_shift,clean_name_and_retain,All source columns are retained in the analysis copy.
+column_name_mapping,Type,type,clean_name_and_retain,All source columns are retained in the analysis copy.
+column_name_mapping,Refinery,refinery,clean_name_and_retain,All source columns are retained in the analysis copy.
+column_name_mapping,Origin Departure Date,origin_departure_date,clean_name_and_retain,All source columns are retained in the analysis copy.
+column_name_mapping,Origin Net Weight,origin_net_weight,clean_name_and_retain,All source columns are retained in the analysis copy.
+column_name_mapping,Destination Arrival Date,destination_arrival_date,clean_name_and_retain,All source columns are retained in the analysis copy.
+column_name_mapping,Destination Net Weight,destination_net_weight,clean_name_and_retain,All source columns are retained in the analysis copy.
