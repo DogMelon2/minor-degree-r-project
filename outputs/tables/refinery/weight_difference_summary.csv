@@ -1,0 +1,2 @@
+observations,non_missing,missing,minimum,q1,median,mean,q3,maximum,standard_deviation,negative_raw_difference_count,zero_raw_difference_count,positive_raw_difference_count
+264,264,0,-510,-40,-20,-8.867424242424242,20,440,86.99963637545802,170,17,77
