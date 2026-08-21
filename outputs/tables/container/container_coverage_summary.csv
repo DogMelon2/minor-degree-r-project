@@ -1,0 +1,50 @@
+ref_area,reference_area,total_records,valid_records,missing_records,coverage_rate_pct,mar_tonnes_valid,mar_tonnes_missing,rail_tonnes_valid,rail_tonnes_missing,mar_teu_valid,mar_teu_missing,rail_teu_valid,rail_teu_missing,coverage_category
+AZE,Azerbaijan,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+BEL,Belgium,8,8,0,100,4,0,0,0,4,0,0,0,Full Coverage (100%)
+BGR,Bulgaria,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+CAN,Canada,12,12,0,100,0,0,4,0,4,0,4,0,Full Coverage (100%)
+CHL,Chile,15,15,0,100,4,0,4,0,4,0,3,0,Full Coverage (100%)
+HRV,Croatia,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+EST,Estonia,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+FIN,Finland,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+FRA,France,12,12,0,100,4,0,4,0,4,0,0,0,Full Coverage (100%)
+GEO,Georgia,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+DEU,Germany,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+GRC,Greece,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+IRL,Ireland,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+ISR,Israel,12,12,0,100,3,0,3,0,3,0,3,0,Full Coverage (100%)
+ITA,Italy,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+JPN,Japan,9,9,0,100,3,0,3,0,3,0,0,0,Full Coverage (100%)
+KAZ,Kazakhstan,4,4,0,100,0,0,0,0,2,0,2,0,Full Coverage (100%)
+KOR,Korea,12,12,0,100,4,0,4,0,4,0,0,0,Full Coverage (100%)
+LVA,Latvia,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+LTU,Lithuania,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+MEX,Mexico,8,8,0,100,4,0,0,0,4,0,0,0,Full Coverage (100%)
+NLD,Netherlands,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+NZL,New Zealand,8,8,0,100,0,0,4,0,4,0,0,0,Full Coverage (100%)
+NOR,Norway,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+POL,Poland,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+PRT,Portugal,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+ROU,Romania,4,4,0,100,1,0,1,0,1,0,1,0,Full Coverage (100%)
+RUS,Russia,6,6,0,100,2,0,2,0,2,0,0,0,Full Coverage (100%)
+SVN,Slovenia,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+ESP,Spain,12,12,0,100,4,0,4,0,4,0,0,0,Full Coverage (100%)
+SWE,Sweden,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+TUR,Türkiye,16,16,0,100,4,0,4,0,4,0,4,0,Full Coverage (100%)
+GBR,United Kingdom,8,8,0,100,4,0,0,0,4,0,0,0,Full Coverage (100%)
+USA,United States,4,4,0,100,0,0,0,0,4,0,0,0,Full Coverage (100%)
+ALB,Albania,16,8,8,50,4,0,0,4,4,0,0,4,Partial Coverage
+AUT,Austria,16,8,8,50,0,4,4,0,0,4,4,0,Partial Coverage
+BLR,Belarus,8,4,4,50,0,2,2,0,0,2,2,0,Partial Coverage
+CZE,Czechia,16,8,8,50,0,4,4,0,0,4,4,0,Partial Coverage
+HUN,Hungary,16,8,8,50,0,4,4,0,0,4,4,0,Partial Coverage
+LUX,Luxembourg,16,8,8,50,0,4,4,0,0,4,4,0,Partial Coverage
+MDA,Moldova,16,8,8,50,0,4,4,0,0,4,4,0,Partial Coverage
+SVK,Slovak Republic,16,8,8,50,0,4,4,0,0,4,4,0,Partial Coverage
+ISL,Iceland,12,4,8,33.3,4,0,0,4,0,0,0,4,Partial Coverage
+CHE,Switzerland,12,4,8,33.3,0,4,4,0,0,4,0,0,Partial Coverage
+ARM,Armenia,8,0,8,0,0,4,0,0,0,4,0,0,Zero Valid Records (100% Missing)
+LIE,Liechtenstein,16,0,16,0,0,4,0,4,0,4,0,4,Zero Valid Records (100% Missing)
+MLT,Malta,2,0,2,0,0,0,0,1,0,0,0,1,Zero Valid Records (100% Missing)
+MKD,North Macedonia,8,0,8,0,0,4,0,0,0,4,0,0,Zero Valid Records (100% Missing)
+SRB,Serbia,8,0,8,0,0,4,0,0,0,4,0,0,Zero Valid Records (100% Missing)
