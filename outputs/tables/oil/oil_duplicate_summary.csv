@@ -1,0 +1,12 @@
+metric,count
+physical_records,2376
+unique_country_product_flow_year_keys,1836
+keys_occurring_once,1296
+repeated_keys,540
+physical_records_in_repeated_keys,1080
+repeated_2021_keys,540
+exact_duplicate_groups,44
+physical_rows_in_exact_duplicate_groups,88
+duplicate_rows_beyond_first,44
+keys_with_1_record,1296
+keys_with_2_records,540
