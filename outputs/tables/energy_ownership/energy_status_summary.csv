@@ -1,0 +1,10 @@
+status,ownership_path_records,distinct_project_ids_represented,valid_reported_capacity_path_records,missing_share_path_records
+operating,9273,1349,7486,2623
+cancelled,861,77,648,373
+proposed,678,114,501,344
+construction,388,83,313,134
+idle,332,16,307,95
+retired,129,23,77,30
+mothballed,61,12,54,28
+shelved,37,10,15,15
+(Missing status),1,1,0,1
