@@ -1,0 +1,25 @@
+original_column_name,cleaned_column_name,original_type,cleaned_type,missing_count,transformation_performed,column_retained,data_quality_notes
+Parent GEM Entity ID,parent_gem_entity_id,character,character,0,Preserved as character; entity ID match/missing flags added,TRUE,0 missing per Phase 1 audit. Matched: 11760; unmatched: 0; blank: 0.
+Parent,parent,character,character,0,Preserved as character; janitor snake_case name applied,TRUE,No anomalies identified in Phase 1 audit.
+Parent Registration Country,parent_registration_country,character,character,2301,Preserved as character; janitor snake_case name applied,TRUE,"2,301 missing (19.57%) per Phase 1 audit. Not an asset location field."
+Parent Headquarters Country,parent_headquarters_country,character,character,2020,Preserved as character; janitor snake_case name applied,TRUE,"2,020 missing (17.18%) per Phase 1 audit. Not an asset location field."
+Project,project,character,character,0,Preserved as character; janitor snake_case name applied,TRUE,No anomalies identified in Phase 1 audit.
+Share,share,character,character,3643,"Converted text to numeric (share_numeric); added share_missing flag; blanks -> NA, never zero",TRUE,"3,643 of 11,760 rows (30.98%) missing per Phase 1 audit. Confirmed: 3643 missing."
+Ownership Path,ownership_path,character,character,0,Preserved as character; janitor snake_case name applied,TRUE,No anomalies identified in Phase 1 audit.
+Immediate Project Owner,immediate_project_owner,character,character,0,Preserved as character; janitor snake_case name applied,TRUE,No anomalies identified in Phase 1 audit.
+Immediate Project Owner GEM Entity ID,immediate_project_owner_gem_entity_id,character,character,0,Preserved as character; entity ID match/missing flags added,TRUE,0 missing per Phase 1 audit. Matched: 11760; unmatched: 0; blank: 0.
+Tracker,tracker,character,character,0,Preserved as character; janitor snake_case name applied,TRUE,No anomalies identified in Phase 1 audit.
+Status,status,character,character,1,Preserved as character; janitor snake_case name applied,TRUE,1 missing value per Phase 1 missingness audit.
+CapacityBOEd,capacity_bo_ed,character,character,0,Converted text to numeric (capacity_boed_numeric); raw string preserved in capacity_boed_raw; placeholders -> NA; added capacity_missing_or_placeholder flag,TRUE,Placeholder '--' and blank strings treated as NA. Total flagged: 2359.
+ProjectID,project_id,character,character,0,Preserved as character; entity ID match/missing flags added,TRUE,0 missing per Phase 1 audit. 1685 distinct project IDs; 1351 projects with >1 ownership-path row. NOT a unique row key.
+share_numeric,share_numeric,(derived),numeric,0,Numeric conversion of Share column,TRUE,3643 NA values; no zero imputation.
+share_missing,share_missing,(derived),logical,0,Flag: Share is NA after conversion,TRUE,3643 TRUE values.
+capacity_boed_raw,capacity_boed_raw,(derived),character,0,Raw text snapshot of CapacityBOEd before any conversion,TRUE,"Retained for provenance; all 11,760 rows populated."
+capacity_boed_numeric,capacity_boed_numeric,(derived),numeric,0,Numeric conversion of CapacityBOEd; NA where placeholder detected,TRUE,2359 NA values; no imputation performed.
+capacity_missing_or_placeholder,capacity_missing_or_placeholder,(derived),logical,0,"Flag: CapacityBOEd was blank, '--', or other non-numeric placeholder",TRUE,2359 flagged rows.
+exact_duplicate_flag,exact_duplicate_flag,(derived),logical,0,Flag: row belongs to an exact-duplicate group (across original 13 cols),TRUE,62 rows flagged across 31 duplicate groups; rows RETAINED and flagged only.
+exact_duplicate_group_size,exact_duplicate_group_size,(derived),integer,0,Size of the exact-duplicate group this row belongs to (1 = unique),TRUE,Group size 1 = unique row.
+parent_entity_id_missing,parent_entity_id_missing,(derived),logical,0,Flag: Parent GEM Entity ID is blank/NA,TRUE,0 blank parent entity IDs.
+parent_entity_id_matched,parent_entity_id_matched,(derived),logical,0,Flag: Parent GEM Entity ID matched to All Entities sheet,TRUE,11760 matched; 0 unmatched.
+imm_owner_entity_id_missing,imm_owner_entity_id_missing,(derived),logical,0,Flag: Immediate Project Owner GEM Entity ID is blank/NA,TRUE,0 blank immediate-owner entity IDs.
+imm_owner_entity_id_matched,imm_owner_entity_id_matched,(derived),logical,0,Flag: Immediate Project Owner GEM Entity ID matched to All Entities sheet,TRUE,11760 matched; 0 unmatched.
