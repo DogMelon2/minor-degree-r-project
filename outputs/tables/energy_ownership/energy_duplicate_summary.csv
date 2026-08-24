@@ -1,0 +1,5 @@
+metric,count
+exact_duplicate_groups,31
+physical_rows_in_exact_duplicate_groups,62
+duplicate_rows_beyond_first,31
+all_ownership_path_records,11760

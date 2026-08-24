@@ -1,0 +1,6 @@
+OBS_STATUS,Observation status,record_count,missing_observation_values,minimum_observation_value,maximum_observation_value
+A,Normal value,492,0,0,40478089
+M,Missing value; data cannot exist,118,118,NA,NA
+P,Provisional value,9,0,492,17122705
+E,Estimated value,4,0,153890,197900
+B,Time series break,1,0,176546,176546

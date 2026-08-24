@@ -1,0 +1,10 @@
+metric,value
+ownership_path_records,11760
+distinct_project_ids,1685
+projects_with_multiple_ownership_paths,1351
+distinct_parent_entities,665
+distinct_immediate_owners,416
+distinct_parent_to_immediate_owner_relationships,2656
+parent_entity_id_match_rate_percent,100
+immediate_owner_entity_id_match_rate_percent,100
+missing_share_path_records,3643

@@ -1,0 +1,89 @@
+"country_name","type","product","flow","year","value","raw_row_number","exact_duplicate_group_size"
+"Australia","Balance","Naphtha","Net Deliveries",2021,0,146,2
+"Australia","Balance","Naphtha","Net Deliveries",2021,0,182,2
+"Belgium","Balance","Crude oil","Industrial Production",2021,0,4,2
+"Belgium","Balance","Crude oil","Industrial Production",2021,0,40,2
+"Denmark","Balance","Naphtha","Net Deliveries",2021,0,152,2
+"Denmark","Balance","Naphtha","Net Deliveries",2021,0,188,2
+"Estonia","Balance","Crude oil","Industrial Production",2021,0,9,2
+"Estonia","Balance","Crude oil","Industrial Production",2021,0,45,2
+"Estonia","Balance","Naphtha","Net Deliveries",2021,0,153,2
+"Estonia","Balance","Naphtha","Net Deliveries",2021,0,189,2
+"Estonia","Balance","Other oil products","Net Deliveries",2021,0,513,2
+"Estonia","Balance","Other oil products","Net Deliveries",2021,0,549,2
+"Finland","Balance","Crude oil","Industrial Production",2021,0,10,2
+"Finland","Balance","Crude oil","Industrial Production",2021,0,46,2
+"Hungary","Balance","Residual fuel oil","Consumption Pattern",2021,31,1022,2
+"Hungary","Balance","Residual fuel oil","Consumption Pattern",2021,31,1058,2
+"Iceland","Balance","Crude oil","Consumption Pattern",2021,0,735,2
+"Iceland","Balance","Crude oil","Consumption Pattern",2021,0,771,2
+"Iceland","Balance","Crude oil","Industrial Production",2021,0,15,2
+"Iceland","Balance","Crude oil","Industrial Production",2021,0,51,2
+"Iceland","Balance","Middle distillates","Consumption Pattern",2021,0,951,2
+"Iceland","Balance","Middle distillates","Consumption Pattern",2021,0,987,2
+"Iceland","Balance","Naphtha","Net Deliveries",2021,0,159,2
+"Iceland","Balance","Naphtha","Net Deliveries",2021,0,195,2
+"Iceland","Balance","Residual fuel oil","Consumption Pattern",2021,0,1023,2
+"Iceland","Balance","Residual fuel oil","Consumption Pattern",2021,0,1059,2
+"Iceland","Balance","Residual fuel oil","Net Deliveries",2021,0,447,2
+"Iceland","Balance","Residual fuel oil","Net Deliveries",2021,0,483,2
+"Iceland","Balance","Total gas oil production","Consumption Pattern",2021,0,879,2
+"Iceland","Balance","Total gas oil production","Consumption Pattern",2021,0,915,2
+"Iceland","Balance","Total oil production","Consumption Pattern",2021,0,663,2
+"Iceland","Balance","Total oil production","Consumption Pattern",2021,0,699,2
+"Iceland","Balance","Total oil products production","Consumption Pattern",2021,0,807,2
+"Iceland","Balance","Total oil products production","Consumption Pattern",2021,0,843,2
+"Ireland","Balance","Crude oil","Industrial Production",2021,0,16,2
+"Ireland","Balance","Crude oil","Industrial Production",2021,0,52,2
+"Israel","Balance","Crude oil","Consumption Pattern",2021,0,737,2
+"Israel","Balance","Crude oil","Consumption Pattern",2021,0,773,2
+"Israel","Balance","Crude oil","Industrial Production",2021,168,17,2
+"Israel","Balance","Crude oil","Industrial Production",2021,168,53,2
+"Israel","Balance","Middle distillates","Consumption Pattern",2021,0,953,2
+"Israel","Balance","Middle distillates","Consumption Pattern",2021,0,989,2
+"Israel","Balance","Residual fuel oil","Consumption Pattern",2021,0,1025,2
+"Israel","Balance","Residual fuel oil","Consumption Pattern",2021,0,1061,2
+"Israel","Balance","Total gas oil production","Consumption Pattern",2021,0,881,2
+"Israel","Balance","Total gas oil production","Consumption Pattern",2021,0,917,2
+"Israel","Balance","Total oil production","Consumption Pattern",2021,0,665,2
+"Israel","Balance","Total oil production","Consumption Pattern",2021,0,701,2
+"Israel","Balance","Total oil products production","Consumption Pattern",2021,0,809,2
+"Israel","Balance","Total oil products production","Consumption Pattern",2021,0,845,2
+"Latvia","Balance","Crude oil","Consumption Pattern",2021,0,741,2
+"Latvia","Balance","Crude oil","Consumption Pattern",2021,0,777,2
+"Latvia","Balance","Crude oil","Industrial Production",2021,0,21,2
+"Latvia","Balance","Crude oil","Industrial Production",2021,0,57,2
+"Latvia","Balance","Naphtha","Net Deliveries",2021,0,165,2
+"Latvia","Balance","Naphtha","Net Deliveries",2021,0,201,2
+"Latvia","Balance","Residual fuel oil","Consumption Pattern",2021,0,1029,2
+"Latvia","Balance","Residual fuel oil","Consumption Pattern",2021,0,1065,2
+"Luxembourg","Balance","Crude oil","Consumption Pattern",2021,0,743,2
+"Luxembourg","Balance","Crude oil","Consumption Pattern",2021,0,779,2
+"Luxembourg","Balance","Crude oil","Industrial Production",2021,0,23,2
+"Luxembourg","Balance","Crude oil","Industrial Production",2021,0,59,2
+"Luxembourg","Balance","Liquified Petroleum Gas","Net Deliveries",2021,0,95,2
+"Luxembourg","Balance","Liquified Petroleum Gas","Net Deliveries",2021,0,131,2
+"Luxembourg","Balance","Naphtha","Net Deliveries",2021,0,167,2
+"Luxembourg","Balance","Naphtha","Net Deliveries",2021,0,203,2
+"Luxembourg","Balance","Residual fuel oil","Consumption Pattern",2021,0,1031,2
+"Luxembourg","Balance","Residual fuel oil","Consumption Pattern",2021,0,1067,2
+"New Zealand","Balance","Naphtha","Net Deliveries",2021,0,171,2
+"New Zealand","Balance","Naphtha","Net Deliveries",2021,0,207,2
+"Norway","Balance","Naphtha","Net Deliveries",2021,0,170,2
+"Norway","Balance","Naphtha","Net Deliveries",2021,0,206,2
+"Portugal","Balance","Crude oil","Industrial Production",2021,0,29,2
+"Portugal","Balance","Crude oil","Industrial Production",2021,0,65,2
+"Slovenia","Balance","Crude oil","Consumption Pattern",2021,0,751,2
+"Slovenia","Balance","Crude oil","Consumption Pattern",2021,0,787,2
+"Slovenia","Balance","Crude oil","Industrial Production",2021,0,31,2
+"Slovenia","Balance","Crude oil","Industrial Production",2021,0,67,2
+"Slovenia","Balance","Naphtha","Net Deliveries",2021,0,175,2
+"Slovenia","Balance","Naphtha","Net Deliveries",2021,0,211,2
+"Slovenia","Balance","Residual fuel oil","Consumption Pattern",2021,0,1039,2
+"Slovenia","Balance","Residual fuel oil","Consumption Pattern",2021,0,1075,2
+"Sweden","Balance","Crude oil","Industrial Production",2021,0,33,2
+"Sweden","Balance","Crude oil","Industrial Production",2021,0,69,2
+"Switzerland","Balance","Crude oil","Industrial Production",2021,0,34,2
+"Switzerland","Balance","Crude oil","Industrial Production",2021,0,70,2
+"Switzerland","Balance","Residual fuel oil","Net Deliveries",2021,0,466,2
+"Switzerland","Balance","Residual fuel oil","Net Deliveries",2021,0,502,2

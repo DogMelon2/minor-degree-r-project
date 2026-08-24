@@ -1,0 +1,6 @@
+obs_status,observation_status,record_count,record_pct,missing_count,valid_count,min_value,max_value,mean_value,median_value,affected_reference_areas_count,affected_reference_areas_list
+A,Normal value,492,78.85,0,492,0,40478089,2081274.774390244,72875,44,Albania; Austria; Azerbaijan; Belarus; Belgium; Bulgaria; Canada; Chile; Croatia; Czechia; Estonia; Finland; France; Georgia; Germany; Greece; Hungary; Iceland; Ireland; Israel; Italy; Japan; Kazakhstan; Korea; Latvia; Lithuania; Luxembourg; Mexico; Moldova; Netherlands; New Zealand; Norway; Poland; Portugal; Romania; Russia; Slovak Republic; Slovenia; Spain; Sweden; Switzerland; Türkiye; United Kingdom; United States
+M,Missing value; data cannot exist,118,18.91,118,0,NA,NA,NA,NA,15,Albania; Armenia; Austria; Belarus; Czechia; Hungary; Iceland; Liechtenstein; Luxembourg; Malta; Moldova; North Macedonia; Serbia; Slovak Republic; Switzerland
+P,Provisional value,9,1.44,0,9,492,17122705,1957885.6666666667,76030,2,Chile; Spain
+E,Estimated value,4,0.64,0,4,153890,197900,177022.75,178150.5,1,Mexico
+B,Time series break,1,0.16,0,1,176546,176546,176546,176546,1,Luxembourg

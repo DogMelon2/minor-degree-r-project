@@ -1,0 +1,3 @@
+weight_variable,observations,non_missing,missing,minimum,q1,median,mean,q3,maximum,standard_deviation
+destination_net_weight,264,264,0,15110,23380,24340,24297.992424242424,25232.5,28720,1536.7266035098062
+origin_net_weight,264,264,0,15050,23295,24380,24306.859848484848,25250,28770,1535.611872964432

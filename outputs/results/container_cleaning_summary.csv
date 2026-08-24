@@ -1,0 +1,38 @@
+issue,before,after,action,reason
+row_count,624,624,no_rows_removed,Phase 1 audit identified 624 raw observations.
+missing_observation_values,118,118,preserve_as_NA,Source status M identifies missing values; they must not become zero.
+exact_duplicate_rows,0,0,none_removed,Phase 1 found no exact duplicates.
+analytical_key_duplicates,0,0,validated_not_removed,REF_AREA + TRANSPORT_MODE + UNIT_MEASURE + TIME_PERIOD remains unique.
+unit_handling,Tonnes and TEU present; OBS_VALUE unchanged,Tonnes and TEU retained separately; UNIT_MULT retained without application,no_unit_conversion_or_multiplier_application,The dataset distinguishes incompatible units and does not document multiplier arithmetic sufficiently.
+removed_metadata_columns,14,14,removed_from_analysis_copy,All 14 fields are constant metadata in this extract.
+removed_empty_descriptive_columns,2,2,removed_from_analysis_copy,Both fields are entirely empty in this extract.
+type_conversions,TIME_PERIOD/OBS_VALUE inferred by import,time_period integer; obs_value numeric; codes/IDs character,explicit_type_conversion,Types are made explicit without changing values.
+quality_flags,No explicit flags,"missing, provisional, estimated, and time-series-break flags added",added_audit_flags,Quality/status information is preserved and made easier to filter.
+column_name_mapping,STRUCTURE,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,STRUCTURE_ID,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,STRUCTURE_NAME,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,ACTION,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,REF_AREA,ref_area,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Reference area,reference_area,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,FREQ,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,Frequency of observation,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,MEASURE,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,Measure,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,UNIT_MEASURE,unit_measure,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Unit of measure,unit_of_measure,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,TRANSPORT_MODE,transport_mode,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Transport mode,transport_mode_2,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,VEHICLE_TYPE,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,Vehicle type,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,INFRASTRUCTURE_TYPE,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,Infrastructure type,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,TIME_PERIOD,time_period,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Time period,removed,remove_from_analysis_copy,Completely empty descriptive field in this raw extract.
+column_name_mapping,OBS_VALUE,obs_value,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Observation value,removed,remove_from_analysis_copy,Completely empty descriptive field in this raw extract.
+column_name_mapping,OBS_STATUS,obs_status,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Observation status,observation_status,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,UNIT_MULT,unit_mult,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,Unit multiplier,unit_multiplier,clean_name_and_retain,"Retained as geographic, transport, unit, time, outcome, status, or quality-flag input."
+column_name_mapping,DECIMALS,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.
+column_name_mapping,Decimals,removed,remove_from_analysis_copy,Constant file metadata; not an analytical variable.

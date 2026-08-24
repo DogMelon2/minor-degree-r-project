@@ -1,0 +1,3 @@
+raw_row_number,Work shift,Type,Refinery,Origin Departure Date,Origin Net Weight,Destination Arrival Date,Destination Net Weight,origin_weight_numeric,destination_weight_numeric,destination_minus_origin,absolute_weight_difference,exact_duplicate_group_size
+79,Night shift,VB,Shiraz,1399/01/25,24520,1399/01/26,24450,24520,24450,-70,70,2
+81,Night shift,VB,Shiraz,1399/01/25,24520,1399/01/26,24450,24520,24450,-70,70,2

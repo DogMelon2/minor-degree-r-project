@@ -1,0 +1,5 @@
+unit_measure,unit_of_measure,transport_mode,transport_mode_2,total_records,valid_records,missing_records,missing_pct,mean_obs_value,median_obs_value,sd_obs_value,iqr_obs_value,min_obs_value,max_obs_value
+T,Tonnes,MAR,Maritime,167,121,46,27.5,69030.80991735538,23115,107857.52172421063,102727,435,575074
+T,Tonnes,RAIL,Rail,152,139,13,8.6,62274.510791366905,4655,297591.2600853379,18400,0,1974278
+TEU,Twenty-foot equivalent units,MAR,Maritime,177,131,46,26,6993175.053435114,3073180,9006108.47511626,9977146,22000,40478089
+TEU,Twenty-foot equivalent units,RAIL,Rail,128,115,13,10.2,951112.8695652174,255412,1581331.468846375,1163697,96,7815751

@@ -1,0 +1,16 @@
+issue,count,description
+rows,624,Physical rows read from the raw CSV.
+columns,28,Visible columns in the raw CSV.
+exact_duplicate_rows,0,Rows beyond the first in exact duplicate groups across all columns.
+exact_duplicate_groups,0,Groups identical across all visible columns.
+unique_reference_areas,49,"Distinct REF_AREA codes; these are reference areas, not necessarily countries."
+year_minimum,2019,Earliest TIME_PERIOD value.
+year_maximum,2022,Latest TIME_PERIOD value.
+transport_modes,2,Distinct TRANSPORT_MODE codes.
+units,2,Distinct UNIT_MEASURE codes; tonnes and TEU remain separate measures.
+unit_multipliers,2,"Distinct UNIT_MULT values; their labels are retained, not interpreted further."
+observation_status_categories,5,Distinct observation-status codes.
+missing_observation_values,118,Blank/NA OBS_VALUE observations.
+observation_value_minimum,0,Minimum observed OBS_VALUE without applying UNIT_MULT.
+observation_value_maximum,40478089,Maximum observed OBS_VALUE without applying UNIT_MULT.
+repeated_analytical_keys,0,Keys repeated for REF_AREA + transport mode + unit + time period.

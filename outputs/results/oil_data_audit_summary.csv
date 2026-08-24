@@ -1,0 +1,8 @@
+"issue","count","description"
+"missing_values",0,"Total blank or NA cells across all visible columns."
+"exact_duplicate_groups",44,"Groups of rows identical across every visible raw column."
+"duplicate_rows_beyond_first",44,"Rows beyond the first row in each exact-duplicate group."
+"conflicting_duplicate_keys",496,"Proposed keys with more than one distinct visible value."
+"repeated_2021_keys",540,"Repeated country-product-flow-year keys labelled as 2021."
+"negative_values",82,"Rows whose visible value is less than zero; meaning is not inferred."
+"zero_values",223,"Rows whose visible value equals zero; meaning is not inferred."
